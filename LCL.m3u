@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Siri4K http://cache.internode.co.in:6081/Siri4K/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/3jhX8a4VS40rxG2DRElPi19CLK32TZ7zyh1RoSTCIT3tFu3Dhw-n0TGIIPNvB0vtuw=w240-h480-rw" group-title="Telugu Local Channel",new tv telugu
 http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu Local Channel",jkc city
