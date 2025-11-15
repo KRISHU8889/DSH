@@ -38,6 +38,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9b93b0f6ce45438f9a66bd75165444c2:5dc0933d2793fe5739f83bfe8f23282a
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="192537" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="SunNxt", Gemini Movies HD
 https://geminimovieshd.akamaized.net/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Siri Digital 4K https://mumbai-edge.smartplaytv.in/Siri4K/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
