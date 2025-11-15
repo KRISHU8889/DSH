@@ -1,5 +1,12 @@
-#EXTM3U                                                              #EXTINF:-1 group-title="Telugu Local3jhX8a4VS40rxG2DRElPi19CLK32TZ7zyh1RoSTCIT3tFu3Dhw-n0TGIIPNvB0vtuw=w240-h480-rw" group-title="Telugu Local Channel",new tv telugu
-http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Star_Maa" group-title="TELUGU", STARMAA HD
+https://delta12tatasky.akamaized.net/out/i/22.mpd?|drmScheme=clearkey&drmLicense=Son-in-law:ZiTXr9wMGcCBpUwk7IfAuw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" group-title="TELUGU", GEMINITV HDm3u8
+https://servertvhub.site/jio/app/ts_live_897.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="TELUGU", ZEECINEMALU
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/master.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/270x152/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="TELUGU", ZEETELUGU
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2                                            
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu Local Channel",jkc city
 https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu Local Channel",Super TV
@@ -721,5 +728,4 @@ https://xtm.8088yyy.workers.dev/474915.m3u8
 https://xtm.8088yyy.workers.dev/474916.m3u8
 #EXTINF:-1 tvg-id="474917" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71591.png" group-title="Telugu Local Channel",4K TELUGU MOVIE 9
 https://xtm.8088yyy.workers.dev/474917.m3u8
-
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Siri Digital 4K https://mumbai-edge.smartplaytv.in/Siri4K/index.m3u8                                             #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Siri4K http://cache.internode.co.in:6081/Siri4K/index.m3u8
