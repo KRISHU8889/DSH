@@ -801,5 +801,6 @@ https://xtm.8088yyy.workers.dev/474916.m3u8
 https://xtm.8088yyy.workers.dev/474917.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Siri Digital 4K https://mumbai-edge.smartplaytv.in/Siri4K/index.m3u8                                                                                          
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e            #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NFOfrThZ01dny_12xCgq7hPmO6noNpTy6A&usqp=CAU" group-title="SPORTS", WILLOW LIVE
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e            
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NFOfrThZ01dny_12xCgq7hPmO6noNpTy6A&usqp=CAU" group-title="SPORTS", WILLOW LIVE
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
