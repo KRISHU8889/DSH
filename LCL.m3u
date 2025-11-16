@@ -50,6 +50,8 @@ https://geminimovieshd.akamaized.net/ec0d4961a002442295f91efc9d675c9d/GeminiMovi
 https://zee5-x-07-special.iptv07india.workers.dev/play?id=0-9-zeetelugu
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383488/channel_list/1170x658withlogo4753e8766d8c4855a3cbeedbf4dea6d0.png" group-title="GK", ZEE CINEMALU SD
 https://live.drmlive-02.workers.dev/zee/9z5383488.m3u8
+#EXTINF:1 tvg-name="ZEE CINEMALU" tvg-id="17" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="GK",ZEE CINEMALU
+https://5hrr.short.gy/zcnmlu_Kashurflix.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
