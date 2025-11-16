@@ -810,3 +810,63 @@ https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-89/ne5u-izq9/chunklist.m3u8
 https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/index2.m3u8?|Cookie=hdntl=exp=1763322006~acl=%2f*~id=88f13348a363ba858ae27a00a261e92e~data=hdntl~hmac=c17e38c996b4c40f5a63b3261dece4b6c201ed0de2a9cba92d2d2b833ea3ce47&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
 #EXTINF:-1 tvg-logo="https://share.google/jpmCajmfe1gxvQqXM" group-title="SPORTS", JIO CCC
 https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1746430813~acl=%2f*~id=458afbc5d190c9e21a1cd35d77198a3b~data=hdntl~hmac=b6ade911e9648a40f821e6a8c0d8c9da28382eb5cc0969453f1388aac02c9ddb&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SLIV", SNY HD
+https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SLIV", SNYSAB HD
+https://sl.vodep39240327.workers.dev/channel/SAB HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SLIV", SNYMRTHI SD
+https://sl.vodep39240327.workers.dev/channel/SONY MARATHI.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SLIV", SNYPAL SD
+https://sl.vodep39240327.workers.dev/channel/SONY PAL.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SLIV", SNYYAY SD
+https://sl.vodep39240327.workers.dev/channel/SONY YAY.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", SNYMAX HD
+https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", SNYMAX SD
+https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SLIV", SNYWAH SD
+https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SLIV", SNYMAX2 SD
+https://sl.vodep39240327.workers.dev/channel/SONY MAX2.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SLIV", SNYBNGLA SD
+https://sl.vodep39240327.workers.dev/channel/SONY AATH.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SLIV", SNYPIX HD
+https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SLIV", SNYTEN1 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 1 HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SLIV", SNYTEN1 SD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SLIV", SNYTEN2 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 2 HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SLIV", SNYTEN2 SD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SLIV", SNYTEN3 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 3 HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SLIV", SNYTEN3 SD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="SLIV", SNYTEN4 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 4 HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="SLIV", SNYTEN4 SD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SLIV", SNYTEN5 HD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SLIV", SNYTEN5 SD
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 5.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SLIV", SNYBBCERTH HD
+https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", DEEWANA HD
+https://tplay.live/originals/deewana/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", Zcafe HD
+http://116.90.120.149:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", &tv
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", TINY POP
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", MBCBLWYD
+http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", KIDDO TV
+https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", D KIDS
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", DISNEY CHANNEL EAST
+http://kstv.us:8080/live/Purn3542/38791114838/40725.ts
