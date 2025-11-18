@@ -67,7 +67,7 @@ https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_
 #KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194337" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" group-title="SunNxt", Gemini Life
 https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
-
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Siri4K http://cache.internode.co.in:6081/Siri4K/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e16421cf7c374c57a8f7e91049f58cd9:b7e01aba2c307b1f05057e91a9d150d2
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194346" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194346/640x360_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg" group-title="SunNxt", Kushi TV
