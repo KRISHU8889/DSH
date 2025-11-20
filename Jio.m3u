@@ -1,10 +1,12 @@
-#EXTM3U.                                            #EXTINF:-1 tvg-id="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Movies",Gemini_Life
+#EXTM3U
+#EXTINF:-1 tvg-id="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Movies",Gemini_Life
 http://servertvhub.site/jio/app/live.php?id=684
 #EXTINF:-1 tvg-id="899" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Movies",Gemini_Movies_HD
-http://servertvhub.site/jio/app/live.php?id=899 #EXTINF:-1 tvg-id="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music",Gemini_Music_HD
-http://servertvhub.site/jio/app/live.php?id=898 #EXTINF:-1 tvg-id="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Entertainment",Gemini_Comedy
+http://servertvhub.site/jio/app/live.php?id=899
+#EXTINF:-1 tvg-id="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music",Gemini_Music_HD
+http://servertvhub.site/jio/app/live.php?id=898 
+#EXTINF:-1 tvg-id="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Entertainment",Gemini_Comedy
 http://servertvhub.site/jio/app/live.php?id=729
-
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business",CNBC_Tv18_Prime_HD
 http://servertvhub.site/jio/app/live.php?id=143
