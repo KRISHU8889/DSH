@@ -1910,3 +1910,21 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 group-title="Zee5" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/640px-Zee5_Official_logo.svg.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png", Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/epic-tv.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Epic TV
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/gubbare-logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Gubbare TV
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/ishara-logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Ishaara TV
+https://epiconvh.s.llnwi.net/ishaara/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/new-show-box-logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Showbox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/nazara-logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Nazara
+https://epiconvh.s.llnwi.net/nazara/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-logo="https://www.epicon.in/assets/img/epicon-logo.png" tvg-logo="https://epicon.in/img/new_filamchi_logo.png" group-title="EpiCon" group-logo="https://www.epicon.in/assets/img/epicon-logo.pngg",Filmachi Bhojpuri
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8                         #EXTINF:-1 tvg-id="" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/vwnnbv.jpeg" group-title="Aastha TV",Aatha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
