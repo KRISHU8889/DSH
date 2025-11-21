@@ -3,6 +3,35 @@
 http://cors.tundracast.com:2000/http://87.255.35.150:18817/.ts
 #EXTINF:1 tvg-name="STARMAA GOLD" tvg-id="StarMaaGold.in@SD" tvg-logo="https://i.imgur.com/8v4JXYu.png" group-title="TELUGU LCL",STARMAA GOLD
 http://cors.tundracast.com:2000/http://87.255.35.150:18815/.ts
+#EXTINF:-1 tvg-id="" tvg-name="Etv" tvg-logo="https://i.ibb.co/pBLMPh3Y/etv.jpg" group-title="Entertainment",E TV
+http://87.255.35.150:18217
+
+#EXTINF:-1 tvg-id="" tvg-name="E Tv Cinema" tvg-logo="https://i.ibb.co/9k2J2FVs/1000150575.png" group-title="Entertainment",E Tv Cinema
+https://d1q7j6ha51ro6f.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/2cc76b3d-b062-421d-9c4e-ae75b3f9b0e3/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Music" tvg-logo="https://i.ibb.co/LKLcfk8/1000150599.png" group-title="Music",Etv Music
+https://cc-szivnms4rlah6.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/6173a07b-668b-457c-b6ef-50c58d2b7991/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="E Tv Plus" tvg-logo="https://i.ibb.co/KczMZfgL/1000150591.png" group-title="Entertainment",E Tv Plus
+https://d27tnkf60df3v4.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/e86f748a-e035-446a-8f6f-902e35faedcf/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="E TV Abhiruchi" tvg-logo="https://i.ibb.co/5hkZ8280/1000150573.png" group-title="Entertainment",E TV Abhiruchi
+https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Andhra" tvg-logo="https://i.ibb.co/SwMX4yLb/1000150593.png" group-title="Entertainment",Etv Andhra
+https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Telangana" tvg-logo="https://i.ibb.co/MxZRmbgQ/1000150603.png" group-title="Entertainment",Etv Telangana
+https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Josh" tvg-logo="https://i.ibb.co/5hxXnn8V/1000150597.png" group-title="Entertainment",Etv Josh
+https://cc-uyh1ow5zouoio.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/be345488-d68c-4928-ab56-33760e506be5/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Comedy" tvg-logo="https://i.ibb.co/8nxc28gY/1000150595.png" group-title="Entertainment",Etv Comedy
+https://cc-wie8j8y69d2uy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/f2f59ff5-3585-4808-b7df-04f7445a7138/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv News" tvg-logo="https://i.ibb.co/JVHqWhW/1000150601.png" group-title="News",Etv News
+https://cc-3448kp65yhc5w.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/e73503ca-8965-4097-96a0-c4ec1a6a1741/2.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
