@@ -1,4 +1,10 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:1 tvg-name="STARMAA MOVIES SD" tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="TELUGU LCL",STARMAA MOVIES SD
+http://cors.tundracast.com:2000/http://87.255.35.150:18817/.ts
+#EXTINF:1 tvg-name="STARMAA GOLD" tvg-id="StarMaaGold.in@SD" tvg-logo="https://i.imgur.com/8v4JXYu.png" group-title="TELUGU LCL",STARMAA GOLD
+http://cors.tundracast.com:2000/http://87.255.35.150:18815/.ts
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/195490/640x360_GeminiTVHDDolbyVision_195490_d3c4ad05-c328-4dac-8636-39885f54d9aa.jpg" group-title="SunNxt", Gemini TV HD - Dolby Vision
