@@ -1,10 +1,15 @@
-#EXTM3U                              
+#EXTM3U               
+#EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Cricket",Willow TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1763967856&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6295631734c6178b05ed0c571770e252               
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Cricket",Willow TV
 https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1763930598&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=9fbb21f7953266f303e7e12a6ee4906f 
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Cricket",Willow TV
 https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1763930819&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=08dd35f72df42b9e3172cba9d106f846
 #EXTINF:-1 tvg-id="f064e069-8861-43d5-ac79-828b029a50a1" tvg-name="Star Sports 1 HD" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports",Star Sports 1 HD
-https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1763930624&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e50f55ae38189a70ba4f2be1825b4d8d
+https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1763930624&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e50f55ae38189a70ba4f2be1825b4d8d 
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Football",T Sports HD
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1763967835&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=a668248de848d799fca8bf2c27ba4c20
+
 #EXTINF:-1 tvg-id="1a9b1673-3098-4451-ac14-28ab9c3b2a3b" tvg-name="Rta sports" tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="Sports",Rta sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
