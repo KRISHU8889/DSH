@@ -1,4 +1,7 @@
-#EXTM3U               
+#EXTM3U       
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdMbMm7k/Round-Photo-Mar022025-000821.png" group-title="SPORTS", JIO SS TELUGU
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/index2.m3u8?|Cookie=hdntl=exp=1764010206~acl=%2f*~id=f07ebb6ed7c96bc591b3e7c7e4b10a67~data=hdntl~hmac=0ffa1a887324e8494639a647890b592ff2e123044f5e9f2bd3a7c0f6752349a9&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Cricket",Willow TV
 https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1763967856&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6295631734c6178b05ed0c571770e252               
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Cricket",Willow TV
