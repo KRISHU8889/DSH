@@ -1900,6 +1900,70 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/master.m3u8
 #EXTINF:-1 group-title="Zee5" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/640px-Zee5_Official_logo.svg.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png", Zee News
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews/default/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="GKK", CNBCTV 18 STOCK
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", CNBCTV AWAZ STOCK
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKk", ZEE NEWS
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE GUJRAT
+https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE DELHI NCR/HR
+https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE 24 TAAS
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE BHARAT
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEEBENGALI NEWS
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEENEWS MP/CG
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE PUNJAB/ HP
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE CHATTISGARH/MP
+https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE BIHAR/JHKND
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE RAJASTHAN
+https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE BUSINESS
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ZEE WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", AAJTAK SD
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKk", TIMES NOW
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", TIMESNOW BHARAT
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", ENTERTAINMENT NOW SWADES
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", MIRROR NOW
+https://d179muqh6u5263.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", NDTVPROFIT PRIME
+https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", NDTV INDIA
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", NDTV MARATHI
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", NDTV MP/CG
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", NDTV RAJASTHAN
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", REPUBLIC TV
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", REPUBLIC BHARAT
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", REPUBLIC KANNADA
+https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", REPUBLICBANGLA NEWS
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", TV9 BHARATVARSH
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GKK", TV9 KANNADA
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 
   
 
