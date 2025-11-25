@@ -3,6 +3,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
 https://shotner.u0k.workers.dev/SkySports1nz.mpd?%7CdrmScheme=clearkey&drmLicense=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc4zi7ZPosBVEKhIJI-RmTdsSUsJcY1uiTiaoWRY-SSxZUcSinvubKSbe&s=10" group-title="SPORTS", WILLOWSPORTS LIVE
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:1 tvg-name="WILLOW@ CBUZZ" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="SPORTS",WILLOW@ CBUZZ
 https://cdn-5e8f9.cdnbreazy.cfd/lchd-willow.m3u8
