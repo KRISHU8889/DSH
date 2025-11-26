@@ -1,4 +1,11 @@
 #EXTM3U       
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", JIO TELUGU HD
+#EXTINF:-1 tvg-id="1112" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ffa1a887324e8494639a647890b592ff2e123044f5e9f2bd3a7c0f6752349a9
+#EXTVLCOPT:https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+#EXTHTTP:Cookie=hdntl=exp=1764010206~acl=%2f*~id=f07ebb6ed7c96bc591b3e7c7e4b10a67~data=hdntl~hmac=0ffa1a887324e8494639a647890b592ff2e123044f5e9f2bd3a7c0f6752349a9:{"cookie":"hdnea=st=1752631861~exp=1752718261~acl=/*~hmac=d69210234976ccacd07f8d35ab
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/index2.m3u8?|Cookie=hdntl=exp=1764010206~acl=%2f*~id=f07ebb6ed7c96bc591b3e7c7e4b10a67~data=hdntl~hmac=0ffa1a887324e8494639a647890b592ff2e123044f5e9f2bd3a7c0f6752349a9
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SPORTSHD LIVE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
