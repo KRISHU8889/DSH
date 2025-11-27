@@ -7,7 +7,120 @@ https://servertvhub.site/jio/app/ts_live_897.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/master.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/270x152/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="TELUGU", ZEETELUGU
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-                                         
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",t sports
+http://roarzone.vercel.app/tsports/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star sports 1
+http://roarzone.vercel.app/starsports1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star sports 2
+http://roarzone.vercel.app/starsports2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",gazi tv
+http://roarzone.vercel.app/gazitv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony ten 1
+http://roarzone.vercel.app/sonyten1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony ten 2
+http://roarzone.vercel.app/sonyten2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony ten 3
+http://roarzone.vercel.app/sonyten3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony six
+http://roarzone.vercel.app/sonysix/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",euro sports
+http://roarzone.vercel.app/eurosports/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ten cricket
+http://roarzone.vercel.app/tencricket/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star sports select 2
+http://roarzone.vercel.app/starsportsselect2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star sports select 1
+http://roarzone.vercel.app/starsportsselect1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",dubai sports
+http://roarzone.vercel.app/dubaisports/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star jalsha
+http://roarzone.vercel.app/starjalsha/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star jalsha movies
+http://roarzone.vercel.app/starjalshamovies/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zee bangla
+http://roarzone.vercel.app/zeebangla/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zee bangla cinema
+http://roarzone.vercel.app/zeebanglacinema/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",colors bangla
+http://roarzone.vercel.app/colorsbangla/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony aath
+http://roarzone.vercel.app/sonyaath/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star gold select
+http://roarzone.vercel.app/stargoldselect/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony tv
+http://roarzone.vercel.app/sonytv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony max
+http://roarzone.vercel.app/sonymax/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony max hd
+http://roarzone.vercel.app/sonymaxhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony max 2
+http://roarzone.vercel.app/sonymax2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",colors
+http://roarzone.vercel.app/colors/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zee tv
+http://roarzone.vercel.app/zeetv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zee cinema
+http://roarzone.vercel.app/zeecinema/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zee action
+http://roarzone.vercel.app/zeeaction/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zee bollywood
+http://roarzone.vercel.app/zeebollywood/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star plus
+http://roarzone.vercel.app/starplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",and tv hd
+http://roarzone.vercel.app/andtvhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",and pictures
+http://roarzone.vercel.app/andpictures/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zee-anmol
+http://roarzone.vercel.app/zee-anmol/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",b4u movies
+http://roarzone.vercel.app/b4umovies/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",gaan bangla
+http://roarzone.vercel.app/gaanbangla/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",9xm
+http://roarzone.vercel.app/9xm/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zing
+http://roarzone.vercel.app/zing/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",b4u music
+http://roarzone.vercel.app/b4umusic/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",discovery hd
+http://roarzone.vercel.app/discoveryhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",discovery science
+http://roarzone.vercel.app/discoveryscience/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",discovery turbo
+http://roarzone.vercel.app/discoveryturbo/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",discovery hd investigation
+http://roarzone.vercel.app/discoveryhdinvestigation/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",cnn
+http://roarzone.vercel.app/cnn/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony bbc earth hd
+http://roarzone.vercel.app/sonybbcearthhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",natgeo
+http://roarzone.vercel.app/natgeo/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",animal planet
+http://roarzone.vercel.app/animalplanet/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",cartoon network
+http://roarzone.vercel.app/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",nick
+http://roarzone.vercel.app/nick/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",pogo
+http://roarzone.vercel.app/pogo/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",discovery kids
+http://roarzone.vercel.app/discoverykids/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony yay
+http://roarzone.vercel.app/sonyyay/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",star movies
+http://roarzone.vercel.app/starmovies/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",zee cafe hd
+http://roarzone.vercel.app/zeecafehd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",sony pix
+http://roarzone.vercel.app/sonypix/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",dw news
+http://roarzone.vercel.app/dwnews/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",al jazeera
+http://roarzone.vercel.app/aljazeera/master.m3u8
+
 #EXTINF:-1 tvg-id="249" tvg-chno="204" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="News", India Today
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
