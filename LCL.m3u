@@ -36,6 +36,40 @@ https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1763967835&u=ef3dd85c-c300-4
 #EXTINF:-1 tvg-id="1a9b1673-3098-4451-ac14-28ab9c3b2a3b" tvg-name="Rta sports" tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="Sports",Rta sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
+
+#EXTINF:1 tvg-name="GEMINITV TP" tvg-id="194396" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="GKS",GEMINITV TP
+https://iptv.bkakshay29.workers.dev/channel?id=20
+#EXTINF:1 tvg-name="ZEETELUGU HDTP" tvg-id="0-9-9z5383485" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="GKS",ZEETELUGU HDTP
+https://iptv.bkakshay29.workers.dev/channel?id=21
+#EXTINF:1 tvg-name="ETV HD" tvg-id="ETVTelugu.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/ETV_old_logo.png" group-title="GKS",ETV HD
+https://iptv.bkakshay29.workers.dev/channel?id=12
+#EXTINF:1 tvg-name="MAAHD TP" tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="GKS",MAAHD TP
+https://iptv.bkakshay29.workers.dev/channel?id=25
+#EXTINF:1 tvg-name="GEMINIMOVIES HD" tvg-id="194384" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg" group-title="GKS",GEMINIMOVIES HD
+https://iptv.bkakshay29.workers.dev/channel?id=27
+#EXTINF:1 tvg-name="MAAMOVIES HDTP" tvg-id="StarMaaMovies.in@HD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="GKS",MAAMOVIES HDTP
+https://iptv.bkakshay29.workers.dev/channel?id=40
+#EXTINF:1 tvg-name="ZEECINEMALU HDTP" tvg-id="0-9-zeecinemalu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" group-title="GKS",ZEECINEMALU HDTP
+https://iptv.bkakshay29.workers.dev/channel?id=41
+#EXTINF:1 tvg-name="ETVCNMLU HDTP" tvg-id="ETVCinema.in@HD" tvg-logo="https://i.imgur.com/iMxePjI.png" group-title="GKS",ETVCNMLU HDTP
+https://iptv.bkakshay29.workers.dev/channel?id=46
+#EXTINF:1 tvg-name="ETVMUSIC" tvg-logo="https://i.ibb.co/LKLcfk8/1000150599.png" group-title="GKS",ETVMUSIC
+https://cc-szivnms4rlah6.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/6173a07b-668b-457c-b6ef-50c58d2b7991/1.m3u8
+#EXTINF:1 tvg-name="STARMAAMUSIC" tvg-id="StarMaaMusic.in@SD" tvg-logo="https://i.imgur.com/vxP9L8p.png" group-title="GKS",STARMAAMUSIC
+https://iptv.bkakshay29.workers.dev/channel?id=57
+#EXTINF:1 tvg-name="RAJMSIC TGU" tvg-id="RajMusixTelugu.in@SD" tvg-logo="https://i.imgur.com/PcU35KQ.png" group-title="GKS",RAJMSIC TGU
+https://iptv.bkakshay29.workers.dev/channel?id=36
+#EXTINF:1 tvg-name="VISSA TV" tvg-id="VissaTV.in@SD" tvg-logo="https://i.imgur.com/aPirjJ2.png" group-title="GKS",VISSA TV
+https://iptv.bkakshay29.workers.dev/channel?id=37
+#EXTINF:1 tvg-name="STARMAA GOLD" tvg-id="StarMaaGold.in@SD" tvg-logo="https://i.imgur.com/8v4JXYu.png" group-title="GKS",STARMAA GOLD
+https://iptv.bkakshay29.workers.dev/channel?id=44
+#EXTINF:1 tvg-name="STUDIO ONE" tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="GKS",STUDIO ONE
+https://cdn-1.pishow.tv/live/276/master.m3u8
+#EXTINF:1 tvg-name="STARSPORTSTELUGU HD" tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://i.imgur.com/gK415D7.png" group-title="GKS",STARSPORTSTELUGU HD
+http://87.255.35.150:18881
+#EXTINF:1 tvg-name="STARSPORTS2 TELUGU" tvg-id="StarSports2.in@HD" tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="GKS",STARSPORTS2 TELUGU
+http://87.255.35.150:18828
+
 #EXTINF:-1 tvg-id="897" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2
