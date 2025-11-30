@@ -28,6 +28,15 @@ https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd|drmScheme=clearkey&drmLicense=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="SPORTS", WILLOW@ CBUZZ
+https://cricket-stream-gamma.vercel.app/api/Fast/willow.m3u8
+#EXTINF:-1 tvg-logo="https://share.google/gBw1476TZ4RQPcgUJ" group-title="SPORTS", TENNIS LIVE
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="upload.wikimedia.org/wikipedia/commons/9/9b/BeIN-Sports-Logo.svg https://share.google/FmtycMYkJkeCkKKvO" group-title="SPORTS", BEINSPORT 1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="upload.wikimedia.org/wikipedia/commons/9/9b/BeIN-Sports-Logo.svg https://share.google/FmtycMYkJkeCkKKvO" group-title="SPORTS", BEINSPORT 2
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png" group-title="SPORTS", FOX501
 https://foxenglish.pages.dev/playlist.m3u8
 
