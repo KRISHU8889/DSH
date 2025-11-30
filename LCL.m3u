@@ -44,6 +44,18 @@ https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd?|drmScheme=clearkey&drmLicense=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ARENA SPORTS
+http://178.23.88.55/Arena_sport/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SPORT1 HD
+http://178.23.88.55/Sport1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", NOVA SPORTS
+http://178.23.88.55/Nova_Sport/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EUROSPORT 2
+http://178.23.88.55/Eurosport_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EUROSPORT 1
+http://178.23.88.55/Eurosport_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", PROSPORTS INTRNL
+https://proshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png" group-title="SPORTS", FOX501
 https://foxenglish.pages.dev/playlist.m3u8
