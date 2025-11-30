@@ -40,6 +40,10 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="upload.wikimedia.org/wikipedia/commons/9/9b/BeIN-Sports-Logo.svg https://share.google/FmtycMYkJkeCkKKvO" group-title="SPORTS", BEINSPORT 2
 https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://share.google/images/83ibWPwaga1SaNOxp" group-title="SPORTS", EUROSPRT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd?|drmScheme=clearkey&drmLicense=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png" group-title="SPORTS", FOX501
 https://foxenglish.pages.dev/playlist.m3u8
