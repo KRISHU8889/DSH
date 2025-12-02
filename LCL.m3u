@@ -32,6 +32,17 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e219f941bc6d683b97257ed706813702:d24fefb64dec7748489ba4e405a2349e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vgokgrmo8o/out/v1/a1a95c0845e64cb58d353437c56b31e8/cenc.mpd?|drmScheme=clearkey&drmLicense=e219f941bc6d683b97257ed706813702:d24fefb64dec7748489ba4e405a2349e
+#EXTM3U
+#EXTINF:1 tvg-name="ZSPORTSZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Zee_Sports.png/revision/latest?cb=20100611194445" group-title="SPORTS",ZSPORTSZ
+https://shotner.u0k.workers.dev/a0wMf2B.m3u8
+#EXTINF:1 tvg-name="SKYSPORTS CRICKET" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png" group-title="SPORTS",SKYSPORTS CRICKET
+http://mohamed-tv4k.xyz:80/play/live.php?mac=00:1A:79:D2:29:E8&stream=303266&extension=m3u8
+#EXTINF:1 tvg-name="STARSPORTS1 HINDI" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="SPORTS",STARSPORTS1 HINDI
+https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:1 tvg-name="WILLOW CBUZZ" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",WILLOW CBUZZ
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+#EXTINF:1 tvg-name="GOLF PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2edtPTyfdBavJUTaQIv9AtwHsl53fYo0Dp3D7wY9qbg&s" group-title="SPORTS",GOLF PLUS
+http://mohamed-tv4k.xyz:80/play/live.php?mac=00:1A:79:D2:29:E8&stream=303267&extension=m3u8
 
 #EXTINF:1 tvg-name="TNT 1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="SPORTS",TNT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
