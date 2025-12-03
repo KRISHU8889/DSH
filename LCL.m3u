@@ -1,4 +1,18 @@
-#EXTM3U      
+#EXTM3U
+#EXTINF:1 tvg-name="GMNITV ARTLHD" tvg-id="194392" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Artel M3u",GMNITV ARTLHD
+http://smurzkse.vpnprime.xyz:900/live/VEWFPR28/GJLJE7Q3/187073.m3u8
+#EXTINF:1 tvg-name="STARMAA ARTLHD" tvg-id="1112" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Artel M3u",STARMAA ARTLHD
+http://smurzkse.vpnprime.xyz:900/live/VEWFPR28/GJLJE7Q3/187129.m3u8
+#EXTINF:1 tvg-name="ZCINMLU ARTLHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" group-title="Artel M3u",ZCINMLU ARTLHD
+http://smurzkse.vpnprime.xyz:900/live/VEWFPR28/GJLJE7Q3/378731.m3u8
+#EXTINF:1 tvg-name="ETV PLUS" tvg-id="ETVPlus.in@HD" tvg-logo="https://i.imgur.com/GYGOWI2.png" group-title="Artel M3u",ETV PLUS
+http://smurzkse.vpnprime.xyz:900/live/VEWFPR28/GJLJE7Q3/187065.m3u8
+#EXTINF:1 tvg-name="STARMAAMVES HDARTL" tvg-id="StarMaaMovies.in@HD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Artel M3u",STARMAAMVES HDARTL
+http://smurzkse.vpnprime.xyz:900/live/VEWFPR28/GJLJE7Q3/187130.m3u8
+#EXTINF:1 tvg-name="STARSPORTS2 HD" tvg-id="StarSports2.in@HD" tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="Artel M3u",STARSPORTS2 HD
+http://smurzkse.vpnprime.xyz:900/live/VEWFPR28/GJLJE7Q3/378740.m3u8
+
+
 #EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)", Astro Cricket HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
