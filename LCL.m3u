@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", PRIME SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1041ea0830c8742e684d4ec3f9736da9:3e380215c387fc0248a0832377e250d9
+https://abc6h2eaaaaaaaamocnpmkqq2iej3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/h94cxgt3vi/out/v1/f2d804f643474cd38839c39cd122cbe6/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=1041ea0830c8742e684d4ec3f9736da9:3e380215c387fc0248a0832377e250d9
 #EXTINF:1 tvg-name="7 SPORTS" tvg-id="24054" tvg-logo="https://en.wikipedia.org/wiki/File:7Sport_logo.jpg" group-title="TTP Dec4",7 SPORTS
 https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-53/c4a5-p6ou/chunklist.m3u8
 #EXTINF:1 tvg-name="STARSPORTS1 HD" tvg-id="669" tvg-logo="STAR SPORTS 1 ENGLISH 4K" group-title="TTP Dec4",STARSPORTS1 HD
