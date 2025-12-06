@@ -1,6 +1,15 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=5903040,AVERAGE-BANDWIDTH=4540800,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d4028,mp4a.40.2"
-/render.m3u8?auth=rxTi329jj3d5wbtl9i6MQhYJKrS9cEKbv5xvVCIJ2fOBtmmznrD-aaPrE7eZytr7lEyt4JHm537KJxJ_umWt6kmJ8H-yU7fxXLAkPTHDKHSm-_lMkqEaRSTvLzh3AoOx48T7YsOR2JaRlgvySsx-zbQnc3RkoSp5ksxpCfbSrQikkmoWm4TOQICer_vKLchv_Mo7z2eBEEpCX8HkqhA67Zve7smE1_mizm5Cr7OjNW436U8wd2Ml0LeJDDREFeFoZDcMJgaQ2DyHIOANAJ48C_RdMR7J3MPJJwOqGrzCuaIFa25Udon3-E4ZSkmk-U7JvSua9A0bfkXo_ac9WLz5EcX48OwFGMZzpazOt8OW_Rd9-MLYMirwOLhG914wVTtTLprvNgXNJJ-aCnJZqQ0l-BkZ2vq9-GdQR2XNI11oZDlciNbblk4JCllxhxOkWF8BpNmYsgRFc5LUZg==&channel_key_id=3392&hdnea=st=1764951339~exp=1765037739~acl=/*~hmac=8edd2d1ead883470d861bcbd03c7e52fbb9ab7a626c468477ee01390094d1896
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9S_vraonbRAZ86H-t_kgpLayIW_qO4GpBVRUXVM4Fw7U31tNiNblujxG&s=10" group-title="SPORTS", FOX501
+https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-139/bx1o-9vac_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", FOX 507
+https://huntsp.webhop.me/fox.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", FOX507 HD
+https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-9/9x53-gewk_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CRICKET GOLD
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", FIFA +
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="7SPORTS.IN" group-title="SPORTS", 7SPORTS
 https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-101/1dql-0t3m_1080p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", PRIME SPORTS
