@@ -263,6 +263,31 @@ https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1763967835&u=ef3dd85c-c300-4
 #EXTINF:-1 tvg-id="1a9b1673-3098-4451-ac14-28ab9c3b2a3b" tvg-name="Rta sports" tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="Sports",Rta sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
+#EXTINF:1 tvg-name="ZEETELUGU HD" tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="ALL KISNA",ZEETELUGU HD
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeetelugu|User-Agent=https://allinonereborn.online/zee/@allinone_reborn.php
+#EXTINF:1 tvg-name="ZEECINEMALU HD" tvg-id="0-9-zeecinemalu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="ALL KISNA",ZEECINEMALU HD
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeecinemalu|User-Agent=https://allinonereborn.online/zee/@allinone_reborn.php
+#EXTINF:1 tvg-name="ZEETELUGU SD" tvg-id="0-9-9z5383485" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg" group-title="ALL KISNA",ZEETELUGU SD
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-9z5383485|User-Agent=https://allinonereborn.online/zee/@allinone_reborn.php
+#EXTINF:1 tvg-name="ZEECINEMALU SD" tvg-id="0-9-9z5383488" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="ALL KISNA",ZEECINEMALU SD
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-9z5383488|User-Agent=https://allinonereborn.online/zee/@allinone_reborn.php
+#EXTINF:1 tvg-name="ZEEACTION" tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/list/1920x1080list109ad06dd3c2485a97dbaddc85d22130.jpg" group-title="ALL KISNA",ZEEACTION
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeeaction|User-Agent=https://allinonereborn.online/zee/@allinone_reborn
+#EXTINF:1 tvg-name="ZEETV HD" tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/list/1920x1080list3424a135de534b88a95bfd69d193ae1c.jpg" group-title="ALL KISNA",ZEETV HD
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeetvhd|User-Agent=https://allinonereborn.online/zee/@allinone_reborn.php
+#EXTINF:1 tvg-name="ZEECINEMA HD" tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/list/1920x1080listb0707389e11d47edb651c329f76a0755.jpg" group-title="ALL KISNA",ZEECINEMA HD
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeecinemahd|User-Agent=https://allinonereborn.online/zee/@allinone_reborn.php
+#EXTINF:1 tvg-name="ZEETALKIES HD" tvg-id="0-9-zeetalkies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg" group-title="ALL KISNA",ZEETALKIES HD
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeetalkies|User-Agent=https://allinonereborn.online/zee/@allinone_reborn.php
+#EXTINF:1 tvg-name="ZEEPOWER" tvg-id="0-9-241" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-241/list/1920x1080listc7e052932e2b437489d2f1e14445c837.jpg" group-title="ALL KISNA",ZEEPOWER
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-241|User-Agent=https://allinonereborn.online/zee/@allinone_reborn.php
+#EXTINF:1 tvg-name="STARMAA hd" tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="ALL KISNA",STARMAA hd
+https://www.redbooks.site/x11.php?id=381117.m3u8
+#EXTINF:1 tvg-name="ZCINEMALU SD" tvg-id="0-9-9z5383488" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="ALL KISNA",ZCINEMALU SD
+https://www.redbooks.site/x11.php?id=381103.m3u8
+#EXTINF:1 tvg-name="STARMAA HDTP2" tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="ALL KISNA",STARMAA HDTP2
+https://www.redbooks.site/x11.php?id=381103.m3u8
+
 
 #EXTINF:1 tvg-name="GEMINITV TP" tvg-id="194396" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="GKS",GEMINITV TP
 https://iptv.bkakshay29.workers.dev/channel?id=20
