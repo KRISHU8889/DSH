@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:1 tvg-name="ATN CRCKT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/ATN_Sports_logo.png" group-title="SPORTS",ATN CRCKT
+http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
+#EXTINF:1 tvg-name="ASTRO CRICKET" tvg-id="Astro_Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmBLA6Fzo7mX1ncvaSm2feNBUvJNMm7zhGFhho9GBCw&s" group-title="SPORTS",ASTRO CRICKET
+https://mini.allinonereborn.fun/tata.php?id=12141
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS", ASTRO CRICKET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
