@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:1 tvg-name="STARSPORTS KHEL" tvg-id="STARSPORTS.IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/StarSports_Khel_logo.png/revision/latest?cb=20250416142617" group-title="SPORTS",STARSPORTS KHEL
+https://mini.allinonereborn.fun/tata.php?id=75313
 #EXTINF:1 tvg-name="ATN CRCKT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/ATN_Sports_logo.png" group-title="SPORTS",ATN CRCKT
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:1 tvg-name="ASTRO CRICKET" tvg-id="Astro_Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmBLA6Fzo7mX1ncvaSm2feNBUvJNMm7zhGFhho9GBCw&s" group-title="SPORTS",ASTRO CRICKET
