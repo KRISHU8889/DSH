@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-type="Entertainment" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD 
+http://103.140.254.2:3500/live/144.m3u8
 #EXTINF:-1 tvg-id="discoveryhdworld" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/discoveryhdworld.png" group-title="Infotainment",Discovery HD World
 http://103.140.254.2:3500/live/463.m3u8
 #EXTINF:-1 tvg-id="1142" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1
