@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="discoveryhdworld" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/discoveryhdworld.png" group-title="Infotainment",Discovery HD World
+http://103.140.254.2:3500/live/481.m3u8
 #EXTINF:-1 tvg-id="1142" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
