@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SkyUHD" tvg-name="Sky Sports NZ 1 4k" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 1 4k
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
+https://dice-live-oc.akamaized.net/hdntl=exp=1766886588~acl=%2f*~id=6b198daa-95fe-4e13-bbbd-418f262f5b5b~data=hdntl,dWlkPTQwMTY0NnxkY2Uuc2t5bnomaXA9NzguMTQzLjIzNS4yMTgmZXhwPTE3NjY4ODY2MTcmZWlkPTIxOTAzNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=74b72e8278afe6144a124189d3327429567f18211245f7834cb1451cb8e87afc/dash/live/2093722/294921-313667/manifest-d.mpd
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-type="Entertainment" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD 
 http://103.140.254.2:3500/live/144.m3u8
 #EXTINF:-1 tvg-id="discoveryhdworld" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/discoveryhdworld.png" group-title="Infotainment",Discovery HD World
