@@ -363,6 +363,19 @@ http://87.255.35.150:18828
 #EXTHTTP:{"cookie":"__hdnea__=st=1764246647~exp=1764333047~acl=/*~hmac=3aba4e99fa5d1b37caeb1b0fe891c07916ebdea504ece5d9a6ebedefd69684f8"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1764246647~exp=1764333047~acl=/*~hmac=3aba4e99fa5d1b37caeb1b0fe891c07916ebdea504ece5d9a6ebedefd69684f8&xxx=%7Ccookie=__hdnea__=st=1764246647~exp=1764333047~acl=/*~hmac=3aba4e99fa5d1b37caeb1b0fe891c07916ebdea504ece5d9a6ebedefd69684f8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU", ZEETELUGU HD
+https://starshare.cx:443/live/Fathima10/Hoosen10/98894.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU", ZEECINEMALU HD
+https://starshare.cx:443/live/Fathima10/Hoosen10/98896.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU", STARMAA HD
+https://starshare.cx:443/live/Fathima10/Hoosen10/98886.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU", STARMAAMVES hd
+https://starshare.cx:443/live/Fathima10/Hoosen10/9015.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhL5mtq/download.png" group-title="TELUGU", ZCINMAHD
+https://starshare.cx:443/live/Fathima10/Hoosen10/9016.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU", ZTELUGU hd
+https://starshare.cx:443/live/Fathima10/Hoosen10/1605.ts
+
 
 
 #EXTINF:1 tvg-name="STARMAA MOVIES SD" tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="TELUGU LCL",STARMAA MOVIES SD
