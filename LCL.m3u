@@ -321,7 +321,12 @@ https://www.redbooks.site/x11.php?id=381117.m3u8
 https://www.redbooks.site/x11.php?id=381103.m3u8
 #EXTINF:1 tvg-name="STARMAA HDTP2" tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="ALL KISNA",STARMAA HDTP2
 https://www.redbooks.site/x11.php?id=381103.m3u8
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/yBY0ZXFZ/zeecinemalu.jpg",Zee Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
 #EXTINF:1 tvg-name="GEMINITV TP" tvg-id="194396" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="GKS",GEMINITV TP
 https://iptv.bkakshay29.workers.dev/channel?id=20
