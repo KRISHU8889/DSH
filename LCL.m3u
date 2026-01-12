@@ -433,7 +433,15 @@ https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6708/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" group-title="TELUGU LCL", ZEETelugu HD
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6713/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", ZEE TELUGU HD
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetelugu
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeetelgu&key
+#EXTINF:-1 tvg-id="Zeetelgu" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Zee-Telugu-Logo-2011.png", Zee Telugu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeetelgu|User-Agent=Denver1769
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/master.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/28270/etv-telugu-320x240.jpg" group-title="ETV Win",ETV Telugu
 https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
