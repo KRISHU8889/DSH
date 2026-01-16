@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CRICBUZZ1" tvg-logo="https://commons.wikimedia.org/wiki/File:Cricbuzz_Logo.png" group-title="CRICKET",CRICBUZZ1
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd?|drmScheme=clearkey&drmLicense=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+#EXTINF:-1 tvg-name="STARSPORTS TELUGU 2HD" tvg-id="StarSports2.in@HD" tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="CRICKET",STARSPORTS TELUGU 2HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/379755.ts
+#EXTINF:-1 tvg-name="STARSPORTS TELUGU 1HD" tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://i.imgur.com/gK415D7.png" group-title="CRICKET",STARSPORTS TELUGU 1HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/177843.ts
+#EXTINF:-1 tvg-name="SKYSPORT 4NZ" tvg-logo="https://logos.fandom.com/wiki/Sky_Sport_4_(New_Zealand)" group-title="CRICKET",SKYSPORT 4NZ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24000.ts
+#EXTINF:-1 tvg-name="SKYSPORT 5NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest?cb=20230830143710" group-title="CRICKET",SKYSPORT 5NZ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24001.ts
+#EXTINF:-1 tvg-name="SKYSPORT 6NZ" group-title="CRICKET",SKYSPORT 6NZ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24002.ts
+#EXTINF:-1 tvg-name="SKYSPORT 7NZ" group-title="CRICKET",SKYSPORT 7NZ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24003.ts
+#EXTINF:-1 tvg-name="SKYSPORT 8NZ" group-title="CRICKET",SKYSPORT 8NZ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24005.ts
+#EXTINF:-1 tvg-name="SKYSPORT 9NZ" group-title="CRICKET",SKYSPORT 9NZ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/308905.ts
+#EXTINF:-1 tvg-name="SKYSPORT CRICKET" group-title="CRICKET",SKYSPORT CRICKET
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23566.ts
+#EXTINF:-1 tvg-name="WILLOWSPORTS LIVE" group-title="CRICKET",WILLOWSPORTS LIVE
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="1111" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Star Maa Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
