@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CRICBUZZ1" tvg-logo="https://commons.wikimedia.org/wiki/File:Cricbuzz_Logo.png" group-title="CRICKET",CRICBUZZ1
-https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd?|drmScheme=clearkey&drmLicense=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
 #EXTINF:-1 tvg-name="STARSPORTS TELUGU 2HD" tvg-id="StarSports2.in@HD" tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="CRICKET",STARSPORTS TELUGU 2HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/379755.ts
 #EXTINF:-1 tvg-name="STARSPORTS TELUGU 1HD" tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://i.imgur.com/gK415D7.png" group-title="CRICKET",STARSPORTS TELUGU 1HD
@@ -21,6 +19,80 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/308905.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23566.ts
 #EXTINF:-1 tvg-name="WILLOWSPORTS LIVE" group-title="CRICKET",WILLOWSPORTS LIVE
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+#EXTINF:-1 tvg-name="CRICBUZZ1" tvg-logo="https://commons.wikimedia.org/wiki/File:Cricbuzz_Logo.png" group-title="CRICKET",CRICBUZZ1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+#EXTINF:-1 tvg-name="CRICBUZZ2" group-title="KITTEN",CRICBUZZ2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+#EXTINF:-1 tvg-name="SANDBRIX LIVE" group-title="KITTEN",SANDBRIX LIVE
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/ZjRUlOhVmZ3vcFFWdyvF3zD04JCq6CsxzCqmpTcfszakNpJtTYSME-F6RENw2jQhuv1o-_1q59yLFp5TKG8T4A/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="SKYSPORT SLCT" group-title="KITTEN",SKYSPORT SLCT
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/34152.ts
+#EXTINF:-1 tvg-name="STEN 1HDTTP" group-title="KITTEN",STEN 1HDTTP
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/154.ts
+#EXTINF:-1 tvg-name="STEN 3HDTTP" group-title="KITTEN",STEN 3HDTTP
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/146.ts
+#EXTINF:-1 tvg-name="FOX 501" group-title="KITTEN",FOX 501
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/415534.ts
+#EXTINF:-1 tvg-name="FOX 503" group-title="KITTEN",FOX 503
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/415536.ts
+#EXTINF:-1 tvg-name="FOX 504" group-title="KITTEN",FOX 504
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/415537.ts
+#EXTINF:-1 tvg-name="FOX+ 505" group-title="KITTEN",FOX+ 505
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/415538.ts
+#EXTINF:-1 tvg-name="FOX 506" group-title="KITTEN",FOX 506
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/415539.ts
+#EXTINF:-1 tvg-name="FOX 507" group-title="KITTEN",FOX 507
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/415540.ts
+#EXTINF:-1 tvg-name="ASTROCRICKET" group-title="KITTEN",ASTROCRICKET
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/143056.ts
+#EXTINF:-1 tvg-name="SKYSPORT NZ1" group-title="KITTEN",SKYSPORT NZ1
+https://sixseven.attitude.my.id/skynz1/index.m3u8
+#EXTINF:-1 tvg-name="SKYSPORT NZ2" group-title="KITTEN",SKYSPORT NZ2
+https://sixseven.attitude.my.id/skynz2/index.m3u8
+#EXTINF:-1 tvg-name="SKYSPORT NZ3" group-title="KITTEN",SKYSPORT NZ3
+https://sixseven.attitude.my.id/skynz3/index.m3u8
+#EXTINF:-1 tvg-name="SKYSPORT NZ4" group-title="KITTEN",SKYSPORT NZ4
+https://sixseven.attitude.my.id/skynz4/index.m3u8
+#EXTINF:-1 tvg-name="SKYSPORT NZ5" group-title="KITTEN",SKYSPORT NZ5
+https://sixseven.attitude.my.id/skynz5/index.m3u8
+#EXTINF:-1 tvg-name="SKYSPORT NZ6" group-title="KITTEN",SKYSPORT NZ6
+https://sixseven.attitude.my.id/skynz6/index.m3u8
+#EXTINF:-1 tvg-name="SKYSPORT NZ7" group-title="KITTEN",SKYSPORT NZ7
+https://sixseven.attitude.my.id/skynz7/index.m3u8
+#EXTINF:-1 tvg-name="SKYSPORT NZ8" group-title="KITTEN",SKYSPORT NZ8
+https://sixseven.attitude.my.id/skynz8/index.m3u8
+#EXTINF:-1 tvg-name="SKYSPORT NZ9" group-title="KITTEN",SKYSPORT NZ9
+https://sixseven.attitude.my.id/skynz9/index.m3u8
+#EXTINF:-1 tvg-name="KAYO SPORTS" group-title="KITTEN",KAYO SPORTS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/415540.ts
+#EXTINF:-1 tvg-name="FOX NEWS" group-title="KITTEN",FOX NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/415541.ts
+#EXTINF:-1 tvg-name="HUBSPRTS 1" group-title="KITTEN",HUBSPRTS 1
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148158.ts
+#EXTINF:-1 tvg-name="HUB PREMIUM3" group-title="KITTEN",HUB PREMIUM3
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148160.ts
+#EXTINF:-1 tvg-name="HUB PREMIUM4" group-title="KITTEN",HUB PREMIUM4
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148161.ts
+#EXTINF:-1 tvg-name="HUB PREMIUM5" group-title="KITTEN",HUB PREMIUM5
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148162.ts
+#EXTINF:-1 tvg-name="HUB PREMIUM6" group-title="KITTEN",HUB PREMIUM6
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148163.ts
+#EXTINF:-1 tvg-name="WPL 2026" group-title="KITTEN",WPL 2026
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 tvg-name="PREMIUM SPORTS 2" group-title="KITTEN",PREMIUM SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-name="USA FOOTBALL" group-title="KITTEN",USA FOOTBALL
+https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_2.m3u8
+#EXTINF:-1 tvg-name="PRIME CRIC" group-title="KITTEN",PRIME CRIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
+https://a140aivottepl-a.akamaihd.net/syd-nitro/live/clients/dash/enc/b5sgygmi5r/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd
 
 #EXTINF:-1 tvg-name="COLORS HD" group-title="GKS",COLORS HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/219.ts
