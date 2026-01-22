@@ -5,6 +5,11 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/379755.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/177843.ts
 #EXTINF:-1 tvg-name="STARSPORTS KHEL" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1275079104623281&tbnid=jqbuDuyTYvHvyM&vet=10CAoQxiAoAmoXChMIuNbyn-SekgMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fjournalismguide%2Fposts%2Fstar-sports-khel-added-on-airtel-dth-at-channel-no307ala-carte-price-1-per-month%2F1275079181289940%2F&docid=9aKPDoH4YQqbXM&w=2048&h=1152&authuser=0&ved=0CAoQxiAoAmoXChMIuNbyn-SekgMVAAAAAB0AAAAAEAc" group-title="KISSU",STARSPORTS KHEL
 http://103.140.254.2:3500/live/1998.m3u8
+#EXTINF:-1 tvg-name="CRICLIFE WOMEN" group-title="KISSU",CRICLIFE WOMEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc5ddd99e3c723bf109a504da715dac:d39d55e9ba386a86641ca9668abf2b0d
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
+
 #EXTINF:-1 tvg-name="SKYSPORT 4NZ" tvg-logo="https://logos.fandom.com/wiki/Sky_Sport_4_(New_Zealand)" group-title="CRICKET",SKYSPORT 4NZ
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24000.ts
 #EXTINF:-1 tvg-name="SKYSPORT 5NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest?cb=20230830143710" group-title="CRICKET",SKYSPORT 5NZ
