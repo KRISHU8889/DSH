@@ -13,6 +13,11 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/Cr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+#EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", Astro Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #EXTINF:-1 tvg-name="SKYSPORT 4NZ" tvg-logo="https://logos.fandom.com/wiki/Sky_Sport_4_(New_Zealand)" group-title="CRICKET",SKYSPORT 4NZ
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24000.ts
 #EXTINF:-1 tvg-name="SKYSPORT 5NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest?cb=20230830143710" group-title="CRICKET",SKYSPORT 5NZ
