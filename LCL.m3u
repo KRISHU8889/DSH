@@ -9,6 +9,10 @@ http://103.140.254.2:3500/live/1998.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc5ddd99e3c723bf109a504da715dac:d39d55e9ba386a86641ca9668abf2b0d
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
+#EXTINF:-1 tvg-name="CRICLIFE HD" group-title="KISSU",CRICLIFE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 #EXTINF:-1 tvg-name="SKYSPORT 4NZ" tvg-logo="https://logos.fandom.com/wiki/Sky_Sport_4_(New_Zealand)" group-title="CRICKET",SKYSPORT 4NZ
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24000.ts
 #EXTINF:-1 tvg-name="SKYSPORT 5NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest?cb=20230830143710" group-title="CRICKET",SKYSPORT 5NZ
