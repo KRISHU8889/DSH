@@ -9,7 +9,6 @@ http://103.140.254.2:3500/live/1998.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc5ddd99e3c723bf109a504da715dac:d39d55e9ba386a86641ca9668abf2b0d
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
-
 #EXTINF:-1 tvg-name="SKYSPORT 4NZ" tvg-logo="https://logos.fandom.com/wiki/Sky_Sport_4_(New_Zealand)" group-title="CRICKET",SKYSPORT 4NZ
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/24000.ts
 #EXTINF:-1 tvg-name="SKYSPORT 5NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest?cb=20230830143710" group-title="CRICKET",SKYSPORT 5NZ
@@ -100,6 +99,10 @@ https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
 https://a140aivottepl-a.akamaihd.net/syd-nitro/live/clients/dash/enc/b5sgygmi5r/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd
+#EXTINF:-1 tvg-name="PRIMEE SPT" group-title="KISSU",PRIMEE SPT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de99eb720c50c99ad6fa4b2c3da0e63a:dc8677948ca8b0402057628fd0cc6700
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash-sd/enc/07br1lmh2q/out/v1/1d7d191bc0104799b75bef47d7414c5b/cenc-sd.mpd
 #EXTINF:0 tvg-name="BOX SportCast Live 5 HD" group-title="Спорт",BOX SportCast Live 5 HD
 http://pl.online24.pm/play/4228/C0D18CDEC14EAF8/video.m3u8
 #EXTINF:0 tvg-name="BOX SportCast Live 6 HD" group-title="Спорт",BOX SportCast Live 6 HD
