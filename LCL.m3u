@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3U#EXTINF:-1 tvg-name="ZEECINEMA HD" group-title="KISSU",ZEECINEMA HD
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-name="MH1 DILSE" group-title="KISSU",MH1 DILSE
+http://103.78.149.54:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-name="STARSPORTS TELUGU 2HD" tvg-id="StarSports2.in@HD" tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="CRICKET",STARSPORTS TELUGU 2HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/379755.ts
 #EXTINF:-1 tvg-name="STARSPORTS TELUGU 1HD" tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://i.imgur.com/gK415D7.png" group-title="CRICKET",STARSPORTS TELUGU 1HD
