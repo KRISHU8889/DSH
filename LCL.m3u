@@ -2798,12 +2798,12 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SLIV", SNYSAB HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SLIV", SNYMRTHI SD
-https://sl.vodep39240327.workers.dev/channel/SONY MARATHI.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009259
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SLIV", SNYPAL SD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009273
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SLIV", SNYYAY SD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971
-#EXTINF:-1 tvg-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971&uid=8004188626&pass=61498d15="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", SNYMAX HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", SNYMAX HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", SNYMAX SD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009249
@@ -2812,7 +2812,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009253
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SLIV", SNYMAX2 SD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000044878
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SLIV", SNYBNGLA SD
-https://sl.vodep39240327.workers.dev/channel/SONY AATH.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009255
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SLIV", SNYPIX HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SLIV", SNYTEN1 HD
