@@ -2794,9 +2794,9 @@ https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/in
 #EXTINF:-1 tvg-logo="https://share.google/jpmCajmfe1gxvQqXM" group-title="SPORTS", JIO CCC
 https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1746430813~acl=%2f*~id=458afbc5d190c9e21a1cd35d77198a3b~data=hdntl~hmac=b6ade911e9648a40f821e6a8c0d8c9da28382eb5cc0969453f1388aac02c9ddb&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SLIV", SNY HD
-https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SLIV", SNYSAB HD
-https://sl.vodep39240327.workers.dev/channel/SAB HD.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SLIV", SNYMRTHI SD
 https://sl.vodep39240327.workers.dev/channel/SONY MARATHI.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SLIV", SNYPAL SD
@@ -2804,9 +2804,9 @@ https://sl.vodep39240327.workers.dev/channel/SONY PAL.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SLIV", SNYYAY SD
 https://sl.vodep39240327.workers.dev/channel/SONY YAY.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", SNYMAX HD
-https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009249
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", SNYMAX SD
-https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SLIV", SNYWAH SD
 https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SLIV", SNYMAX2 SD
