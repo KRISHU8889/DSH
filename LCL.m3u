@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3274" tvg-language="Telugu" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 Telugu HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de&xxx=%7Ccookie=__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de 
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1651" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",Star Sports 1 Telugu
 https://tvstar.top:443/live/0434102149/0434102149/177843.ts
@@ -14,7 +14,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.m
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de&xxx=%7Ccookie=__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de
 
 #EXTINF:-1 tvg-id="3274" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",Star Sports 2 Telugu HD
-https://smart.bengaldigital.live/star-sports-2/tracks-a1/index.fmp4.m3u8
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-language="English" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png", Star Sports 1 HD
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de&xxx=%7Ccookie=__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de
 #EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png", Star Sports 1 Hindi HD
