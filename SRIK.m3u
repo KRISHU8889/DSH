@@ -5,6 +5,12 @@ https://mysouq1.com:443/live/76631957/10205687/177843.ts
 https://mysouq1.com:443/live/76631957/10205687/379755.ts
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR MAA TV HD" tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="TELUGU",Telugu: STAR MAA TV HD
 https://mysouq1.com:443/live/76631957/10205687/168.ts
+#EXTINF:-1 tvg-id="1106" tvg-language="English" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png", Star Sports 1 HD
+https://mysouq1.com:443/live/76631957/10205687/98864.ts
+#EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png", Star Sports 1 Hindi HD
+https://mysouq1.com:443/live/76631957/10205687/98866.ts
+#EXTINF:-1 https://mysouq1.com:443/live/76631957/10205687/98864.ts" tvg-language="English" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png", Star Sports 2 HD
+https://mysouq1.com:443/live/76631957/10205687/98865.ts
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: Gemini_TV_HD" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" group-title="TELUGU",Telugu: Gemini_TV_HD
 https://mysouq1.com:443/live/76631957/10205687/214.ts
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="TELUGU",Telugu: Etv HD
