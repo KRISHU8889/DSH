@@ -34,9 +34,9 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w
 #EXTINF:-1 tvg-id="1106" tvg-language="English" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png", Star Sports 1 HD
 https://mysouq1.com:443/live/76631957/10205687/98864.ts
 #EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png", Star Sports 1 Hindi HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de&xxx=%7Ccookie=__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de
-#EXTINF:-1 tvg-id="1109" tvg-language="English" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png", Star Sports 2 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de&xxx=%7Ccookie=__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de
+https://mysouq1.com:443/live/76631957/10205687/98866.ts
+#EXTINF:-1 https://mysouq1.com:443/live/76631957/10205687/98864.ts" tvg-language="English" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png", Star Sports 2 HD
+https://mysouq1.com:443/live/76631957/10205687/98865.ts
 #EXTINF:-1 tvg-id="1122" tvg-language="Kannada" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2_Kannada.png", Star Sports 2 Kannada
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd?__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de&xxx=%7Ccookie=__hdnea__=st=1771486562~exp=1771572962~acl=/*~hmac=cf2f2e72bbd3a562758cb5cc6fc6e685a169899e366f6b460cd51d2ddf0085de
 #EXTINF:-1 tvg-id="1123" tvg-language="English" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png", Star Sports Select 1
