@@ -145,7 +145,115 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1770147007~exp=1770233407~acl=/*~hmac=79536778c079ff1562d602948ddf2c016a10702337ec231d9d161d96ab35133b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd?__hdnea__=st=1770147007~exp=1770233407~acl=/*~hmac=79536778c079ff1562d602948ddf2c016a10702337ec231d9d161d96ab35133b&xxx=%7Ccookie=__hdnea__=st=1770147007~exp=1770233407~acl=/*~hmac=79536778c079ff1562d602948ddf2c016a10702337ec231d9d161d96ab35133b
-
+#EXTINF:-1 tvg-id="2128" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd?__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e
+#EXTINF:-1 tvg-id="267" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=a39a9699a2e354ce9312d2933d8bf83c&key=4bc2a11372933c408bc27b11d832d836
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="268" group-title="Tarkshya Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=89887cc3539757c4802bb3f4b1bed42f&key=9d02cba14dd041059c40bf3070d7f32e
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="269" group-title="Tarkshya Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini Movies 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=e166773b30c55dd38872ca4d62104729&key=b9bc45e3b1e9fa91ad36243588f80c9e
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="270" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Gemini Music 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=548c049108f95c3b81ea4befee5a3aae&key=5d3e71b422b7cc2f782c87f600e5a5b4
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="271" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=0d0317b57c045842a700483a46f1212e&key=cd9f07a43e89b32bf3af1bfc7e6c84b2
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="2129" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Star Maa Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=516d26778a21587484208637d89ff773:77599313595e70e5903151b0592ffa15
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e
+#EXTINF:-1 tvg-id="2130" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd?__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e
+#EXTINF:-1 tvg-id="240" group-title="Tarkshya Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=5fb661859e145a829c55ce0aefa151f8&key=19f2f9f4ac7ff282d1a23765709d4c3d
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/ETV_Cinema_BTS/output/index.mpd
+#EXTINF:-1 tvg-id="241" group-title="Tarkshya Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png",ETV Cinema 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f7c7f6e353af595794a4fa5314efcf10&key=032763465ca8b2a40e3c57b3f14ed79f
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/ETV_Cinema_HD_BTS/output/index.mpd
+#EXTINF:-1 tvg-id="242" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",ETV 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=9eb457f74abd52ac877e588471d9c723&key=93f624d6175bb1d14a871e4ed12498cf
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/ETV_HD_BTS/output/index.mpd
+#EXTINF:-1 tvg-id="243" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",ETV Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=d5122f0ece815cdaa5e48c15beb16bd7&key=82c26a1d9e5472d441640ecd990fda4c
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/ETV_Life_BTS/output/index.mpd
+#EXTINF:-1 tvg-id="244" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",ETV Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=53ab6e95e4ca56e6ba7cbb5c119a1e45&key=41cf3085f50e8a3fee93e7c97a9a0ec7
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/ETV_Plus_BTS/output/index.mpd
+#EXTINF:-1 tvg-id="245" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png",ETV Plus 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=bf90af0e579b5c4f8d7523af5068ec17&key=a757950fa8c1d7907a94987912b65ea9
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/ETV_Plus_HD_BTS/output/index.mpd
+#EXTINF:-1 tvg-id="246" group-title="Tarkshya News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",ETV Telangana
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=a060dc63facf5702aafde037284ca947&key=d1ae47b54092ab13fb975cbf5e48280a
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/output/index.mpd
+#EXTINF:-1 tvg-id="247" group-title="Tarkshya Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",ETV Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=4af6f84d207d545eaee33cdc08f33358&key=d23c174d5f5725fb44c90eae7061299b
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772742306~exp=1772828706~acl=/*~hmac=ffc9e0ba5a35d894e955180b59621ed9da1268909beb960275bbab2c488b475b" }
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/ETV_Telugu_BTS/output/index.mpd
 #EXTINF:-1 tvg-name="ZEECINEMA HD" group-title="KISSU",ZEECINEMA HD
 http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-name="YRF MUSIC" group-title="GKS",YRF MUSIC
