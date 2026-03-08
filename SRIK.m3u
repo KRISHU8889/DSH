@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1364" group-title="Tarkshya Cricket 4K" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",Star Sports 2 Telugu 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e
+#EXTINF:-1 tvg-id="1364" group-title="Tarkshya Cricket 4K" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",Star Sports 2 Telugu 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e"}
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/index2.m3u8?|Cookie=hdntl=exp=1773046632~acl=%2f*~id=181e2000425492b3649d04d8edd95a17~data=hdntl~hmac=f5ba825856d733875f94fd8635e36107c46cdcd870e35d0d8d5d86e884640c55&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https%3A%2F%2Fwww.hotstar.com&Referer=https%3A%2F%2Fwww.hotstar.com%2F
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title="KashurFlix  T20I World Cup",Star Sports 2 Telugu
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1772770039~acl=%2f*~id=96d78302be6e0908eb4bcbe0610c346b~data=hdntl~hmac=6b589701a382977960ff4022a2aeb1fbec5be7897f9d0d8b96290b7886d42201","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
