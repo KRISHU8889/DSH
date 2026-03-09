@@ -12,18 +12,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 #EXTHTTP:{"cookie":"__hdnea__=st=1772957268~exp=1773043668~acl=/*~hmac=971d306d32227617f1f82c82e2c98d83ee1e722b388847b7ae3758b634694f0d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?__hdnea__=st=1772957268~exp=1773043668~acl=/*~hmac=971d306d32227617f1f82c82e2c98d83ee1e722b388847b7ae3758b634694f0d
 #EXTINF:-1 tvg-id="1358" group-title="Tarkshya Cricket 4K" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",Star Sports 1 Telugu 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e
-
+http://datahub11.com:80/live/P4B9TB9xR8/humongous2tonight/177843.ts
 #EXTINF:-1 tvg-id="1364" group-title="Tarkshya Cricket 4K" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",Star Sports 2 Telugu 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772812837~exp=1772899237~acl=/*~hmac=1e3d64db27de3ccf14b1461c5d2959e54bafcd7519bd3385df89b3c13438078e
+http://datahub11.com:80/live/P4B9TB9xR8/humongous2tonight/379755.ts
 #EXTINF:-1 tvg-id="1364" group-title="Tarkshya Cricket 4K" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",Star Sports 2 Telugu 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
