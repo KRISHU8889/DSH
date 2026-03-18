@@ -313,3 +313,84 @@ https://mysouq1.com:443/live/76631957/10205687/213049.ts
 
 #EXTINF:-1 tvg-id="1123" tvg-language="English" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png", Star Sports Select 1
 https://mysouq1.com:443/live/76631957/10205687/98867.ts
+#EXTINF:-1 tvg-id="1106" group-title="KashurFlix   T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-English 4K
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 tvg-id="1106" group-title="KashurFlix   T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Hindi 4K
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 tvg-id="1106" group-title="KashurFlix   T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Tamil
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
+#EXTINF:-1 tvg-id="1106" group-title="KashurFlix   T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Tamil
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
+#EXTINF:-1 tvg-id="1106" group-title="KashurFlix   T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Haryanvi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
+#EXTINF:-1 tvg-id="1106" group-title="KashurFlix   T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Telugu
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
+#EXTINF:-1 tvg-id="1106" group-title="KashurFlix   T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Kannada
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
+#EXTINF:-1 tvg-id="1106" group-title="KashurFlix   T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Bhojpuri
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title="KashurFlix    T20I World Cup",PRIME HIN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title="KashurFlix    T20I World Cup",PRIME ENG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03018e1facaf7f344fa3d7439c6fc5b2:48a92e8fc0c897a7b23044f4b86e544b
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title="KashurFlix    T20I World Cup",WILLOW ENG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="KashurFlix   T20I World Cup",Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="KashurFlix   T20I World Cup",Star Sports Hindi 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="KashurFlix   T20I World Cup",Star Sports HD2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title="KashurFlix    T20I World Cup",Star Sports 2 Hindi HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title="KashurFlix    T20I World Cup",Star Sports 2 Hindi
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title="KashurFlix    T20I World Cup",Star Sports 2 Telugu
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title="KashurFlix    T20I World Cup",Star Sports 2 Tamil
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTINF:-1 group-title="KashurFlix    T20I World Cup" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",Willow HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTINF:-1 group-title="KashurFlix    T20I World Cup" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",Willow HD 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTINF:-1 tvg-id="1106" tvg-language="English" group-title="KashurFlix    T20I World Cup" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a",Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
+#EXTVLCOPT:http-user-agent=@watch_clarity
+#EXTHTTP:{"cookie":"__hdnea__=st=1773763037~exp=1773849437~acl=/*~hmac=29027351cf587732244b3cb2496c4ce1426023f70eb9ab10625656e84d81b4e1"}
+#EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="KashurFlix    T20I World Cup" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+#EXTVLCOPT:http-user-agent=@watch_clarity
+#EXTHTTP:{"cookie":"__hdnea__=st=1773763037~exp=1773849437~acl=/*~hmac=29027351cf587732244b3cb2496c4ce1426023f70eb9ab10625656e84d81b4e1"}
+#EXTINF:-1 tvg-id="1122" tvg-language="Kannada" group-title="KashurFlix   T20I World Cup" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2_Kannada.png",Star Sports 2 Kannada
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
+#EXTVLCOPT:http-user-agent=@watch_clarity
+#EXTHTTP:{"cookie":"__hdnea__=st=1773763037~exp=1773849437~acl=/*~hmac=29027351cf587732244b3cb2496c4ce1426023f70eb9ab10625656e84d81b4e1"}
+#EXTINF: -1 tvg-id="1301" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TP4K_Thumbnail-v2/TP4K_Thumbnail.png" group-title="KashurFlix   T20I World Cup", Star 4K
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/1199/1752742701199-h" group-title="KashurFlix   Clarity TV | VOOT | Jio Cinema",STAR VIJAY SUPER SINGER
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india/c65ada10b4604667a9cd9495f1387e87/index_7.m3u8
