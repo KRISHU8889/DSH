@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h" group-title="KashurFlix   Clarity TV | VOOT | Jio Cinema",Star Maa Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18b7ece05d094614a3839978b9330000:267ba7674fbd4076bbf797eaa1dd16d0
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773930947~acl=%2f*~id=68c40e6f052c4329bde73bcb976a3f72~data=hdntl~hmac=df248e3d2bc3a42cae58a9a98015909f8e4c889aa5c11980afdaf001bf798bef","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/index.mpd
 #EXTINF:-1 tvg-id="1226" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="JH Sports", Star Sports 2 Hindi HD
 https://denverisalive.github.io/Intro/Cookie/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="Z5 Entertainment", Zee Telugu HD
