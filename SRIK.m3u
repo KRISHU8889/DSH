@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1226" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="JH Sports", Star Sports 2 Hindi HD
+https://denverisalive.github.io/Intro/Cookie/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="Z5 Entertainment", Zee Telugu HD
 https://play.denver69.fun/Play/Z5/Test00/index.m3u8?id=0-9-zeetelugu|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F129.0.0.0%20Safari%2F537.36
 #EXTINF:6.000,
