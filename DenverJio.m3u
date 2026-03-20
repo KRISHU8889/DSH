@@ -1,1 +1,92 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1086" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="2128" group-title="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="1112" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",Zee Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b4d311b26fc558b9374e36156b42b0a:dd0545885892d99fa42c120198faaa94
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTeluguHD_MOB/WDVLive/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="1039" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",ETV Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4af6f84d207d545eaee33cdc08f33358:d23c174d5f5725fb44c90eae7061299b
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telugu_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7 
+#EXTINF:-1 tvg-id="1042" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc160005672554dab9882d0092e0635d:efada6d2baa8b99416f6431e0b0dc19d
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTelugu_MOB/WDVLive/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7 
+#EXTINF:-1 tvg-id="1069" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a39a9699a2e354ce9312d2933d8bf83c:4bc2a11372933c408bc27b11d832d836
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7 
+#EXTINF:-1 tvg-id="1045" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",ETV Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53ab6e95e4ca56e6ba7cbb5c119a1e45:41cf3085f50e8a3fee93e7c97a9a0ec7
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Plus_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7 
+#EXTINF:-1 tvg-id="2129" group-title="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Star Maa Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=516d26778a21587484208637d89ff773:77599313595e70e5903151b0592ffa15
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="2130" group-title="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="1308" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Star Maa Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="1072" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",Vissa TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdb2083e5f075968b35408c161389a4d:d0092468bb835967c469a04ffc1dce71
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vissa_TV_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="1358" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",Star Sports 1 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="1359" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg",Star Sports 1 Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="1364" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",Star Sports 2 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
+#EXTINF:-1 tvg-id="1365" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg",Star Sports 2 Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e38f46718d9d5c40af83095f176ba41e:8836ee0f7377d71c156a139361a45be5
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7"}
+https://jiotvmblive.cdn.jio.com//bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdnea__=st=1773972028~exp=1774058428~acl=/*~hmac=83c6060679749f3c1aeab705c8be7c727495a33949e8c1c803a54f60295ae9c7
 
