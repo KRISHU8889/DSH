@@ -204,7 +204,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="SportStars1.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
+#EXTINF:-1 tvg-id="us" tvg-name="Astro Cricket" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-cricket.webp",Astro Cricket
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=bce6fef13e8671503158723ce23c11fd44eb337c0ce338713c2696a7bb2e9824.1774420925.195abcbd7410fae9efbb72a723be1425.ae3218378f129c0e583e014f3a0acdaa.335f53062e5007cc2ff07a8d28cce0c5&signature=6a232a8fc5796c925b8726e5e1c4b81f220485b6863e45d176d2a4e5040c9699
+#EXTINF:-1 tvg-id="us" tvg-name="Astro Football" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-football.webp",Astro Football
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-astro-football/playlist.m3u8?token=f8d2a9a091cabd5fda2ef7b4144f865e6aa2230cf15a209660bcff5b9e4f7682.1774420926.d8b816157b1d2382d2237662f6bcf00a.050dd904b34715c2410128e6f64445ad.58001b90205ee856b09bddbf5628c214&signature=f036528432bdf6ddf836dcbd2c5321bd73cee1c104410fe398f27a30e496e197
+#EXTINF:-1 tvg-id="us" tvg-name="Astro Premier League" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-premier-league.webp",Astro Premier League
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
