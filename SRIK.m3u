@@ -246,6 +246,9 @@ https://mimipipi22.github.io/logo/offline.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h" group-title="KashurFlix   Clarity TV | VOOT | Jio Cinema",Star Maa Movies
+http://103.229.254.25:7001/play/a0de/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h" group-title="KashurFlix   Clarity TV | VOOT | Jio Cinema",Star Maa Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18b7ece05d094614a3839978b9330000:267ba7674fbd4076bbf797eaa1dd16d0
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
@@ -284,7 +287,7 @@ https://game.denver69.fun/Jtv/OnThat/Jtv.mpd?id=413|User-Agent=Denver1769
 #KODIPROP:inputstream.adaptive.license_key=https://game.denver69.fun/Jtv/key.php?id=414&token=OnThat
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.denver69.fun/Jtv/key.php?id=414&token=OnThat
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver69.fun/Jtv/key.php?id=414
 #EXTINF:-1 tvg-id="1353" group-title="Tarkshya Cricket 4K" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg",Star Sports 2 Hindi 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
