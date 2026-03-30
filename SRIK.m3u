@@ -680,4 +680,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mp
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://live12p.akt.hotstar-cdn.net/cmaf/live/2108399/inallow-ipl-2026/tel/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&cookie=hdntl=exp=1774733408~acl=%2f*~id=2cda5fef548d9a445c3c6908253c265b~data=hdntl~hmac=84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%2713297414%27&EntityType=%27LinearSchedule%27&EntityId=%270fcf2b5d-ea47-4b6a-b19a-3d549442afec%27&Width=1080&Height=608&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27"" group-title="SPORTS", HUBSPRTS 4
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
