@@ -1150,4 +1150,44 @@ https://live12p.akt.hotstar-cdn.net/cmaf/live/2108399/inallow-ipl-2026/tel/15400
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%2713297414%27&EntityType=%27LinearSchedule%27&EntityId=%270fcf2b5d-ea47-4b6a-b19a-3d549442afec%27&Width=1080&Height=608&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27"" group-title="SPORTS", HUBSPRTS 4
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KashurFlix Cricket",1Sports
+https://freelivtv.xyz/oppu/m3u.php?id=167586&e=.m3u8
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="KashurFlix Cricket",Astro Cricket HD
+https://freelivtv.xyz/oppu/m3u.php?id=167581&e=.m3u8
+#EXTINF:-1 tvg-id="ddsports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="KashurFlix Cricket",DD Sports
+https://freelivtv.xyz/oppu/m3u.php?id=167588&e=.m3u8
+#EXTINF:-1 tvg-id="dsport.in" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="KashurFlix Cricket",Eurosport HD
+https://freelivtv.xyz/oppu/m3u.php?id=167585&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="KashurFlix Cricket",JIO Cricket
+https://freelivtv.xyz/oppu/m3u.php?id=206297&e=.m3u8
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="KashurFlix Cricket",Sony Ten 1 HD
+https://freelivtv.xyz/oppu/m3u.php?id=167570&e=.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="KashurFlix Cricket",Sony Ten 2 HD
+https://freelivtv.xyz/oppu/m3u.php?id=167571&e=.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="KashurFlix Cricket",Sony Ten 3 HD
+https://freelivtv.xyz/oppu/m3u.php?id=167572&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="KashurFlix Cricket",Sony Ten 4
+https://freelivtv.xyz/oppu/m3u.php?id=167595&e=.m3u8
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="KashurFlix Cricket",Sony Ten 5
+https://freelivtv.xyz/oppu/m3u.php?id=167580&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="KashurFlix Cricket",Sports 18 ( ) 4K
+https://freelivtv.xyz/oppu/m3u.php?id=382205&e=.m3u8
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="KashurFlix Cricket",Star Sports 1 HD
+https://freelivtv.xyz/oppu/m3u.php?id=167575&e=.m3u8
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="KashurFlix Cricket",Star Sports 1 Hindi
+https://freelivtv.xyz/oppu/m3u.php?id=167573&e=.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="KashurFlix Cricket",Star Sports 2 HD
+https://freelivtv.xyz/oppu/m3u.php?id=167576&e=.m3u8
+#EXTINF:-1 tvg-id="starsports3.in" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="KashurFlix Cricket",Star Sports 3 HD
+https://freelivtv.xyz/oppu/m3u.php?id=167577&e=.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="KashurFlix Cricket",Star Sports Select 1
+https://freelivtv.xyz/oppu/m3u.php?id=167578&e=.m3u8
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="KashurFlix Cricket",Star Sports Select 2
+https://freelivtv.xyz/oppu/m3u.php?id=167579&e=.m3u8
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KashurFlix Cricket",Star Sports Tamil 1
+https://freelivtv.xyz/oppu/m3u.php?id=167574&e=.m3u8
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="KashurFlix Cricket",Willow Cricket HD
+https://freelivtv.xyz/oppu/m3u.php?id=167583&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="KashurFlix Cricket",Willow Xtra
+https://freelivtv.xyz/oppu/m3u.php?id=167582&e=.m3u8
 
