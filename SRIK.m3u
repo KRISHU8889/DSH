@@ -12,8 +12,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 #EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://i.ibb.co/vxXSzvsZ/Picsart-25-02-15-12-56-14-956.png" group-title="Dish TV", Zee Cinemalu SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://i.ibb.co/7NV09vVT/Telegram-Logo-Icon-Messaging-App-86.png",join Now @A8088y
-https://no.com/cd.m3u8
 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Vinodam HD
 https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
