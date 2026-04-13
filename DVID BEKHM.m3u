@@ -1,5 +1,201 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Telugu",Star Maa HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1112.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1112.mpd
 
+#EXTINF:-1 tvg-id="1138" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png" group-title="Telugu",Star Maa
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1138.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1138.mpd
+
+#EXTINF:-1 tvg-id="1354" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" group-title="Telugu",Zee Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1354.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1354.mpd
+
+#EXTINF:-1 tvg-id="638" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png" group-title="Telugu",Zee Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/638.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/638.mpd
+
+#EXTINF:-1 tvg-id="760" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Telugu",Star Maa Movies HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/760.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/760.mpd
+
+#EXTINF:-1 tvg-id="1111" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Telugu",Star Maa Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1111.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1111.mpd
+
+#EXTINF:-1 tvg-id="1137" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Telugu",Star Maa Gold
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1137.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1137.mpd
+
+#EXTINF:-1 tvg-id="1363" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" group-title="Telugu",Zee Cinemalu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1363.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1363.mpd
+
+#EXTINF:-1 tvg-id="413" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemalu.png" group-title="Telugu",Zee Cinemalu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/413.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/413.mpd
+
+#EXTINF:-1 tvg-id="1129" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Telugu",Star Maa Music
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1129.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1129.mpd
+
+#EXTINF:-1 tvg-id="1973" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Telugu",ETV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1973.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1973.mpd
+
+#EXTINF:-1 tvg-id="565" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Telugu",ETV Abhiruchi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/565.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/565.mpd
+
+#EXTINF:-1 tvg-id="614" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="Telugu",ETV Andhra pradesh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/614.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/614.mpd
+
+#EXTINF:-1 tvg-id="1665" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" group-title="Telugu",ETV Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1665.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1665.mpd
+
+#EXTINF:-1 tvg-id="252" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Telugu",ETV Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/252.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/252.mpd
+
+#EXTINF:-1 tvg-id="570" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Telugu",ETV Life
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/570.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/570.mpd
+
+#EXTINF:-1 tvg-id="2956" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" group-title="Telugu",ETV Plus HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/2956.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/2956.mpd
+
+#EXTINF:-1 tvg-id="692" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Telugu",ETV Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/692.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/692.mpd
+
+#EXTINF:-1 tvg-id="630" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="Telugu",ETV Telangana
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/630.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/630.mpd
+
+#EXTINF:-1 tvg-id="629" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Telugu",ETV Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/629.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/629.mpd
+
+#EXTINF:-1 tvg-id="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Telugu",Gemini Comedy
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/729.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/729.mpd
+
+#EXTINF:-1 tvg-id="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Telugu",Gemini Life
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/684.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/684.mpd
+
+#EXTINF:-1 tvg-id="899" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Telugu",Gemini Movies HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/899.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/899.mpd
+
+#EXTINF:-1 tvg-id="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Telugu",Gemini Music HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/898.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/898.mpd
+
+#EXTINF:-1 tvg-id="897" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Telugu",Gemini TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/897.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/897.mpd
+
+#EXTINF:-1 tvg-id="3278" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png" group-title="Telugu",Star Sports 1 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/3278.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/3278.mpd
+
+#EXTINF:-1 tvg-id="1651" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png" group-title="Telugu",Star Sports 1 Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/1651.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/1651.mpd
+
+#EXTINF:-1 tvg-id="3274" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" group-title="Telugu",Star Sports 2 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/3274.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/3274.mpd
+
+#EXTINF:-1 tvg-id="2852" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Telugu",Star Sports 2 Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/2852.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/2852.mpd
+
+#EXTINF:-1 tvg-id="3031" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_News.png" group-title="Telugu",Zee Telugu News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/3031.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/3031.mpd
+
+#EXTINF:-1 tvg-id="3398" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png" group-title="Telugu",Sony LIV Sports 4 Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/3398.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/3398.mpd
+
+#EXTINF:-1 tvg-id="576" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Telugu",Discovery Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/576.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/576.mpd
+
+#EXTINF:-1 tvg-id="832" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="Telugu",10 TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jp.techparag.xyz/832.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jp.techparag.xyz/832.mpd
 #EXTINF:-1 group-title="PBKS VS GT" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7152/1774868187152-i" tvg-id="STAR.SPORTS.1.TAMIL.HD.in" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png" , SS 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jtvp.8088y.workers.dev/ss_1_Tamil_HD.key?token=asdfsdfasdjkasd
