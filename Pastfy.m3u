@@ -83,7 +83,7 @@ https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTINF:-1 channel-id="IN4900001AQ-in" tvg-id="IN4900001AQ" tvg-chno="1095" tvg-name="ETV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png" group-title="ETv",ETV News
 https://jmp2.uk/stvp-IN4900001AQ 
 #EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47688/etv-andhra-pradesh-320x240.jpg" group-title="ETV Win",ETV Andhra Pradesh
-https://d1missilavut3r.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_AP_H264/index.m3u8
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="SunNxt", TV9 Telugu
 https://vg-tv9live.akamaized.net/v1/vglive-sk-121537/main.m3u8 
 
