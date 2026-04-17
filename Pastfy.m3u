@@ -165,3 +165,22 @@ https://notvstream.in/otv/otv/index.m3u8
 https://mumbai-edge.smartplaytv.in/BJTV/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", D4 channel https://sharsolution.in/hls/d4.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1200051642873567375927303.png" group-title="Telugu Local Channel",Praja Tv http://prajatv.mythrimediaindia.com:1935/prajatv/prajatv/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", D4 channel https://sharsolution.in/hls/d4.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1200051642873567375927303.png" group-title="Telugu Local Channel",Praja Tv http://prajatv.mythrimediaindia.com:1935/prajatv/prajatv/index.m3u8 
+#EXTINF:-1 tvg-name="Satya News Tv" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0037188944456085858121867.png",Satya News Tv http://103.146.170.102:1935/satya/satya/chunklist_w1792896619.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Satya HD
+https://vstechs.in/PTP/satya/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", MaaCable http://cache.internode.co.in:6081/MaaCable/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Local TV
+https://mumbai-edge.smartplaytv.in/LocalTVNews/index.m3u8 
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Telugu Local Channel",Mana Telugu TV http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Local News NZ
+https://amigofx.com:1936/localnews/localnews/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Bhavya TV
+http://encode.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Vedha Sri
+https://vstechs.in/PTP/vedha/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Satya Infocus
+https://vstechs.in/PTP/ssp/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SV6 News
+http://cache.internode.co.in:6081/SV6/index.m3u8 
