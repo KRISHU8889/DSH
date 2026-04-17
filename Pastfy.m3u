@@ -55,6 +55,25 @@ https://jmp2.uk/stvp-IN4900002RV
 #KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SunNxt", Gemini Music
 https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://core.freetvindia.com/media/Raj_Musix_telugu.png", Raj Musix Telugu
+https://mumt02.tangotv.in/RAJMUSIXTELUGU/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", BCT Music
+https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", DS 9 Music
+https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Banjara Dolu
+https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Music
+https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Gold
+https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",BCT Keerthana
+http://cache.internode.co.in:6081/BCTKeerthana/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", BCT Classic
+https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", DS 9 Kathalu
+https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Etv Josh" tvg-logo="https://i.ibb.co/5hxXnn8V/1000150597.png" group-title="Entertainment",Etv Josh
 https://cc-uyh1ow5zouoio.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/be345488-d68c-4928-ab56-33760e506be5/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Etv Josh" tvg-logo="https://i.ibb.co/5hxXnn8V/1000150597.png" group-title="Entertainment",Etv Josh
