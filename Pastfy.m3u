@@ -175,6 +175,8 @@ http://cache.internode.co.in:6081/TirumalaHD/index.m3u8
 https://mumbai-edge.smartplaytv.in/DeccanToday/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://play-lh.googleusercontent.com/vpPcyL9kI00SJltI-zSal4eWHEMsJlvdwaMzT2xwEVEFpYPkyCxsCjpCbHzEkX9Vad5str0orgAfLCVl5xTvhQ=w240-h480-rw", Mee TV
 http://meetv.phoenixcreations.online/meetv/meetv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", jkc city 
+https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", 108 TV
 http://live.streamplay.in:1935/108tv/108tv/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Mana Pithapuram
