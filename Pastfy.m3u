@@ -310,3 +310,17 @@ https://sharsolution.in/hls/s9tv/s9tv.m3u8
 http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8 
 #EXTINF: -1 group-title="Telugu Local Channel", Grate Guntur 
 http://cloud.streamplay.in:1935/ggv/ggv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://play-lh.googleusercontent.com/TnmbLO4d5JSQXbrqpDt7q_4Y5VBxwxR4dwi3jv5Sk4qNjDAIG7GoLkwcTo7nlCJ_yA=w240-h480-rw", INB TV 
+https://ace.aplombtv.in/hls/INB/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/clcYvi7r4wVh1C_HRkoXSfBFAAvcUcfQL6I_GRvxLwwQhcT8sMwd_tJss_P203Qutoze=s256-rw" group-title="Telugu Local Channel",SRK City
+https://server.streamwell.in/hls/srkcity.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", srkent
+https://amigofx.com:1936/srkent/srkent/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Prajavani TV
+https://mumbai-edge.smartplaytv.in/Prajavani/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Bbrtv
+http://bbrtv.phoenixcreations.online/bbrtv/bbrtv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", City News Telugu
+https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://play-lh.googleusercontent.com/TgmBIzi0f3S9n5ZixuzXcfx61WqXGouP0KLUtv7QyqtdopgJDXZaphBobwnMcL4jmiI=w240-h480-rw",Neti Sakshyam
+https://cloud.sundaylive.co.in/netisakshyam/netisakshyam/index.m3u8 
