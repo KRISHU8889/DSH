@@ -110,10 +110,14 @@ https://jmp2.uk/stvp-IN4900001AQ
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="SunNxt", TV9 Telugu
 https://vg-tv9live.akamaized.net/v1/vglive-sk-121537/main.m3u8 
-#EXTINF:-1 tvg-name="MA Telanagana Tv" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png",MA Telagana Tv http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="Telugu Local Channel",Siti Channel https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8 
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl karimnagar http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8 
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl nizambad http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8 
+#EXTINF:-1 tvg-name="MA Telanagana Tv" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png",MA Telagana Tv
+http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="Telugu Local Channel",Siti Channel 
+https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl karimnagar 
+http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl nizambad 
+http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1216086344639422630948665.png" group-title="Telugu Local Channel",Sity CCC Tv http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Ux5hUD3G0CqgjYzLusscYCzBsbKWepCkhArK1-4-LUFlGxE2yFfLda_SyRE5wI3E2Kn-VnNwHg=s900-c-k-c0x00ffffff-no-rj" group-title="Telugu Local Channel",SLN News https://vvsolutions-server11.in/slnnews_2/video.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Akshara News
@@ -217,12 +221,20 @@ https://cloudwire.in/ibtv/playlist.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", amma news http://cloud.streamplay.in:1935/ammanews/ammanews/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Bahujana News TV
 https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8 
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Kathalu http://cache.internode.co.in:6081/SSLCKathalu/index.m3u8 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SVC http://cache.internode.co.in:6081/SVC/index.m3u8
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Kathalu http://cache.internode.co.in:6081/SSLCKathalu/index.m3u8 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SVC
+http://cache.internode.co.in:6081/SVC/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",NSR News http://telugusolutions.com:8088/nsrnews/nsrnews.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",N24 News Telugu
 https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8 
- #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Gold http://cache.internode.co.in:6081/SSLCGold/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Gold http://cache.internode.co.in:6081/SSLCGold/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Cinemalu http://cache.internode.co.in:6081/SSLCCinemalu/index.m3u8
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", BCT Classic http://cache.internode.co.in:6081/BCTClassic/index.m3u8
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC2 Cinemalu http://cache.internode.co.in:6081/SSLC2Cinemalu/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Multiplex http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Gold http://cache.internode.co.in:6081/SSLCGold/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Cinemalu http://cache.internode.co.in:6081/SSLCCinemalu/index.m3u8
  #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", BCT Classic http://cache.internode.co.in:6081/BCTClassic/index.m3u8
  #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC2 Cinemalu http://cache.internode.co.in:6081/SSLC2Cinemalu/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Multiplex http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_me77pNVxS6jQCWDKnVPzo7RpY923CWxPdQEPvfWplnrYk=s900-c-k-c0x00ffffff-no-rj" group-title="Telugu Local Channel",Tv8 h
+ttps://vvsolutions.in/tv8news/tv8news.m3u8 
