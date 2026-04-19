@@ -85,7 +85,7 @@ https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_
 #EXTINF:-1 tvg-id="" tvg-name="Etv Comedy" tvg-logo="https://i.ibb.co/8nxc28gY/1000150595.png" group-title="Entertainment",Etv Comedy
 https://cc-wie8j8y69d2uy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/f2f59ff5-3585-4808-b7df-04f7445a7138/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Etv Comedy" tvg-logo="https://i.ibb.co/8nxc28gY/1000150595.png" group-title="Entertainment",Etv Comedy
-https://jmp2.uk/stvp-IN4900003U3 
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/89802/etv-plus-320x240.jpg" group-title="ETV Win",ETV Plus
 https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47283/etv-life-320x240.jpg" group-title="ETV Win",ETV Life
@@ -100,8 +100,6 @@ https://livestream.sunnxt.com/b24f908d8104462db019c91dac6512a3/KushiTV_IN_index.
 #EXTINF:-1 tvg-id="" tvg-name="Etv Telangana" tvg-logo="https://i.ibb.co/MxZRmbgQ/1000150603.png" group-title="Entertainment",Etv Telangana
 https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", HMTV http://cache.internode.co.in:6081/HMTV/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Etv News" tvg-logo="https://i.ibb.co/JVHqWhW/1000150601.png" group-title="News",Etv News
-https://cc-3448kp65yhc5w.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/e73503ca-8965-4097-96a0-c4ec1a6a1741/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Etv Andhra" tvg-logo="https://i.ibb.co/SwMX4yLb/1000150593.png" group-title="Entertainment",Etv Andhra
 https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVNews.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png" group-title="News",ETV News (1080p)
