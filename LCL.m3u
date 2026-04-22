@@ -1,4 +1,8 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3NGYOppOQ--jIbWVlJUkOw:ZiTXr9wMGcCBpUwk7IfAuw
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Star_Maa#2020%E2%80%93present" group-title="Entertainment", Star Maa
+https://delta12tatasky.akamaized.net/out/i/22.mpd?
 #EXTINF:-1 tvg-id="1112" tvg-language="Telugu" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
