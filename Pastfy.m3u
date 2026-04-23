@@ -81,6 +81,14 @@ http://cache.internode.co.in:6081/BCTKeerthana/index.m3u8
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", DS 9 Kathalu
 https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8 
+#EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + (720p)
+https://cdn-1.pishow.tv/live/276/master.m3u8
+#EXTINF:-1 tvg-id="StudioYuva.in@SD" tvg-logo="https://i.imgur.com/BOhgz2T.png" group-title="Entertainment",Studio Yuva (576p)
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
+#EXTINF:-1 tvg-id="TeluguOne.in@HD" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TeluguOne/teluguone_logo_resized_400x200.png" group-title="Entertainment",Telugu One (1080p)
+https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+#EXTINF:-1 tvg-id="TollyTV.in@HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" group-title="Movies",Tolly TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png" group-title="Entertainment",ETV Josh (1080p)
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -391,6 +399,4 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.fmp4.m3u8
 https://d116gfrn8orazi.cloudfront.net/index_3.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Big TV 
 https://cdn-1.pishow.tv/live/1059/master.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=22&key 
-#EXTINF:-1 tvg-id=ts22 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52679-k7zx7qqg-v1/imageContent-52679-k7zx7qqg-m2.png" group-title="Tata Sky",News World India 
-http://rftv.wtf/tp/rjiptv.mpd?contentID=22
+
