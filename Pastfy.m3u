@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA CRICKET",CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ
-http://datahub11.com:80/live/Jen12345/Jen54321/177843..ts
-#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA CRICKET",CRIC || STAR SPORTS 2 TELUGU ⁴ᵏ
-http://datahub11.com:80/live/Jen12345/Jen54321/379755..ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
+http://datahub11.com:80/live/Jen12345/Jen54321/177843..ts 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRYHEMQYeLXCmJWYTlvStaNJ56XFm2tZeWlFuzJZPHtsUgeGkrfy2iTs&s=10" group-title="SPORTS", STAR 4K
+http://datahub11.com:80/live/Jen12345/Jen54321/333368..ts 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" group-title="SPORTS", STAR SPORTS 2 TELUGU HD
+http://datahub11.com:80/live/Jen12345/Jen54321/379755..ts 
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
+https://ott1.co:443/live/Jen12345/Jen54321/177843.ts 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRYHEMQYeLXCmJWYTlvStaNJ56XFm2tZeWlFuzJZPHtsUgeGkrfy2iTs&s=10" group-title="SPORTS", STAR 4K2
+https://ott1.co:443/live/Jen12345/Jen54321/333368.ts 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" group-title="SPORTS", STAR SPORTS 2 TELUGU HD
+https://ott1.co:443/live/Jen12345/Jen54321/379755.ts 
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Telugu HD (1080p)
 https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
