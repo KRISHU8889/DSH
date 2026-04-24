@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA CRICKET",CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ
+http://datahub11.com:80/live/Jen12345/Jen54321/177843..ts
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA CRICKET",CRIC || STAR SPORTS 2 TELUGU ⁴ᵏ
+http://datahub11.com:80/live/Jen12345/Jen54321/379755..ts
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Telugu HD (1080p)
 https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
