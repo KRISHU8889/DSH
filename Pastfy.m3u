@@ -254,6 +254,8 @@ https://mumbai-edge.smartplaytv.in/DeccanToday/index.m3u8
 http://meetv.phoenixcreations.online/meetv/meetv/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", jkc city 
 https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLIV", PRME1TELUGU
+http://live.streamplay.in:1935/prime1/prime1/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", 108 TV
 http://live.streamplay.in:1935/108tv/108tv/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Mana Pithapuram
@@ -778,4 +780,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports SD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="290" tvg-chno="264" tvg-name="cricket-gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png" group-title="YuppTV", Cricket Gold
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 
