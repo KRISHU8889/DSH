@@ -440,6 +440,8 @@ https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
 https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Swatantra TV
 http://cache.internode.co.in:6081/SwatantraTV/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Prime one news
+http://live.streamplay.in:1935/prime1/prime1/playlist.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Prime9 News
 http://cache.internode.co.in:6081/Prime9News/index.m3u8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
