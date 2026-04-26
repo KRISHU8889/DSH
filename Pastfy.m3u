@@ -88,6 +88,8 @@ https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Banjara Dolu
 https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Akshara Banjara
+https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Music
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Gold
