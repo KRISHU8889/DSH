@@ -212,7 +212,7 @@ http://cnews.phoenixcreations.online/cnews/cnews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Brathakamma TV" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1220499209804691025194805.png",Brathakamma TV 
 http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="GK", RAPID MEDIA
-http://cache.internode.co.in:6081/RapidMedia/index.m3u8
+https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png" group-title="Telugu Local Channel",Vihari Tv
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8 
 #EXTINF:-1 tvg-name="Samskuruthi TV" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png",Samskuruthi TV http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8 
