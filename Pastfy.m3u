@@ -345,12 +345,16 @@ http://cloud.streamplay.in:1935/ggv/ggv/playlist.m3u8
 https://server.streamwell.in/hls/srkcity.m3u8
 #EXTINF:-1 tvg-name="Telugu Tv" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1213365139434579521226748.png",Telugu TV 
 http://live.streamplay.in:1935/telugutv/telugutv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", AWAAZNEWS
+http://cache.internode.co.in:6081/AWAAZNEWS/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", 2Telugu 
 http://cache.internode.co.in:6081/2Telugu/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png" group-title="Telugu Local Channel",Vihari Tv 
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8  
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", 4 sides tv 
 https://mars.streambridge.cloud/4sidestv/telugu/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", RK Bhathi
+https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", amma news 
 http://cloud.streamplay.in:1935/ammanews/ammanews/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Bahujana News TV
