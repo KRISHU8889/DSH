@@ -79,7 +79,8 @@ https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SunNxt", Gemini Music
 https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://core.freetvindia.com/media/Raj_Musix_telugu.png", Raj Musix Telugu
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music
+http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://core.freetvindia.com/media/Raj_Musix_telugu.png", Raj Musix Telugu
 https://mumt02.tangotv.in/RAJMUSIXTELUGU/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", BCT Music
@@ -250,6 +251,8 @@ http://cloud.streamplay.in:1935/tmc/tmc/playlist.m3u8
 https://mumt02.tangotv.in/MOJOTV/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240626_1100186484765975964086454.png" group-title="Telugu Local Channel",PCN HD 
 https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", V5 News
+http://cloud.streamplay.in:1935/v5news/v5news/playlist.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Saaksyam TV
 https://live.kpsnetwork.in/kps/kps/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", TirumalaHD
