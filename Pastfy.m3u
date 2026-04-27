@@ -80,9 +80,13 @@ https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SunNxt", Gemini Music
 https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music
-http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://core.freetvindia.com/media/Raj_Musix_telugu.png", Raj Musix Telugu
+http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu Local Channel",Masti Music
+http://cache.internode.co.in:6081/MastiMusic/index.m3u8
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://core.freetvindia.com/media/Raj_Musix_telugu.png", Raj Musix Telugu
 https://mumt02.tangotv.in/RAJMUSIXTELUGU/index.m3u8 
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music 
+http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", BCT Music
 https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", DS 9 Music
@@ -368,6 +372,8 @@ https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8
 http://cache.internode.co.in:6081/SSLCKathalu/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SVC
 http://cache.internode.co.in:6081/SVC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu Local Channel",MTV
+http://cache.internode.co.in:6081/MTV/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",NSR News 
 http://telugusolutions.com:8088/nsrnews/nsrnews.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",N24 News Telugu
