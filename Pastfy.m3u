@@ -358,6 +358,8 @@ http://live.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 http://cache.internode.co.in:6081/AWAAZNEWS/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", 2Telugu 
 http://cache.internode.co.in:6081/2Telugu/index.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",VRM Media
+https://mumbai-edge.smartplaytv.in/VRMMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png" group-title="Telugu Local Channel",Vihari Tv 
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8  
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", 4 sides tv 
@@ -412,6 +414,8 @@ https://publictvtelugu.co.in/publictv_1/video.m3u8
 https://streaming.livebox.co.in/vedhikahls/live.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1051442084278202918846578.png" group-title="Telugu Local Channel",S9 Channel 
 https://sharsolution.in/hls/s9tv/s9tv.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",I View News Telugu
+https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", tr9 tv
 http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8 
 #EXTINF: -1 group-title="Telugu Local Channel", Grate Guntur 
