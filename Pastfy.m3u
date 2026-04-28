@@ -480,6 +480,8 @@ https://login.bheem.tv/bpk-tv/22302/output/index.mpd
 https://login.bheem.tv/bpk-tv/22301/output/index.mpd
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Studio Yuva
 https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/chunks.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Mana TV HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/manatv/master/chunklist.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Mana tv2
 https://manatv.akamaized.net/120723/smil:manatv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Mana tv international
