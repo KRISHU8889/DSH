@@ -325,6 +325,9 @@ https://bravo.player0003.com/hls/superspaction.m3u8?md6=uOYedHsh-UZOxCkhLhPk5w&e
 https://bravo.player0003.com/hls/supergs.m3u8?md6=4m_2U8qsxE1OhaMj5wLGXA&expires=1763836415&s=MTcyLjIxNS4yMDkuOTg=
 
 #EXTINF:-1 tvg-id="btsp1" tvg-name="TNT Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png" group-title="CricHD-v2",TNT Sports 1
+http://27.124.71.27/TNT_Sports_1/index.m3u8
+
+
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://bravo.player0003.com/hls/bbtsop1.m3u8?md6=XbeXEuQ6WpjIYBHtb76ICw&expires=1763836415&s=MTcyLjIxNS4yMDkuOTg=
