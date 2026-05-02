@@ -240,6 +240,7 @@ https://bravo.player0003.com/hls/tenspk.m3u8?md6=LPB1y3TVxocbREqhmO8ehA&expires=
 https://bravo.player0003.com/hls/geosp.m3u8?md6=kpkudgYt-sOoI9mUJQINzw&expires=1763836412&s=MTcyLjIxNS4yMDkuOTg=
 
 #EXTINF:-1 tvg-id="astrocric" tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png" group-title="CricHD-v2",Astro Cricket
+
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://bravo.player0003.com/hls/astrocric.m3u8?md6=6sChnHi3-Kl01Rw9uIy0Tw&expires=1763836412&s=MTcyLjIxNS4yMDkuOTg=
@@ -333,16 +334,19 @@ http://27.124.71.27/TNT_Sports_1/index.m3u8
 https://bravo.player0003.com/hls/bbtsop1.m3u8?md6=XbeXEuQ6WpjIYBHtb76ICw&expires=1763836415&s=MTcyLjIxNS4yMDkuOTg=
 
 #EXTINF:-1 tvg-id="btsp2" tvg-name="TNT Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="CricHD-v2",TNT Sports 2
+http://27.124.71.27/TNT_Sports_2/index.m3u8
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://bravo.player0003.com/hls/bbtsop2.m3u8?md6=oW6HBVKT7JYy17K29uRZvQ&expires=1763836415&s=MTcyLjIxNS4yMDkuOTg=
 
 #EXTINF:-1 tvg-id="btsp3" tvg-name="TNT Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png" group-title="CricHD-v2",TNT Sports 3
+http://27.124.71.27/TNT_Sports_3/index.m3u8
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://bravo.player0003.com/hls/bbtsop3.m3u8?md6=16xEUsGYNmd_7MAEFgX9Mg&expires=1763836415&s=MTcyLjIxNS4yMDkuOTg=
 
 #EXTINF:-1 tvg-id="btespn" tvg-name="TNT Sports 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png" group-title="CricHD-v2",TNT Sports 4
+http://27.124.71.27/TNT_Sports_4/index.m3u8
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://bravo.player0003.com/hls/bbtsop4.m3u8?md6=NE4Y2n_fnDHHztY16R194Q&expires=1763836416&s=MTcyLjIxNS4yMDkuOTg=
