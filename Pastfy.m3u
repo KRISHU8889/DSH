@@ -12,7 +12,7 @@ https://ott1.co:443/live/Jen12345/Jen54321/333368.ts
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" group-title="SPORTS", STAR SPORTS 2 TELUGU HD
 https://ott1.co:443/live/Jen12345/Jen54321/379755.ts 
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Telugu HD (1080p)
-https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
+https://sflex07.fun/SFA/ZEE_TELUGU_HD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/195490/640x360_GeminiTVHDDolbyVision_195490_d3c4ad05-c328-4dac-8636-39885f54d9aa.jpg" group-title="SunNxt", Gemini TV HD - Dolby Vision
@@ -37,7 +37,7 @@ https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8#EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/28270/etv-telugu-320x240.jpg" group-title="ETV Win",ETV Telugu
 https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540" group-title="Movies",Zee Cinemalu HD (1080p)
-https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
+https://sflex07.fun/SFA/ZEE_CINEMALU_HD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 #EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://i.ibb.co/vxXSzvsZ/Picsart-25-02-15-12-56-14-956.png" group-title="Dish TV", Zee Cinemalu SD
@@ -842,3 +842,35 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
 https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+#EXTINF:-1 tvg-id="STAR_SPORTS_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports 1 HD
+https://sflex07.fun/SFA/STAR_SPORTS_1_HD.m3u8
+
+#EXTINF:-1 tvg-id="STAR_SPORTS_1_HD_HINDI" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Sports 1 HD Hindi
+https://sflex07.fun/SFA/STAR_SPORTS_1_HD_HINDI.m3u8
+
+#EXTINF:-1 tvg-id="STAR_SPORTS_2_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD/images/LANDSCAPE_169_HD/image.png",Star Sports 2 HD
+https://sflex07.fun/SFA/STAR_SPORTS_2_HD.m3u8
+
+#EXTINF:-1 tvg-id="STAR_SPORTS_3" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Sports 3
+https://sflex07.fun/SFA/STAR_SPORTS_3.m3u8
+
+#EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 1 HD
+https://sflex07.fun/SFA/STAR_SPORTS_SELECT_1_HD.m3u8
+
+#EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_2_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 2 HD
+https://sflex07.fun/SFA/STAR_SPORTS_SELECT_2_HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 1 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_1_HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_2_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 2 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_2_HD.m3u8
+
+#EXTINF:-1 tvg-id="464" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11785-j9kynnm0-v3/imageContent-11785-j9kynnm0-m3.jpg",SONY SPORTS TEN 3 HD
+https://sflex07.fun/SFA/464.m3u8
+
+#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_5_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 5 HD
+https://sflex07.fun/SFA/SONY_SPORTS_TEN_5_HD.m3u8
+
+#EXTINF:-1 tvg-id="SPORTS18SYMHYP3" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3/images/LANDSCAPE_169_HD/image.png",Star Sports 2 Tamil
+https://sflex07.fun/SFA/SPORTS18SYMHYP3.m3u8
