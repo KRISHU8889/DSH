@@ -1,4 +1,11 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="3278" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 1 Telugu HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+#EXT-X-DRM-ID: 3278
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3278
+https://servertvhub.site/jiotv+/mpd.php?id=3278
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
 http://premimum.online:8080/live/Jen12345/Jen54321/177843.ts
 https://premiumtvs.space:8080/live/Jen12345/Jen54321/177843.ts 
