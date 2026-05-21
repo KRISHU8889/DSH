@@ -1076,5 +1076,6 @@ https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 #EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 5.m3u8
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="VT | Sony Liv" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
-#EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
-https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
