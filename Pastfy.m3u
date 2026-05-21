@@ -1029,6 +1029,10 @@ https://servertvhub.site/jiotv+/mpd.php?id=461
 #EXT-X-DRM-ID: 1114
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1114
 https://servertvhub.site/jiotv+/mpd.php?id=1114
+#EXTINF:1 tvg-name="FOX501" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",FOX501
+http://premiumtvs.space:8080/live/Jen12345/Jen54321/4748.ts
+#EXTINF:1 tvg-name="SKYSPORTS CRICKET" tvg-id="5326" tvg-logo="SKYSPORTS.IN" group-title="TTP Dec4",SKYSPORTS CRICKET
+http://premiumtvs.space:8080/live/Jen12345/Jen54321/148679.ts
 #EXTINF:1 tvg-name="SKYSPORT 1NZ" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",SKYSPORT 1NZ
 http://premiumtvs.space:8080/live/Jen12345/Jen54321/23997.ts
 #EXTINF:1 tvg-name="SKYSPORT 2NZ" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",SKYSPORT 2NZ
