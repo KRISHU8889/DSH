@@ -1029,6 +1029,8 @@ https://servertvhub.site/jiotv+/mpd.php?id=461
 #EXT-X-DRM-ID: 1114
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1114
 https://servertvhub.site/jiotv+/mpd.php?id=1114
+#EXTINF:1 tvg-name="SKYSPORT 1NZ" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",SKYSPORT 1NZ
+http://premiumtvs.space:8080/live/Jen12345/Jen54321/23997.ts
 #EXTINF:-1 tvg-id="STAR_SPORTS_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports 1 HD
 https://sflex07.fun/SFA/STAR_SPORTS_1_HD.m3u8
 #EXTINF:-1 tvg-id="STAR_SPORTS_1_HD_HINDI" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Sports 1 HD Hindi
