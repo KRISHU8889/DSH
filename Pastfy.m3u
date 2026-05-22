@@ -858,7 +858,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:1 tvg-name="TNT 1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="SPORTS",TNT 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 #EXTINF:1 tvg-name="WILLOW CBUZZ" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",WILLOW CBUZZ
-https://go.skym3u.top/raws.m3u8
+https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/whd5oymt8o/out/v1/23365771e28446078a239f9442f31154/cenc.mpd?|drmScheme=clearkey&drmLicense=c51937a18336a9d525e80ad8fff3b2a6:ba87b9580d36ad055ed9b959e63d012f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8989ef2e334dacc8b77de15f31152701:180dc5513532d500bac8813715a95b48
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axzzkdukfy/out/v1/3ae01320c1cb4853bd48e575e3699b3e/cenc.mpd
@@ -1059,7 +1059,7 @@ https://sflex07.fun/SFA/STAR_SPORTS_3.m3u8
 http://fastshare1.com:8080/live/Jen12345/Jen54321/9401.ts
 https://sflex07.fun/SFA/STAR_SPORTS_SELECT_1_HD.m3u8
 #EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_2_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 2 HD
-http://fastshare1.com:8080/live/Jen12345/Jen54321/9402.ts
+http://fastshare1.com:8080/live/Jen12345/Jen54321/9400.ts
 https://sflex07.fun/SFA/STAR_SPORTS_SELECT_2_HD.m3u8
 #EXTINF:-1 tvg-id="SONY_SPORTS_TEN_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 1 HD
 http://fastshare1.com:8080/live/Jen12345/Jen54321/9402.ts
