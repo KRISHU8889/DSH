@@ -1077,6 +1077,7 @@ https://sflex07.fun/SFA/464.m3u8
 #EXTINF:-1 tvg-id="SONY_SPORTS_TEN_5_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 5 HD
 https://sflex07.fun/SFA/SONY_SPORTS_TEN_5_HD.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 HD SonyLiv
+https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
