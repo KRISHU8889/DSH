@@ -1029,10 +1029,16 @@ https://servertvhub.site/jiotv+/mpd.php?id=461
 #EXT-X-DRM-ID: 1114
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1114
 https://servertvhub.site/jiotv+/mpd.php?id=1114
+#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 1 HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/9397.ts
 #EXTINF:1 tvg-name="SKYSPORTS CRICKET" tvg-id="5326" tvg-logo="SKYSPORTS.IN" group-title="TTP Dec4",SKYSPORTS CRICKET
 http://premiumtvs.space:8080/live/Jen12345/Jen54321/122412.ts
+#EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 2 HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/9398.ts
 #EXTINF:1 tvg-name="FOX501" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",FOX501
 http://premiumtvs.space:8080/live/Jen12345/Jen54321/4748.ts
+#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 1 Hindi HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/9399.ts
 #EXTINF:1 tvg-name="SKYSPORTS CRICKET" tvg-id="5326" tvg-logo="SKYSPORTS.IN" group-title="TTP Dec4",SKYSPORTS CRICKET
 http://premiumtvs.space:8080/live/Jen12345/Jen54321/148679.ts
 #EXTINF:1 tvg-name="SKYSPORT 1NZ" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",SKYSPORT 1NZ
