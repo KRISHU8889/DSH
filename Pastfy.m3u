@@ -1112,3 +1112,93 @@ https://sl.vodep39240327.workers.dev/channel/SONY TEN 5.m3u8
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
 #EXTINF:1 tvg-name="HUBSPTS4" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",HUBSPTS4
 http://fastshare1.com:8080/live/Jen12345/Jen54321/196347.ts
+#EXTINF:-1 tvg-id="142980" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1779782929363.png",New Zealand vs Ireland (New Zealand tour of Ireland - 2026)
+#EXTVLCOPT:http-user-agent=Denver1769
+https://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="142660" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779914808~acl=/*~id=32778857564605959649126453986088~hmac=e5ce7dfdad9ed1e93f2e635163a4275357ced68366714e519fb250ec26fa5385
+
+#EXTINF:-1 tvg-id="142659" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779914808~acl=/*~id=32778857564605959649126453986088~hmac=e5ce7dfdad9ed1e93f2e635163a4275357ced68366714e519fb250ec26fa5385
+
+#EXTINF:-1 tvg-id="142658" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779914808~acl=/*~id=32778857564605959649126453986088~hmac=e5ce7dfdad9ed1e93f2e635163a4275357ced68366714e519fb250ec26fa5385
+
+#EXTINF:-1 tvg-id="142953" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779914808~acl=/*~id=32778857564605959649126453986088~hmac=e5ce7dfdad9ed1e93f2e635163a4275357ced68366714e519fb250ec26fa5385
+
+#EXTINF:-1 tvg-id="142661" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sara-Bejlek-vs-Iga-Swiatek_FC-WEB.jpg",Bejlek vs Swiatek vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779918453~acl=/*~id=33125347774662533156032681718397~hmac=45be545cedb51749ccc9d0a09f475ab6afe549652ae1a7452f23ab511b30c11e
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
+#EXTINF:-1 tvg-id="25" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="Live events",Star Sports Hindi 1
+https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd|cookie=hdntl=exp=1779926441~acl=%2f*~id=6ae8327e5eae36ebe58f3b93417a1674~data=hdntl~hmac=44e58a2715085dc5c21e091365e8b65b80b61492e0ec3fd72c7d9b557193d6b5&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
+#EXTINF:-1 tvg-id="35" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="Live events",Star Sports 1
+https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd|cookie=hdntl=exp=1779926445~acl=%2f*~id=de9a5162fa5f51a2ff2dc90a39b27513~data=hdntl~hmac=b08e368285067e77f4c8afe1d34f89b4ad6ad8a9a8c5c24cbe08f29771365c93&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
+#EXTINF:-1 tvg-id="33" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="Live events",Star Sports 2
+https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd|cookie=hdntl=exp=1779926447~acl=%2f*~id=b363a34627d883d7364dad35742cfffa~data=hdntl~hmac=56db8bc911e9c3846f9baf24561ec7e9251ccc0089170903696cb195170f16f0&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
+#EXTINF:-1 tvg-id="34" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" group-title="Live events",Star Sports Select HD1
+https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd|cookie=hdntl=exp=1779926449~acl=%2f*~id=820e87adfa621c0b4f6e6d52daffc63f~data=hdntl~hmac=cc61bc9c48464a397163f1d4ab21b271ad4227b5c6354afec3f9cd204bbb5c16&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2effd2e98f95492cb7418857bf610000:f0e42f1c91fb4b59bf6684cb4478d82e
+#EXTINF:-1 tvg-id="24" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" group-title="Live events",Star Sports Select HD2
+https://livetv.hotstar.com/mp1/gec-india-1540065794/e2408fbafb9d4a5ab23775b69e5737d7/index.mpd|cookie=hdntl=exp=1779926451~acl=%2f*~id=ee367f81d4b90c0acba781bd857e2428~data=hdntl~hmac=99808a17eb569a0c0405a0e8fb300b1b67776c8d608ce43ae486c3844de6c824&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTINF:-1 tvg-id="1226" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="Live events",Star Sports 2 Hindi HD
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8|cookie=hdntl=exp=1779926441~acl=%2f*~id=aff81bcc3ec2abc092d68b516ff34091~data=hdntl~hmac=9ce9c4b39bc94275dfc39e0b51da0a5e90fb13d825fbb5c9e0bcfa42fa248afc&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com
+#EXTINF:-1 tvg-id="1985" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" group-title="Live events",Star Sports 2 Hindi
+https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8|cookie=hdntl=exp=1779926441~acl=%2f*~id=aff81bcc3ec2abc092d68b516ff34091~data=hdntl~hmac=9ce9c4b39bc94275dfc39e0b51da0a5e90fb13d825fbb5c9e0bcfa42fa248afc&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com
+#EXTINF:-1 tvg-id="2852" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="Live events",Star Sports 2 Telugu
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8|cookie=hdntl=exp=1779926441~acl=%2f*~id=aff81bcc3ec2abc092d68b516ff34091~data=hdntl~hmac=9ce9c4b39bc94275dfc39e0b51da0a5e90fb13d825fbb5c9e0bcfa42fa248afc&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com
+#EXTINF:-1 tvg-id="4473" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="Live events",Star Sports 2 Tamil
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8|cookie=hdntl=exp=1779926441~acl=%2f*~id=aff81bcc3ec2abc092d68b516ff34091~data=hdntl~hmac=9ce9c4b39bc94275dfc39e0b51da0a5e90fb13d825fbb5c9e0bcfa42fa248afc&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com
+#EXTINF:-1 tvg-id="44879" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2214/1750777602214-h" group-title="Live events",TATA IPL TV
+https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8|cookie=hdntl=exp=1779926441~acl=%2f*~id=aff81bcc3ec2abc092d68b516ff34091~data=hdntl~hmac=9ce9c4b39bc94275dfc39e0b51da0a5e90fb13d825fbb5c9e0bcfa42fa248afc&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com
+
+#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://sportzpower.com/wp-content/uploads/2025/09/2026-Mens-T20-World-Cup-1536x864.png" group-title="Live events",WC 4K HINDI
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/JASS(Android/15)
+#https://game.denver69.fun/Series/JHind-hin.m3u8|User-Agent=Hotstar;in.startv.hotstar/JASS(Android/15)
+
+#EXTINF:-1 tvg-id="English" tvg-logo="https://sportzpower.com/wp-content/uploads/2025/09/2026-Mens-T20-World-Cup-1536x864.png" group-title="Live events",WC 4K ENGLISH
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/JASS(Android/15)
+#https://game.denver69.fun/Series/JHind-eng.m3u8|User-Agent=Hotstar;in.startv.hotstar/JASS(Android/15)
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 3
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+#EXTINF:-1 group-title="Live events" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png",TNT Sports 4
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+#EXTINF:-1 group-title="Live events" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",TNT Sports 5
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+# Error fetching: 
+https://ipl.bugbyte.dpdns.org/5c4c4755534452450305.m3u
