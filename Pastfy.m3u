@@ -844,7 +844,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 #EXTINF:-1 group-title="PBKS VS GT" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7152/1774868187152-i" tvg-id="832.astro" tvg-name="Astro Cricket" tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png" , Astro Cricket 50FPS
 http://lionsol11.xyz:8080/live/1457983443440351/2513640789622561/376932.m3u8
-
+#EXTINF:-1 group-title="PBKS VS GT" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7152/1774868187152-i" tvg-id="832.astro" tvg-name="Astro Cricket" tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png" , Astro Cricket 50FHD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/2494.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports SD (1080p)
@@ -1053,6 +1054,134 @@ http://premiumtvs.space:8080/live/Jen12345/Jen54321/23997.ts
 http://premiumtvs.space:8080/live/Jen12345/Jen54321/23998.ts
 #EXTINF:1 tvg-name="SKYSPORT 3NZ" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",SKYSPORT 3NZ
 http://premiumtvs.space:8080/live/Jen12345/Jen54321/23999.ts
+#EXTINF:-1 tvg-id="1322" tvg-name="And Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndFlixHD.png" group-title="JioTv+ ENGLISH",And Flix HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98841.ts 
+#EXTINF:-1 tvg-id="1319" tvg-name="Zee Cafe HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCafeHD.png" group-title="JioTv+ ENGLISH",Zee Cafe HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98848.ts 
+#EXTINF:-1 tvg-logo="http://greenpa1.com/ssc.png" group-title="SPORTS", CRIC || SUPERSPORTS ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/2496.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/12.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC ⁴ᵏ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/23566.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC 4KK
+http://fastshare1.com:8080/live/Jen12345/Jen54321/114479.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC K4K
+http://fastshare1.com:8080/live/Jen12345/Jen54321/124269.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/astrocricket.png" group-title="SPORTS", CRIC || ASTRO CRICKET ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/2494.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS", CRIC || WILLOWBYCBUZZ ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/215.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS", CRIC || WILLOW BYCBUZZSPORTS HDH
+http://fastshare1.com:8080/live/Jen12345/Jen54321/23943.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS", CRIC || WILLOW 2BYCBUZZ HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/5040.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 3 ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/148090.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 ENG ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/148.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 ENG ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/9397.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 ENG ⁴ᵏ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/124281.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/239.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 2 ENGLISH ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/9398.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 2 ENGLISH 4K
+http://fastshare1.com:8080/live/Jen12345/Jen54321/124284.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 HINDI ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/211.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 HINDI ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/9399.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 HINDI 4K
+http://fastshare1.com:8080/live/Jen12345/Jen54321/124287.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS SELECT 1 ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/238.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS SELECT 2 ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/148801.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/177843.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/9722.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 3 ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/1080.ts
+#EXTINF:-1 tvg-logo="https://share.google/GOx1hd7nROXzwuDSf" group-title="SPORTS", CRIC || RTA SPORTS ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/1039.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONYLIV", CRIC || SONYLIV SPORTS 1 ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/154.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONYLIV", CRIC || SONY SPORTS 2 ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/31314.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONYLIV", CRIC || SONY SPORTS 3 ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/146.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SONYLIV", CRIC || SONY SPORTS 4 TAMIL
+http://fastshare1.com:8080/live/Jen12345/Jen54321/29469.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SONYLIV", CRIC || SONY SPORTS 5 ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/176.ts
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="SPORTS", CRI: SONY ESPN
+http://fastshare1.com:8080/live/Jen12345/Jen54321/155.ts
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="", CRIC || SKY SPORT NZ 1 ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/150854.ts
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORTS", CRIC || SKY SPORT 3 ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/24018.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/no/Eurosport1.no.png" group-title="SPORTS", CRIC || EUROSPORTS ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/216.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 1 ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/186627.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 2 ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/186628.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 3 ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/186629.ts
+#EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 4 ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/186630.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 2 HINDI ᶠᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/213049.ts
+#EXTINF:-1 tvg-logo="https://www.thepapare.com/wp-content/uploads/Logo-01.png" group-title="SPORTS", CRIC || THE PAPARE ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/269552.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRYHEMQYeLXCmJWYTlvStaNJ56XFm2tZeWlFuzJZPHtsUgeGkrfy2iTs&s=10" group-title="SPORTS", CRI: STAR 4K
+http://fastshare1.com:8080/live/Jen12345/Jen54321/333368.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 2 TAMIL ⁴ᵏ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/379753.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 2 TELUGU ⁴ᵏ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/379755.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg" group-title="SPORTS", CRIC || STAR SPORTS 1 KANNADA ᴴᴰ
+http://fastshare1.com:8080/live/Jen12345/Jen54321/380977.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvqJupU.png" group-title="SPORTS", Hub Sports 4 FHD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/196347.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YVrrBGT/khel.jpg" group-title="SPORTS", CRIC || STAR SPORTS KHEL
+http://fastshare1.com:8080/live/Jen12345/Jen54321/612020.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="SONYLIV", CRIC || SONY SPORTS 4 TELUGU
+http://fastshare1.com:8080/live/Jen12345/Jen54321/635098.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="SPORTS", IN: STAR SPORTS 1 (4K).
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98864.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="SPORTS", IN: STAR SPORTS 2 (4K).
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98865.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" group-title="SPORTS", IN: STAR SPORTS 1 HINDI (4K)
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98866.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="SPORTS", IN: STAR SPORTS SELECT 1 (4K)
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98867.ts
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="SPORTS", IN: START SPORTS SELECT 2 (4K)
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98868.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten1_HD.png" group-title="SPORTS", IN: SONY TEN 1 (4K)
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98861.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", IN: TEN 2 (4K)
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98862.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", IN: SONY TEN 3 (4K)
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98863.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="SPORTS", IN: SONY TEN 4 (4K) TEL
+http://fastshare1.com:8080/live/Jen12345/Jen54321/635098.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten5_HD.png" group-title="SPORTS", IN: SONY TEN 5 (4K)
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98870.ts
+#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 1 HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/148.ts 
+#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 1 Hindi HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/211.ts 
+#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 3
+http://fastshare1.com:8080/live/Jen12345/Jen54321/208.ts 
+#EXTINF:-1 tvg-id="1319" tvg-name="Zee Cafe HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCafeHD.png" group-title="JioTv+ ENGLISH",Zee Cafe HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98848.ts 
+#EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="JioTv+ SPORTS",Eurosport HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/325.ts 
 #EXTINF:-1 tvg-id="STAR_SPORTS_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports 1 HD
 https://sflex07.fun/SFA/STAR_SPORTS_1_HD.m3u8
 #EXTINF:-1 tvg-id="STAR_SPORTS_1_HD_HINDI" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Sports 1 HD Hindi
