@@ -844,9 +844,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 #EXTINF:-1 group-title="PBKS VS GT" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7152/1774868187152-i" tvg-id="832.astro" tvg-name="Astro Cricket" tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png" , Astro Cricket 50FPS
 http://lionsol11.xyz:8080/live/1457983443440351/2513640789622561/376932.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1aa612036e6a80211c4ace8a0a1740ef:a9cb3ede06086fcd004b23b66df3b7b3
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sqvkbflpd1/out/v1/0b03fda506624750bf8e426c346586e9/cenc.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports SD (1080p)
