@@ -33,6 +33,8 @@ http://starshare.fans:8080/live/Jen12345/Jen54321/379755.ts
 http://starshare.fans:8080/live/Jen12345/Jen54321/98894.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
+#EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="JioTv+ TELUGU",Maa HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/98886.ts 
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/195490/640x360_GeminiTVHDDolbyVision_195490_d3c4ad05-c328-4dac-8636-39885f54d9aa.jpg" group-title="SunNxt", Gemini TV HD - Dolby Vision
 https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
