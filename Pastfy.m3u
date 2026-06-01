@@ -353,6 +353,8 @@ https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
 http://telugusolutions.in:8088/dbr12/dbr12.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", A1 TV
 http://183.82.119.7:1935/a1tv/a1tv/playlist.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Shreyas TV 
+http://cache.internode.co.in:6081/ShreyasTV/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",S10 News Telugu
 https://mumbai-edge.smartplaytv.in/s10/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1203058773850208711274950.png" group-title="Telugu Local Channel",Studio 18 Tv 
