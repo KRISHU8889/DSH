@@ -239,6 +239,8 @@ https://vvsolutions-server11.in/slnnews_2/video.m3u8
 https://vvsolutions.in/aksharanews/aksharanews.m3u8 
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/meetv.jpg" group-title="Telugu Local Channel",mee tv
 https://sharsolution.in/hls/meetv/meetv.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo=   https://play-lh.googleusercontent.com/y1q6mx2LfFpHRPXEds4PJlha5hYQ2hYbTKTgerTOZgEaFCSbBcHELIz3U6jAe73D=w512,Super TV
+http://venus.streambridge.link:8045/telugu/supertv/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Siti Cable Tandur
 https://vvsolutions.in/cabletandur/cabletandur.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="http://cnews.phoenixcreations.online/cnews/cnews/tracks-v1a1/index.m3u8",C news
@@ -249,7 +251,8 @@ http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png" group-title="Telugu Local Channel",Vihari Tv
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8 
-#EXTINF:-1 tvg-name="Samskuruthi TV" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png",Samskuruthi TV http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8 
+#EXTINF:-1 tvg-name="Samskuruthi TV" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png",Samskuruthi TV 
+http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://play-lh.googleusercontent.com/3jhX8a4VS40rxG2DRElPi19CLK32TZ7zyh1RoSTCIT3tFu3Dhw-n0TGIIPNvB0vtuw=w240-h480-rw", new tv telugu 
 http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", jkc city https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Janapadalu
