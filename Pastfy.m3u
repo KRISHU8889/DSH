@@ -1343,3 +1343,17 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9d
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 # Error fetching: 
 https://ipl.bugbyte.dpdns.org/5c4c4755534452450305.m3u
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142984_6094_MM_UPBS_FC-WEB_1780318028412.jpg" group-title="Cricket", Mumbai Marines Vs Up Brij Stars | Big Cricket League Season 2 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mumbai_marines_vs_up_brij_stars_142984_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142972_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_ND-W-old.jpg" group-title="Cricket", Scotland Women Vs Netherlands Women | Scotland Women's T20I Tri-Series 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_women_vs_netherlands_women_143006_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MPL_Gwalior-Cheetahs_vs_Ujjain-Falcons_Old_match-card_2025_FC-WEB_1780482986758.jpg" group-title="Cricket", Ujjain Falcons Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ujjain_falcons_vs_gwalior_cheetahs_143058_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SAFF_IndiavsBhutan_web.jpg" group-title="Football", India Women Vs Bhutan Women | SAFF Women's Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/india_women_vs_bhutan_women_142942_english.m3u8
