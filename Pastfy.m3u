@@ -366,6 +366,8 @@ http://cloud.streamplay.in:1935/studio18/studio18/playlist.m3u8
 https://vvsolutions-server10.in/hls/santhoshamtv_110.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnlzci55c3J0dl9pY29uXzE2MDA1MTE0NzBfMDE4/icon.webp?w=500&fakeurl=1&type=.webp" group-title="Telugu Local Channel",YSR TV 
 https://vvsolutions.in/ysrtv/ysrtv.m3u8 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y1q6mx2LfFpHRPXEds4PJlha5hYQ2hYbTKTgerTOZgEaFCSbBcHELIz3U6jAe73D=w512" group-title="TELUGU LOCAL", SUPERTV HD
+http://venus.streambridge.link:8045/telugu/supertv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu Local Channel",Zoy HD 
 https://rtmp.streamwell.in/hls/zoyhd.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", IB TV
