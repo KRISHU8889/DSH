@@ -1347,6 +1347,8 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9d
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 # Error fetching: 
 https://ipl.bugbyte.dpdns.org/5c4c4755534452450305.m3u
+#EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 3 ᶠᴴᴰ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd?|drmScheme=clearkey&drmLicense=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/EUT20-Belgium,-2026.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VVVDIwLUJlbGdpdW0sLTIwMjYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9" group-title="SPORTS", FANCODE CRCT
 https://in-mc-fblive.fancode.com/mumbai/143150_english_hls_1cb216381c56847_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/ICCMCWCL2_2019.svg/revision/latest?cb=20230412150828" group-title="SPORTS", FANCODE CANADA HD
