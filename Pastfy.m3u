@@ -1,8 +1,6 @@
 #EXTM3U 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dev.denver69.fun/TP/key.php?id=78
 #EXTINF:-1 tvg-id="ts78"  group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD
-https://dev.denver69.fun/TP/manifest.mpd?id=78|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780934832/ei/UJQmaoaDKdXa3LUPkLOI-AI/ip/45.194.90.84/id/CmirfP0jZMs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-gwpa-qxae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEWkNkAE2XVinfD55wCHykNQJaHMkhWuKOrVDRE1d7VXOEgXyW9bwSsC5w5I3SRtMW6-vPPI8YM6/spc/SQ-umk77PjB0LLpK48CiTrvaj4sY17M_BtzSj4O-CAIeFpRM7A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1365000/met/1780913233,/mh/0z/mm/44/mn/sn-gwpa-qxae7/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780912838/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgVYnqC1smjGSO0i0Lu2_1_6k4BrMSgPmq20WCKXwSFlQCIQD_s-bW2EXMPtZ-ffqJOT6mWGb25rpMc5V-IrleC_7p9A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgGM5TWmrGmKLokjJ5xbCg20ORLlDwrMDRD41hdcORtrICICEQbqyHYQwLVVgvwOzJclRFyGRqFiC0RnJYpnfSbdGN/playlist/index.m3u8
 #EXTINF:-1 tvg-id="1827538409" tvg-name="TELUGU" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="INDIA VS AFGHANISTAN ONLY TEST DAY 3", TELUGU
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780897279~acl=/cmaf/live/2024716/inallow-indvsafg-2026/tel/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=my736EAFAJTgR6G6j4yrFKO4Aeb89zw4YsHPdUh1Xir1-did=Ae0UqfSunvDc3S6iIlIwhPPKOMcPiemK0NQcyRODeh9X-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780896079-~hmac=e86a2f861afc730ebd90ba6ac797ce79292c3a14f1191682f503767caf066479"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
@@ -16,17 +14,14 @@ http://live14p.hotstar.com/cmaf/live/2024716/inallow-indvsafg-2026/tel/154007148
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3278
 https://servertvhub.site/jiotv+/mpd.php?id=3278
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
-https://starshare.fans:8080/live/Jen12345/Jen54321/177843.ts
 http://fastshare1.com:8080/live/Jen12345/Jen54321/177843.ts
 http://premimum.online:8080/live/Jen12345/Jen54321/177843.ts
 https://premiumtvs.space:8080/live/Jen12345/Jen54321/177843.ts 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRYHEMQYeLXCmJWYTlvStaNJ56XFm2tZeWlFuzJZPHtsUgeGkrfy2iTs&s=10" group-title="SPORTS", STAR 4K
-https://starshare.fans:8080/live/Jen12345/Jen54321/333368.ts
 http://fastshare1.com:8080/live/Jen12345/Jen54321/333368.ts
 http://premimum.online:8080/live/Jen12345/Jen54321/333368.ts
 https://premiumtvs.space:8080/live/Jen12345/Jen54321/333368.ts 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" group-title="SPORTS", STAR SPORTS 2 TELUGU HD
-https://starshare.fans:8080/live/Jen12345/Jen54321/379755.ts
 http://fastshare1.com:8080/live/Jen12345/Jen54321/379755.ts
 http://premimum.online:8080/live/Jen12345/Jen54321/379755.ts
 https://premiumtvs.space:8080/live/Jen12345i/Jen54321/379755.ts
