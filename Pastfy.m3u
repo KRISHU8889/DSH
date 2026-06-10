@@ -8,7 +8,7 @@ https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee53
 #EXTINF:-1 tvg-id="zee115" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_2105335046/portrait/1920x770pwabannereb934e08e5d34655b2895321fdf3df32.jpg" group-title="Zee5 | Sports" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/z5.png",Unite8 Sports 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee115
+https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee53
 #EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",Zee Telugu HD
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
