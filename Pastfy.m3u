@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC 4K
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/nDZ_Q-e3LNzyIU0agtV9CvOb2ppOsGyfcUiIqmqHY4-KsrEY2-Mh-hmVbwvJ_R5tjBhe5pPDIttqt4keL7cixND5x2DvMWXV8GQjHTMHc01P3T4CI70GQlnhi0wKaP_2UJijfGzWTFfjlNK-o7tKqdvDhDeJgReHmqUwBynzM36TtxqUDN6P_yG01lVxosykS2oyWBvG1dfc-RR2AmNd7x9ZrDqBgvmXgoQoY7_saUWAhvm530WwabnKBwu7vKsp/hls/index.m3u8
 #EXTINF:-1 tvg-id="zee53" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecafehd/portrait/720x1080withlogoa82d22d753ca47b293ab85fe469bbd09.jpg" group-title="Zee5 | Sports" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/z5.png",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
