@@ -1392,7 +1392,7 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/gesdwrdncn/out
 # Error fetching: 
 https://ipl.bugbyte.dpdns.org/5c4c4755534452450305.m3u
 #EXTINF:-1 tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS", CRIC || WILLOWBYCBUZZ ᴴᴰ
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yoaf2awsmc/out/v1/bc6d6918b8914d23a38ecb2efffa0478/cenc.mpd?|drmScheme=clearkey&drmLicense=877a99c95e50e46975fbb8e28e827971:8df0bf43515731cac74db2d24bdfb50f
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wwgqhyl1fd/out/v1/be285128741c4d8f997053b03bf2d063/cenc.mpd?|drmScheme=clearkey&drmLicense=68de9095860f68f5a820d26b83f29c0a:7580b8d3f6adac1950ba6d31bfcf7f50
 #EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 3 ᶠᴴᴰ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd?|drmScheme=clearkey&drmLicense=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/EUT20-Belgium,-2026.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VVVDIwLUJlbGdpdW0sLTIwMjYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9" group-title="SPORTS", FANCODE CRCT
@@ -1410,7 +1410,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_w
 https://dai.google.com/ssai/event/baS0o0i_QLiYmhye6b6_FQ/master.m3u8
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_women_vs_netherlands_women_143006_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MPL_Gwalior-Cheetahs_vs_Ujjain-Falcons_Old_match-card_2025_FC-WEB_1780482986758.jpg" group-title="Cricket", Ujjain Falcons Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
-https://in-mc-fblive.fancode.com/mumbai/143070_english_hls_0d0c5948dc9779_1ta-di_h264/index.m3u8
+https://in-mc-fblive.fancode.com/mumbai/143072_english_hls_5c005d49e31864_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SAFF_IndiavsBhutan_web.jpg" group-title="Football", India Women Vs Bhutan Women | SAFF Women's Championship 2026 (ENGLISH)
 https://in-mc-fblive.fancode.com/mumbai/143068_english_hls_b1d28f2d8b19790_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534399" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086264834785_CCPL26_Raipur_Rhinos_vs_Bilaspur_Bulls_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Raipur Rhinos vs Bilaspur Bulls - 8 Jun 2026
@@ -1421,6 +1421,7 @@ https://vod-d-01-icc-we.akamaized.net/Content/DASH/VOD/2935/5612/86121684-234d-4
 https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086291755785_CCPL26_Rajnandgaon_Panthers_vs_Bastar_Bisons_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Rajnandgaon Panthers vs Bastar Bisons - 9 Jun 2026
 https://dai.google.com/ssai/event/5uT8FTtEQ8CSr75Rnh7fVQ/master.m3u8
-
+#EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC 4KK
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/nDZ_Q-e3LNzyIU0agtV9CvOb2ppOsGyfcUiIqmqHY4-KsrEY2-Mh-hmVbwvJ_R5tjBhe5pPDIttqt4keL7cixND5x2DvMWXV8GQjHTMHc01P3T4CI70GQlnhi0wKaP_2UJijfGzWTFfjlNK-o7tKqdvDhDeJgReHmqUwBynzM36TtxqUDN6P_yG01lVxosykS2oyWBvG1dfc-RR2AmNd7x9ZrDqBgvmXgoQoY7_saUWAhvm530WwabnKBwu7vKsp/hls/index.m3u8
 
 
