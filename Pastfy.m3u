@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC 4K
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/nDZ_Q-e3LNzyIU0agtV9CvOb2ppOsGyfcUiIqmqHY4-KsrEY2-Mh-hmVbwvJ_R5tjBhe5pPDIttqt4keL7cixND5x2DvMWXV8GQjHTMHc01P3T4CI70GQlnhi0wKaP_2UJijfGzWTFfjlNK-o7tKqdvDhDeJgReHmqUwBynzM36TtxqUDN6P_yG01lVxosykS2oyWBvG1dfc-RR2AmNd7x9ZrDqBgvmXgoQoY7_saUWAhvm530WwabnKBwu7vKsp/hls/index.m3u8
 #EXTINF:-1 tvg-id="zee53" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecafehd/portrait/720x1080withlogoa82d22d753ca47b293ab85fe469bbd09.jpg" group-title="Zee5 | Sports" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/z5.png",Unite8 Sports 1 HD
@@ -1393,8 +1393,11 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9d
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 # Error fetching: 
 https://ipl.bugbyte.dpdns.org/5c4c4755534452450305.m3u
-EXTINF:-1 group-title="PBKS VS GT" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7152/1774868187152-i" tvg-id="832.astro" tvg-name="Astro Cricket" tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png" , Astro Cricket 50FPS
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="SPORTS", CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png" group-title="SPORTS", CRICBUZZ
 http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&stream=571244&extension=m3u8
+
 #EXTINF:-1 tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS", CRIC || WILLOWBYCBUZZ ᴴᴰ
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wwgqhyl1fd/out/v1/be285128741c4d8f997053b03bf2d063/cenc.mpd?|drmScheme=clearkey&drmLicense=68de9095860f68f5a820d26b83f29c0a:7580b8d3f6adac1950ba6d31bfcf7f50
 #EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 3 ᶠᴴᴰ
