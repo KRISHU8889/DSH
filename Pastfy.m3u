@@ -1393,6 +1393,8 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9d
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 # Error fetching: 
 https://ipl.bugbyte.dpdns.org/5c4c4755534452450305.m3u
+EXTINF:-1 group-title="PBKS VS GT" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7152/1774868187152-i" tvg-id="832.astro" tvg-name="Astro Cricket" tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png" , Astro Cricket 50FPS
+http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&stream=571244&extension=m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS", CRIC || WILLOWBYCBUZZ ᴴᴰ
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wwgqhyl1fd/out/v1/be285128741c4d8f997053b03bf2d063/cenc.mpd?|drmScheme=clearkey&drmLicense=68de9095860f68f5a820d26b83f29c0a:7580b8d3f6adac1950ba6d31bfcf7f50
 #EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS", CRIC || TNT SPORTS 3 ᶠᴴᴰ
