@@ -29,6 +29,14 @@ https://uplink.lazyspace.online/mytv/tplay/stream.php?id=ts684
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.stream_type=hls
 https://falcon-rol-all.zee5.com/hls/live/2125512/CAN-vs-BIH-13-con_HIN/index-connected.m3u8?hdntl=exp=1781373779~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125512,CAN-vs-BIH-13-con,HIN,18cae3aa4fa55731605e7e10bf757ac7add4cdde16f6e4d22a6454e04f800a0e~hmac=18dbe2cfe1954be420146953a83a7d86dfa5ece438b3e77209a9fd090a25484f
+#EXTINF:-1 tvg-id="fifa43" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026",CIGNAL TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+#EXTINF:-1 tvg-id="fifa44" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026",TELEMUNDO HD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC 4K
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/nDZ_Q-e3LNzyIU0agtV9CvOb2ppOsGyfcUiIqmqHY4-KsrEY2-Mh-hmVbwvJ_R5tjBhe5pPDIttqt4keL7cixND5x2DvMWXV8GQjHTMHc01P3T4CI70GQlnhi0wKaP_2UJijfGzWTFfjlNK-o7tKqdvDhDeJgReHmqUwBynzM36TtxqUDN6P_yG01lVxosykS2oyWBvG1dfc-RR2AmNd7x9ZrDqBgvmXgoQoY7_saUWAhvm530WwabnKBwu7vKsp/hls/index.m3u8
 #EXTINF:-1 tvg-id="zee53" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecafehd/portrait/720x1080withlogoa82d22d753ca47b293ab85fe469bbd09.jpg" group-title="Zee5 | Sports" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/z5.png",Unite8 Sports 1 HD
