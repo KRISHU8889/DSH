@@ -503,6 +503,8 @@ https://mumbai-edge.smartplaytv.in/VRMMEDIA/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", AWAAZNEWS http://cache.internode.co.in:6081/AWAAZNEWS/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", MY TV
 https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2028461646911551924218864.png" group-title="GK", BBR TV
+http://bbrtv.phoenixcreations.online/bbrtv/bbrtv/playlist.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",TS9 News Telugu
 https://mumbai-edge.smartplaytv.in/TS9/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",J7 TV News
