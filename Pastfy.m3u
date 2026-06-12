@@ -1,4 +1,34 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="fifa47" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 1 HD - Tplay
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://uplink.lazyspace.online/fifa/license/ts502/keys.json
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Referer":"https://watch.tataplay.com/","Origin":"https://watch.tataplay.com"}
+https://uplink.lazyspace.online/fifa/upstream/ts502/lazyyxd.mpd
+#EXTINF:-1 tvg-id="fifa48" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite2hd_wdpxkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 2 HD - Tplay
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://uplink.lazyspace.online/fifa/license/ts506/keys.json
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Referer":"https://watch.tataplay.com/","Origin":"https://watch.tataplay.com"}
+https://uplink.lazyspace.online/fifa/upstream/ts506/lazyyxd.mpd
+#EXTINF:-1 tvg-id="fifa495" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026",RTÉ 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd
+#EXTINF:-1 tvg-id="ts684" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026",Zee Keralam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://uplink.lazyspace.online/mytv/tplay/license.php?id=ts684
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_type=live
+https://uplink.lazyspace.online/mytv/tplay/stream.php?id=ts684
+#EXTINF:-1 tvg-id="zee1" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026",Zee5 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_type=hls
+https://falcon-rol-all.zee5.com/hls/live/2125512/CAN-vs-BIH-13-con_HIN/index-connected.m3u8?hdntl=exp=1781373779~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125512,CAN-vs-BIH-13-con,HIN,18cae3aa4fa55731605e7e10bf757ac7add4cdde16f6e4d22a6454e04f800a0e~hmac=18dbe2cfe1954be420146953a83a7d86dfa5ece438b3e77209a9fd090a25484f
 #EXTINF:-1 tvg-logo="http://greenpa1.com/skycricket.png" group-title="SPORTS", CRIC || SKY SPORTS CRIC 4K
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/nDZ_Q-e3LNzyIU0agtV9CvOb2ppOsGyfcUiIqmqHY4-KsrEY2-Mh-hmVbwvJ_R5tjBhe5pPDIttqt4keL7cixND5x2DvMWXV8GQjHTMHc01P3T4CI70GQlnhi0wKaP_2UJijfGzWTFfjlNK-o7tKqdvDhDeJgReHmqUwBynzM36TtxqUDN6P_yG01lVxosykS2oyWBvG1dfc-RR2AmNd7x9ZrDqBgvmXgoQoY7_saUWAhvm530WwabnKBwu7vKsp/hls/index.m3u8
 #EXTINF:-1 tvg-id="zee53" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecafehd/portrait/720x1080withlogoa82d22d753ca47b293ab85fe469bbd09.jpg" group-title="Zee5 | Sports" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/z5.png",Unite8 Sports 1 HD
