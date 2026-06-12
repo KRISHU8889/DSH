@@ -1301,6 +1301,8 @@ https://sl.vodep39240327.workers.dev/channel/SONY TEN 5.m3u8
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
 #EXTINF:1 tvg-name="HUBSPTS4" tvg-id="""" tvg-logo="""" group-title="TTP Dec4",HUBSPTS4
 http://fastshare1.com:8080/live/Jen12345/Jen54321/196347.ts
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/11/1/premiere-sport-2-logo-png_seeklogo-111686.png" group-title="SPORTS", PREMIUM SPORTS 2HD
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTINF:-1 tvg-id="142980" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1779782929363.png",New Zealand vs Ireland (New Zealand tour of Ireland - 2026)
 #EXTVLCOPT:http-user-agent=Denver1769
 https://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8
