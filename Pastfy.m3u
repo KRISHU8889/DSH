@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tntsports.png" group-title="🔴PREMIUM SPORT",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #EXTINF:-1 tvg-id="fifa47" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 1 HD - Tplay
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
