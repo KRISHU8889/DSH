@@ -1194,7 +1194,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:1 tvg-name="TNT 1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="SPORTS",TNT 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 #EXTINF:1 tvg-name="WILLOW CBUZZ" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",WILLOW CBUZZ
-https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/avbmgwfv7q/out/v1/24142820af7447ae86d91022eafe3435/cenc.mpd?|drmScheme=clearkey&drmLicense=01f756322784d8acaeb5c46651ae8879:e42f17fcb3c0f626f5001227e71b7116
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dnms7gm805/out/v1/b063a96f8f524015bf4c8670121900b5/cenc.mpd|drmScheme=clearkey&drmLicense=262ae113b3aa5d43bafb04f71bb87dd0:61d2c5dfb070e825adae56e07b7bc57c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8989ef2e334dacc8b77de15f31152701:180dc5513532d500bac8813715a95b48
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axzzkdukfy/out/v1/3ae01320c1cb4853bd48e575e3699b3e/cenc.mpd
@@ -1577,29 +1577,22 @@ http://fastshare1.com:8080/live/Jen12345/Jen54321/196347.ts
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/11/1/premiere-sport-2-logo-png_seeklogo-111686.png" group-title="SPORTS", PREMIUM SPORTS 2HD
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTINF:-1 tvg-id="142980" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1779782929363.png",New Zealand vs Ireland (New Zealand tour of Ireland - 2026)
-#EXTVLCOPT:http-user-agent=Denver1769
-https://in-mc-fblive.fancode.com/mumbai/142980_english_hls_ad2e92ad5f93350_1ta-di_h264/index.m3u8
-
+https://dai-partner.fancode.com/primary/143396_english_hls_308563297d37105_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142660" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
 #EXTVLCOPT:http-user-agent=Denver1769
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779914808~acl=/*~id=32778857564605959649126453986088~hmac=e5ce7dfdad9ed1e93f2e635163a4275357ced68366714e519fb250ec26fa5385
-
 #EXTINF:-1 tvg-id="142659" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)
 #EXTVLCOPT:http-user-agent=Denver1769
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779914808~acl=/*~id=32778857564605959649126453986088~hmac=e5ce7dfdad9ed1e93f2e635163a4275357ced68366714e519fb250ec26fa5385
-
 #EXTINF:-1 tvg-id="142658" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)
 #EXTVLCOPT:http-user-agent=Denver1769
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779914808~acl=/*~id=32778857564605959649126453986088~hmac=e5ce7dfdad9ed1e93f2e635163a4275357ced68366714e519fb250ec26fa5385
-
 #EXTINF:-1 tvg-id="142953" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
 #EXTVLCOPT:http-user-agent=Denver1769
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779914808~acl=/*~id=32778857564605959649126453986088~hmac=e5ce7dfdad9ed1e93f2e635163a4275357ced68366714e519fb250ec26fa5385
-
 #EXTINF:-1 tvg-id="142661" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sara-Bejlek-vs-Iga-Swiatek_FC-WEB.jpg",Bejlek vs Swiatek vs Stade Roland Garros Paris, France (Roland Garros 2026)
 #EXTVLCOPT:http-user-agent=Denver1769
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779918453~acl=/*~id=33125347774662533156032681718397~hmac=45be545cedb51749ccc9d0a09f475ab6afe549652ae1a7452f23ab511b30c11e
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
 #EXTINF:-1 tvg-id="25" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="Live events",Star Sports Hindi 1
