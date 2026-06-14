@@ -903,6 +903,8 @@ https://mumbai-edge.smartplaytv.in/FAndH/index.m3u8
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
+https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollyflixrunn.m3u8?yo.up=https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/manifest/&yo.eb.fb=aHR0cHM6Ly9uaC1ydW5udHYtYmx5Zmx4LmNkbi5ydW5uLnR2L25oc3Rkei9zdHJlYW0vYmx5Zmx4L3BsYXlsaXN0Lm0zdTg%3D&ua=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/125.0.0.0%20Safari/537.36&ip=171.61.167.230&os=1&trq=2026-01-27T15:14:47.986073Z&av=75.0.16&mn=pc&dt=4&vr=92
 #EXTINF:-1 tvg-logo="" group-title="Kissu", Republic Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="ABPGanga.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/500px-ABP_Ganga.svg.png" group-title="News",ABP Ganga (1080p)
