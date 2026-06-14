@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvht3Vvx9Gz1UNHKukYRaAoEyqhhCc1IHt2qkVAE-e3AKEiI8Tuncnvmj&s=10",BEIN SPORTS 2 AU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 #EXTINF:-1 tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS", CRIC || WILLOW 2BYCBUZZ HD
 https://a131live-pv-ta-amazon.akamaized.net/sin-nitro/live/clients/dash/enc/1edezq9jtq/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd?|drmScheme=clearkey&drmLicense=ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9cZGt3VJujNhF5G4hLRy4LMC6LVznt8J_xVguOvDzw&s=10" group-title="Live events",willow English
