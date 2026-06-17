@@ -39,7 +39,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Star Sports 2 Hindi HD
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpgh Hnn,Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
