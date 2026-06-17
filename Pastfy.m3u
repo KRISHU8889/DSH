@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tntsports.png" group-title="🔴PREMIUM SPORT",TNT Sports 2
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/vvdiu7zexg/out/v1/d32dba602fbc4f748445f7fc26fd7b29/cenc.mpd|drmScheme=clearkey&drmLicense=2f930e839e54bcf012e1ea679ab3305e:e967ef6bb2f4f0bc815976d60f489d97
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MPL_Gwalior-Cheetahs_vs_Ujjain-Falcons_Old_match-card_2025_FC-WEB_1780482986758.jpg" group-title="Cricket", Ujjain Falcons Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
 https://in-mc-fblive.fancode.com/mumbai/143089_english_hls_d13559f3b511673_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DftJmQBp/images.png" group-title="🔴PREMIUM SPORT",Fox Sports 1
