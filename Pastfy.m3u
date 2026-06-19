@@ -17,6 +17,152 @@ https://iptv.jio.com/livetv/data/Sansad_TV_2_SD.mpd
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 #EXTINF:-1 tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS", CRIC || WILLOW 2BYCBUZZ HD
 https://a131live-pv-ta-amazon.akamaized.net/sin-nitro/live/clients/dash/enc/1edezq9jtq/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd?|drmScheme=clearkey&drmLicense=ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",AU - SBS VICELAND MELBOURNE
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389546&extension=m3u8 
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",UK - BBC 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389486&extension=m3u8 
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",UK - BBC 2 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389485&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",UK - BBC TWO HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389484&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",UK - ITV 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389483&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CA - TSN 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389529&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CA - TSN 2 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389528&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CA - TSN 3 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389527&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CA - TSN 4 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389526&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CA - TSN 5 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389525&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",ARG - TELEFE HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389549&extension=m3u8 
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",AUS - ORF 1 FHD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389545&extension=m3u8 
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",AUS - SERVUS TV HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389544&extension=m3u8 
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",AFG - ATN
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389552&extension=ts
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",ALB - TV KLAN HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389551&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",AR - EN TV ALGERIA
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389550&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",ARG - TV PUBLICA
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389548&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",ARG - TYC SPORTS
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389547&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",AU - SBS VICELAND MELBOURNE
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389546&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",AUS - ORF 1 FHD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389545&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",AUS - SERVUS TV HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389544&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389537&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389536&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389535&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389534&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389533&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389532&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT PREMIUM 1 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389540&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT PREMIUM 2 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389539&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BA - ARENA SPORT PREMIUM 3 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389538&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BE - VRT 1 FHD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389542&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BG - BNT 1 FHD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389531&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BG - BNT 3 FHD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389530&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",BY - BELARUS 1
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389543&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CA - RDS HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389524&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CHL - CHILEVISION
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389523&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CO - CARACOL HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389522&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CO - RCN
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389521&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CO - WINSPOETS 2
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389517&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CO - WINSPOETS 3
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389516&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CO - WIN SPORTS
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389520&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CO - WINSPORTS 1
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389518&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CO - WIN SPORTS PLUS HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389519&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CR - TELETICA 7
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389515&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CY - SiGMA CYPRUS
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389512&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",CZ - CT 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389511&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",DE - ARD HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389508&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",DE - ZDF HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389507&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",FIN - YLE TV1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389510&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",FR - M6 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389509&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",HR - HRT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389514&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",HR - HRT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389513&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",IR - RTE TWO HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389506&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",IT - RAI 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389505&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",LAT - TIGO SPORTS 1 BO  HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389541&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",LUX - RTL HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389504&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",MNG - RTCG
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389502&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",MXC - AZTECA DEPORTES
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389503&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",NOR - NRK1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389500&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",NOR - NRK2 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389499&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",NZ - TVNZ 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389501&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",PL - TVP 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389497&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",PL -  TVP SPORT
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389498&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",PT - RTP 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389496&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",PT - SPORT TV 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389495&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",PT - SPORT TV 2 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389494&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",RO - TVR HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389493&extension=m3u8 
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",RS - RTS 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389492&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",RS - RTS 2 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389491&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",SE - SVT 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389490&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",SE - SVT 2 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389489&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",TR - TRT 1 HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389488&extension=m3u8
+#EXTINF:-1 group-title="LIVE | WORLD CUP 2026",TR - TRT SPOR HD
+http://mn.killersott.com/play/live.php?mac=00:1A:79:ca:8c:95&stream=1389487&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9cZGt3VJujNhF5G4hLRy4LMC6LVznt8J_xVguOvDzw&s=10" group-title="Live events",willow English
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ztb9jtlusq/out/v1/80da27cef04449a5abf3bea2c70e19cd/cenc.mpd|drmScheme=clearkey&drmLicense=458e0f22edc0799b9c33656bb9e202a1:4af50d29813b200a8f1687da4573b155
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Star Sports HD1
