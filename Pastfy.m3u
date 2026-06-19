@@ -26,7 +26,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ztb9jtlusq/
 #EXTHTTP:{"Cookie":"hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Star Sports HD2
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1781677826~exp=1781699426~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=fa6e90a2ccb63b507dad859522657dacb8857175b6f450fbdd4808cd8ed5b2b6&drmScheme=clearkey&drmLicense=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/wgrmbrvhu8/out/v1/09861970a7a74322aa31ddb10c4b1bce/cenc.mpd|drmScheme=clearkey&drmLicense=9d04482a571bd3de3f3a395fb736b248:3927147a8deb5a6ac33eb47b0d7d8966
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Star Sports Hindi HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
