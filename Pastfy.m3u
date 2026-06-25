@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="English" tvg-logo="https://sportzpower.com/wp-content/uploads/2025/09/2026-Mens-T20-World-Cup-1536x864.png" group-title="Live events",WC 4K ENGLISH
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vu7tptxxnp/out/v1/fe391038bc77451dba2426e7774e6e12/cenc.mpd|drmScheme=clearkey&drmLicense=7e653a8e693b44560774daffba7da42a:6a0ec8b7cd68d77125c93e8481268d4a
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9cZGt3VJujNhF5G4hLRy4LMC6LVznt8J_xVguOvDzw&s=10" group-title="Live events",willow English
-https://in-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8
+https://in-mc-fblive.fancode.com/mumbai/143547_english_hls_b1c72d956823333_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="PBKS VS GT" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7152/1774868187152-i" tvg-id="832.astro" tvg-name="Astro Cricket" tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png" , Astro Cricket 50FPS
 http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&stream=571244&extension=m3u8
 #EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tntsports.png" group-title="🔴PREMIUM SPORT",TNT Sports 2
