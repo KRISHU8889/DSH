@@ -23,6 +23,12 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index
 #EXTVLCOPT:http-user-agent=Reqable/3.1.2
 #EXTHTTP:{"cookie":"__hdnea__=st=1783513438~exp=1783535038~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=11c2e23e9e263c4b7b99ebc85391e2b60ad72e47fd89b8035643e323693edea4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="638" group-title="JioTV+ ▶ | Telugu" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png",Zee Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc160005672554dab9882d0092e0635d:efada6d2baa8b99416f6431e0b0dc19d
+#EXTVLCOPT:http-user-agent=Reqable/3.1.2
+#EXTHTTP:{"cookie":"__hdnea__=st=1783497686~exp=1783519286~acl=/*~hmac=793c2fa9c8f8250c26a97417ba99c9d1e3bb8293ce6fc12b472e9436de380a35","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTelugu_MOB/WDVLive/index.mpd
 #EXTINF:-1,US: Starz Black FHD
 http://fastshare1.com:8080/live/2997722198/2288006793/1024.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/7mate/Other?file=7mate-vertical.svg" group-title="SPORTS", 7MATE HD
