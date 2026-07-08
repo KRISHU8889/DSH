@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="3278" group-title="JioTV+ ▶ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",Star Sports 1 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+#EXTVLCOPT:http-user-agent=Reqable/3.1.2
+#EXTHTTP:{"cookie":"__hdnea__=st=1783520638~exp=1783542238~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=df68d276fc5cd037de0dd461ce1d673b433ec3544b141eed1926d7a4d7928d0d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="1651" group-title="JioTV+ ▶ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg",Star Sports 1 Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
+#EXTVLCOPT:http-user-agent=Reqable/3.1.2
+#EXTHTTP:{"cookie":"__hdnea__=st=1783520638~exp=1783542238~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=99317f09f0e4caec1e1b7ae4811b9ec0a89245a1c3976e299919b7ac2bb06673","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd
 #EXTINF:-1,US: Starz Black FHD
 http://fastshare1.com:8080/live/2997722198/2288006793/1024.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/7mate/Other?file=7mate-vertical.svg" group-title="SPORTS", 7MATE HD
