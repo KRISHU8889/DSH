@@ -693,6 +693,8 @@ https://vg-tv9live.akamaized.net/v1/vglive-sk-121537/main.m3u8
 http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="Telugu Local Channel",Siti Channel 
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8 
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-22-2026-07_05_00-AM-1-185x278.png" group-title="Local Channels",Jai Bheem TV
+https://mumbai-edge.smartplaytv.in/JaiBhim/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl karimnagar 
 http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl nizambad 
