@@ -696,8 +696,9 @@ http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklis
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="Telugu Local Channel",Siti Channel 
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-22-2026-07_05_00-AM-1-185x278.png" group-title="Local Channels",Jai Bheem TV
-h#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-13-2026-10_02_22-PM-1-185x278.png" group-title="Local Channels",Devi Cable Channel
-https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8ttps://mumbai-edge.smartplaytv.in/JaiBhim/index.m3u8
+https://mumbai-edge.smartplaytv.in/JaiBhim/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-13-2026-10_02_22-PM-1-185x278.png" group-title="Local Channels",Devi Cable Channel
+https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl karimnagar 
 http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl nizambad 
