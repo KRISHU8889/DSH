@@ -596,6 +596,8 @@ https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
 https://mumbai-edge.smartplaytv.in/DeviKathalu/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", DS 9 Kathalu
 https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8 
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-20-2026-07_49_05-PM-1-185x278.png" group-title="Local Channels",Media 10 Telugu
+https://mumbai-edge.smartplaytv.in/Media10News/index.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM (1080p)
