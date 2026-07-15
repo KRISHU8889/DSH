@@ -717,6 +717,8 @@ https://vvsolutions.in/aksharanews/aksharanews.m3u8
 https://vvsolutions-server10.in/hls/santhoshamtv_110.m3u8
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/meetv.jpg" group-title="Telugu Local Channel",mee tv
 https://sharsolution.in/hls/meetv/meetv.m3u8 
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-9-2026-09_24_54-PM-1-185x278.png" group-title="Local Channels",AVN TV Telugu
+https://mumbai-edge.smartplaytv.in/AVNTV/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Siti Cable Tandur
 https://vvsolutions.in/cabletandur/cabletandur.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="http://cnews.phoenixcreations.online/cnews/cnews/tracks-v1a1/index.m3u8",C news
