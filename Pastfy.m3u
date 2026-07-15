@@ -848,6 +848,8 @@ http://cache.internode.co.in:6081/ShreyasTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/GKMedia/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",S10 News Telugu
 https://mumbai-edge.smartplaytv.in/s10/index.m3u8 
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-19-2026-08_51_01-PM-1-185x278.png" group-title="Local Channels",NSR News
+https://mumbai-edge.smartplaytv.in/NSRNEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1203058773850208711274950.png" group-title="Telugu Local Channel",Studio 18 Tv 
 http://cloud.streamplay.in:1935/studio18/studio18/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/jqBZFJA_phkn-g2hBuvcTu8hzwkEQXbyFPpNYMMMHD_5drSqkmI27ryNN76kkWb6faQ2=w240-h480-rw" group-title="Telugu Local Channel",Santhosham TV 
