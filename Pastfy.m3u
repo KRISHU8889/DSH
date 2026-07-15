@@ -592,6 +592,8 @@ https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
 http://cache.internode.co.in:6081/BCTKeerthana/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", BCT Classic
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8 
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-13-2026-10_02_27-PM-1-185x278.png" group-title="Local Channels",Devi Kathalu
+https://mumbai-edge.smartplaytv.in/DeviKathalu/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", DS 9 Kathalu
 https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8 
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music (1080p)
