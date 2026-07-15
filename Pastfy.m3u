@@ -566,6 +566,8 @@ https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SunNxt", Gemini Music
 https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/07/ChatGPT-Image-Jul-1-2026-07_53_52-PM-1-185x278.png" group-title="Local Channels",Gee TV Music
+https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music
 http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu Local Channel",Masti Music
