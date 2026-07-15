@@ -707,6 +707,8 @@ http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8
 http://venus.streambridge.link:8045/telugu/tgn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1216086344639422630948665.png" group-title="Telugu Local Channel",Sity CCC Tv 
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8 
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-09_03_16-PM-1-185x278.png" group-title="Local Channels",SV News Telugu
+https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Ux5hUD3G0CqgjYzLusscYCzBsbKWepCkhArK1-4-LUFlGxE2yFfLda_SyRE5wI3E2Kn-VnNwHg=s900-c-k-c0x00ffffff-no-rj" group-title="Telugu Local Channel",SLN News 
 https://vvsolutions-server11.in/slnnews_2/video.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Akshara News
