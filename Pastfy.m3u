@@ -3,6 +3,8 @@
 https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
 #EXTINF:-1 tvg-id="fifa47" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 1 HD - Tplay
 https://dev.denver69.fun/Mozzz/UNITESSPORTS1/master.m3u8
+#EXTINF: -1 tvg-id="1000119186" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sony Liv", SONY TEN 4 HD
+https://dev.denver69.fun/Sony/TEN4HD/index.m3u8
 #EXTINF:-1 tvg-id="fifa48" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite2hd_wdpxkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 2 HD - Tplay
 https://dev.denver69.fun/Mozzz/UNITESSPORTS2/master.m3u8
 #EXTHTTP:{"Cookie":"hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
