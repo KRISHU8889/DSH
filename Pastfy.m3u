@@ -972,9 +972,9 @@ https://mumbai-edge.smartplaytv.in/VRMMEDIA/index.m3u8
 https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2028461646911551924218864.png" group-title="GK", BBR TV
 http://bbrtv.phoenixcreations.online/bbrtv/bbrtv/playlist.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",TS9 News Telugu
-https://mumbai-edge.smartplaytv.in/TS9/index.m3u8 
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",J7 TV News
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-15-2026-04_13_10-PM-1-185x278.png" group-title="Local Channels",TS9 News Telugu
+https://mumbai-edge.smartplaytv.in/TS9/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/04/J7-TV-NEWS-24x7-logo-1-185x278.png" group-title="Local Channels",J7 TV News
 https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",CK News Telugu
 https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8 
