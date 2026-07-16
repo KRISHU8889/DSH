@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://delta12tatasky.akamaized.net/out/i/22.mpd?
 #EXTINF: -1 tvg-id="1000119186" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sony Liv", SONY TEN 4 HD
 https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
 #EXTINF:-1 tvg-id="fifa47" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 1 HD - Tplay
