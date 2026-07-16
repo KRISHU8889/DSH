@@ -1,6 +1,32 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="1000119186" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sony Liv", SONY TEN 4 HD
 https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
+#EXTINF:-1 tvg-id="fifa47" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 1 HD - Tplay
+https://dev.denver69.fun/Mozzz/UNITESSPORTS1/master.m3u8
+#EXTINF:-1 tvg-id="fifa48" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite2hd_wdpxkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 2 HD - Tplay
+https://dev.denver69.fun/Mozzz/UNITESSPORTS2/master.m3u8
+#EXTHTTP:{"Cookie":"hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Star Sports 2 Telugu
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Sports" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Star Sports 2 Tamil
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1781507253~acl=%2f*~id=eee21e928602a98b48e788fb6abe3d93~data=hdntl~hmac=692edf51a603fc81282323085853932ea8dabba63d563cb8f113eae2288aa104","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tntsports.png" group-title="🔴PREMIUM SPORT",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-id="fifa47" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 1 HD - Tplay
+http://fastshare1.com:8080/live/Jen12345/Jen54321/741567.ts
+#EXTINF:-1 tvg-id="745202" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
+http://fastshare1.com:8080/live/Jen12345/Jen54321/745202.ts
+#EXTINF:-1 tvg-id="fifa48" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite2hd_wdpxkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 2 HD - Tplay
 #EXTINF:-1 tvg-id="3278" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png" group-title="Sports", Star Sports 1 Telugu HD
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
