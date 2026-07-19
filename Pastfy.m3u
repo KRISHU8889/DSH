@@ -871,6 +871,8 @@ http://cache.internode.co.in:6081/SV6/index.m3u8
 https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://play-lh.googleusercontent.com/M7l4T7wPb8pHa1P2F0jYARrKbq7cRuw5CUMtRtg4uaFwtp_P9TAJ6sUiX7iIadlyEW3_sIIW72qw0ouLCTk-J9I=w240-h480-rw", R5TV
 https://vvsolutions-server13.in/r5tv_28/video.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Siti 24×7 News
+https://www.schannels.in/SITI24X7_1/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/tollytv_512X512_balck.png", Tolly Tv 
 https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBhF_sy_dVrZuGW2F1B_dvkFi6JSlMR_vG7etu-iyj9w=s900-c-k-c0x00ffffff-no-rj", Mango TV Telugu 
