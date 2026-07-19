@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1319" tvg-name="Zee Cafe HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgnThBdU8u_E0VkTwKGbnaQn-2KYm8on3iD2i6YsCtLNrDYVpw4iwqv8&s=10" group-title="FIFA2026",Fussball TV 4k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+#EXTINF:-1 tvg-id="1319" tvg-name="Zee Cafe HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgnThBdU8u_E0VkTwKGbnaQn-2KYm8on3iD2i6YsCtLNrDYVpw4iwqv8&s=10" group-title="FIFA2026",Fussball TV 4k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e":"17aea325d91b5e66f06a8c574f2f0b03", "b73f76658d1f5ce38420f380421bafe3":"9ebdbf32f90b546f66603104b2ac3c8a", "e1f8fc6898fc5bf7a00b5609af23fee0":"98b7133ee006d9fae111ec0cb366641c", "e511fb81360c5f14b681605d1de52046":"ec72f335d0e436ac7dc1d936aea1144a"}
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
