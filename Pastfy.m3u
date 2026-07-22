@@ -626,6 +626,8 @@ https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/07/ChatGPT-Image-Jul-1-2026-07_53_52-PM-1-185x278.png" group-title="Local Channels",Gee TV Music
 https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
+#EXTINF:-1 tvg-name="KCN MUSIC" tvg-logo="https://scontent.fhyd14-2.fna.fbcdn.net/v/t39.30808-6/474444724_659538523064586_1040626824887525537_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1150&ctp=s2048x1150&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=SRika6O9h2cQ7kNvwGTTQ45&_nc_oc=Ado_6erCEAGgTj8HQk76KNVX9Q3uXelY3i-dkLNMRc2CoiD0lLdL23eokVpzP4rz_z3RJrsTOvnlK4Dpq44dBvJ1&_nc_zt=23&_nc_ht=scontent.fhyd14-2.fna&_nc_gid=jFrGfKpdJU-GPE1nL_BTuQ&_nc_ss=7b289&oh=00_AQDS4XEnWQjkZYIoCWJXk9zYgeeEZndc983H64o2NHwElg&oe=6A66DB3B" group-title="LOCAL",KCN MUSIC
+https://cloud.kcncable.in/hls/kcnmusic/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-12_21_12-PM-1-185x278.png" group-title="Local Channels",Chanakya News Telugu
 https://mumbai-edge.smartplaytv.in/ChanakyaNews/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music
@@ -646,6 +648,8 @@ https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8
 https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Music
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8 
+#EXTINF:-1 tvg-name="KCN BANJARA" tvg-logo="https://scontent.fhyd14-2.fna.fbcdn.net/v/t39.30808-6/300458280_520747486522652_8928384645858613089_n.jpg?stp=dst-jpg_tt6&cstp=mx960x957&ctp=s960x957&_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=FuevPuehGUAQ7kNvwG6PBds&_nc_oc=Ado1qVgS7Y--ngUVFXo8wenOVhCNCRYM5-3-E_XYrZYmQ5o6cn8GNDthWt2dautgOVatmqaL47vKZTnzddWzBKhK&_nc_zt=23&_nc_ht=scontent.fhyd14-2.fna&_nc_gid=uZMpJdGEIYG1DN-mobZS4w&_nc_ss=7b289&oh=00_AQDq_bTPlcB6SICWTZSx9dWgRwLTbKxyptfRRCmWIZwo2w&oe=6A66F4F0" group-title="LOCAL",KCN BANJARA
+https://cloud.kcncable.in/hls/kcnbanjara/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Gold
 https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",BCT Keerthana
@@ -789,6 +793,8 @@ https://sharsolution.in/hls/meetv/meetv.m3u8
 https://mumbai-edge.smartplaytv.in/AVNTV/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-08_45_07-AM-1-185x278.png" group-title="Local Channels",ASN News Telugu
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
+#EXTINF:-1 tvg-name="KCN FUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7F-twbnUlAqA0kfCFMEKjVQxPfjETOvjDBTof98yRVPA9JoM1Oc9qhWF&s=10" group-title="LOCAL",KCN FUN
+https://cloud.kcncable.in/hls/kcnfun/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Siti Cable Tandur
 https://vvsolutions.in/cabletandur/cabletandur.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="http://cnews.phoenixcreations.online/cnews/cnews/tracks-v1a1/index.m3u8",C news
@@ -918,6 +924,8 @@ https://mumbai-edge.smartplaytv.in/GKMedia/index.m3u8
 https://mumbai-edge.smartplaytv.in/s10/index.m3u8 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-19-2026-08_51_01-PM-1-185x278.png" group-title="Local Channels",NSR News
 https://mumbai-edge.smartplaytv.in/NSRNEWS/index.m3u8
+#EXTINF:-1 tvg-name="KCN CLASSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2h29NCXJFk83Po2JPAD_kqX4AMsdBNM0x43wwnScAwSaM9YY3dS4xaE&s=10" group-title="LOCAL",KCN CLASSIC
+https://cloud.kcncable.in/hls/kcnclassic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1203058773850208711274950.png" group-title="Telugu Local Channel",Studio 18 Tv 
 http://cloud.streamplay.in:1935/studio18/studio18/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/jqBZFJA_phkn-g2hBuvcTu8hzwkEQXbyFPpNYMMMHD_5drSqkmI27ryNN76kkWb6faQ2=w240-h480-rw" group-title="Telugu Local Channel",Santhosham TV 
