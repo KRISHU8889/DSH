@@ -759,10 +759,14 @@ http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklis
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-22-2026-07_05_00-AM-1-185x278.png" group-title="Local Channels",Jai Bheem TV
 https://mumbai-edge.smartplaytv.in/JaiBhim/index.m3u8
+#EXTINF:-1 tvg-name="KCN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFl2IEA2IAI1tSnA7PI9cmu_o1MmQAZvpmxSTUjqg4UpD641fIYVbu2tdj&s=10" group-title="LOCAL",KCN
+https://cloud.kcncable.in/hls/kcn/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-13-2026-10_02_22-PM-1-185x278.png" group-title="Local Channels",Devi Cable Channel
 https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl karimnagar 
 http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8 
+#EXTINF:-1 tvg-name="KCN PRATHYAKSHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IJIqK5rAALY2G4UJzvsziUokiNX-URe_IXy2QZ-Wz4uiDK1966iUc2Q&s" group-title="LOCAL",KCN PRATHYAKSHA
+https://cloud.kcncable.in/hls/kcnprathyaksha/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl nizambad 
 http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2Fytc%2FAIdro_n_bVDpcsGv9HWapdDmyrhBs3z4XNRFAAUhQG4JLXsLgQ%3Ds176-c-k-c0x00ffffff-no-rj-mo&tbnid=KDgzHDYzdZBZhM&vet=1&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCcJtNE-6s8cxw-Gj89m4LIA&docid=ldK3-xzIdMlLKM&w=176&h=176&hl=en-US&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=acdaffc64d748111&shem=epsd1%2Crimspwouoe" group-title="LOCAL", TGN TELUGU
@@ -771,6 +775,8 @@ http://venus.streambridge.link:8045/telugu/tgn/index.m3u8
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-09_03_16-PM-1-185x278.png" group-title="Local Channels",SV News Telugu
 https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
+#EXTINF:-1 tvg-name="KCN MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wVk2rRubuszr4NKPwgBizUlnubm2vKb_xrWkotwVtQ&s" group-title="LOCAL",KCN MOVIES
+https://cloud.kcncable.in/hls/kcnmovies/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Ux5hUD3G0CqgjYzLusscYCzBsbKWepCkhArK1-4-LUFlGxE2yFfLda_SyRE5wI3E2Kn-VnNwHg=s900-c-k-c0x00ffffff-no-rj" group-title="Telugu Local Channel",SLN News 
 https://vvsolutions-server11.in/slnnews_2/video.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Akshara News
