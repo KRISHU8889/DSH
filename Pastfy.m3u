@@ -721,6 +721,8 @@ https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://cdn-6.pishow.tv/live/395/master.m3u8
 #EXTINF:-1 tvg-id="775" tvg-name="Vanitha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="JioTv+ TELUGU",Vanitha
 https://cdn-1.pishow.tv/live/393/master.m3u8
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Kathalu 
+http://cache.internode.co.in:6081/SSLCKathalu/index.m3u8 
 #EXTINF:-1 tvg-id="BhakthiTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="Religious",Bhakthi TV (720p)
 https://cdn-1.pishow.tv/live/397/master.m3u8
 #EXTINF:-1 tvg-id="SVBC.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" group-title="Religious",SVBC Sri Venkateswara Bhakti Channel (1080p)
@@ -978,8 +980,6 @@ https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
 http://cloud.streamplay.in:1935/ammanews/ammanews/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",Bahujana News TV
 https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8 
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Kathalu 
-http://cache.internode.co.in:6081/SSLCKathalu/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SVC
 http://cache.internode.co.in:6081/SVC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu Local Channel",MTV
@@ -990,6 +990,10 @@ https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
 http://telugusolutions.com:8088/nsrnews/nsrnews.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",N24 News Telugu
 https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8 
+#EXTINF:-1 tvg-name="KTV HOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV HOLLYWOOD
+https://mumbai-edge.smartplaytv.in/KTVHOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-name="KTV BOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV BOLLYWOOD
+https://mumbai-edge.smartplaytv.in/KTVBOLLYWOOD/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Gold 
 http://cache.internode.co.in:6081/SSLCGold/index.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", SSLC Cinemalu 
@@ -1012,7 +1016,8 @@ http://cache.internode.co.in:6081/SSLC2Cinemalu/index.m3u8
 http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_me77pNVxS6jQCWDKnVPzo7RpY923CWxPdQEPvfWplnrYk=s900-c-k-c0x00ffffff-no-rj" group-title="Telugu Local Channel",Tv8 
 https://vvsolutions.in/tv8news/tv8news.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1044355606823935916944729.png" group-title="Telugu Local Channel",TV7 Hills https://server.streamwell.in/hls/7hills.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1044355606823935916944729.png" group-title="Telugu Local Channel",TV7 Hills 
+https://server.streamwell.in/hls/7hills.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1223351702837409982739162.png" group-title="Telugu Local Channel",News 9 Today http://live.streamplay.in:1935/news9/news9/playlist.m3u8 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", RKTV
 https://mumbai-edge.smartplaytv.in/RKTV/index.m3u8 
