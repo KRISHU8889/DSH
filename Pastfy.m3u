@@ -571,6 +571,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/oOi1ii0IO1i1iiL1lO0I00/manifest.mpd
+#EXTINF:-1 tvg-name="KTV MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV MOVIES
+https://mumbai-edge.smartplaytv.in/KTVNEWMOVIES/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
