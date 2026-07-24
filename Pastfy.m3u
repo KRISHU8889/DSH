@@ -701,6 +701,8 @@ https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194394" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg" group-title="SunNxt", Gemini Comedy
 https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd 
+#EXTINF:-1 tvg-name="KTV COMEDY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV COMEDY
+https://mumbai-edge.smartplaytv.in/KTVCOMEDY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Etv Comedy" tvg-logo="https://i.ibb.co/8nxc28gY/1000150595.png" group-title="Entertainment",Etv Comedy
 https://cc-wie8j8y69d2uy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/f2f59ff5-3585-4808-b7df-04f7445a7138/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Etv Comedy" tvg-logo="https://i.ibb.co/8nxc28gY/1000150595.png" group-title="Entertainment",Etv Comedy
