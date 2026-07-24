@@ -630,6 +630,8 @@ https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 https://cloud.kcncable.in/hls/kcnmusic/index.m3u8
 #EXTINF:-1 tvg-name="KTV FOLK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV FOLK
 https://mumbai-edge.smartplaytv.in/KTVFOLK/index.m3u8
+#EXTINF:-1 tvg-name="KTV MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_eBy_nM2YqvZWDO2pcgoMTOKcYtfErvMigyh_HCeSQ&s" group-title="LOCAL",KTV MUSIC
+https://mumbai-edge.smartplaytv.in/KTVMUSIC/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-12_21_12-PM-1-185x278.png" group-title="Local Channels",Chanakya News Telugu
 https://mumbai-edge.smartplaytv.in/ChanakyaNews/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music
