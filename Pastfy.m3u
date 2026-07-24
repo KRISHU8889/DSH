@@ -20,13 +20,34 @@ https://servertvhub.site/jiotv+/mpd.php?id=760
 #EXT-X-DRM-ID: 1137
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1137
 https://servertvhub.site/jiotv+/mpd.php?id=1137
-#EXTINF:-1 tvg-id="1138" tvg-name="Star Maa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png" group-title="JioTv+ TELUGU",Star Maa
+#EXTINF:-1 tvg-id="3278" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 1 Telugu HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXT-X-DRM-ID: 1138
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1138
-https://servertvhub.site/jiotv+/mpd.php?id=1138
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+#EXT-X-DRM-ID: 3278
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3278
+https://servertvhub.site/jiotv+/mpd.php?id=3278
+#EXTINF:-1 tvg-id="1651" tvg-name="Star Sports 1 Telugu" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 1 Telugu
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
+#EXT-X-DRM-ID: 1651
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1651
+https://servertvhub.site/jiotv+/mpd.php?id=1651
+#EXTINF:-1 tvg-id="3274" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 2 Telugu HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
+#EXT-X-DRM-ID: 3274
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3274
+https://servertvhub.site/jiotv+/mpd.php?id=3274
+#EXTINF:-1 tvg-id="2852" tvg-name="Star Sports 2 Telugu" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 2 Telugu
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e38f46718d9d5c40af83095f176ba41e:8836ee0f7377d71c156a139361a45be5
+#EXT-X-DRM-ID: 2852
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=2852
+https://servertvhub.site/jiotv+/mpd.php?id=2852
 #EXTINF:-1 group-title="LIVE | WORLD CUP 2026",UK - ITV 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
