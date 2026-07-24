@@ -628,6 +628,8 @@ https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_i
 https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 #EXTINF:-1 tvg-name="KCN MUSIC" tvg-logo="https://scontent.fhyd14-2.fna.fbcdn.net/v/t39.30808-6/474444724_659538523064586_1040626824887525537_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1150&ctp=s2048x1150&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=SRika6O9h2cQ7kNvwGTTQ45&_nc_oc=Ado_6erCEAGgTj8HQk76KNVX9Q3uXelY3i-dkLNMRc2CoiD0lLdL23eokVpzP4rz_z3RJrsTOvnlK4Dpq44dBvJ1&_nc_zt=23&_nc_ht=scontent.fhyd14-2.fna&_nc_gid=jFrGfKpdJU-GPE1nL_BTuQ&_nc_ss=7b289&oh=00_AQDS4XEnWQjkZYIoCWJXk9zYgeeEZndc983H64o2NHwElg&oe=6A66DB3B" group-title="LOCAL",KCN MUSIC
 https://cloud.kcncable.in/hls/kcnmusic/index.m3u8
+#EXTINF:-1 tvg-name="KTV FOLK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV FOLK
+https://mumbai-edge.smartplaytv.in/KTVFOLK/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-12_21_12-PM-1-185x278.png" group-title="Local Channels",Chanakya News Telugu
 https://mumbai-edge.smartplaytv.in/ChanakyaNews/index.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sama music
