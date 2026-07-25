@@ -671,8 +671,6 @@ https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXT-X-DRM-ID: 1363
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1363
 https://servertvhub.site/jiotv+/mpd.php?id=1363
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 #EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://i.ibb.co/vxXSzvsZ/Picsart-25-02-15-12-56-14-956.png" group-title="Dish TV", Zee Cinemalu SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
