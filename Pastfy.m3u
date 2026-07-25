@@ -904,6 +904,7 @@ https://vg-tv9live.akamaized.net/v1/vglive-sk-121537/main.m3u8
 https://mumbai-edge.smartplaytv.in/KTVNews/index.m3u8
 #EXTINF:-1 tvg-name="MA Telanagana Tv" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png",MA Telagana Tv
 http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Bhavya TV http://encode.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8     
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="Telugu Local Channel",Siti Channel 
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8 
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-22-2026-07_05_00-AM-1-185x278.png" group-title="Local Channels",Jai Bheem TV
