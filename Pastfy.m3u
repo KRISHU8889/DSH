@@ -13,6 +13,13 @@ https://servertvhub.site/jiotv+/mpd.php?id=1112
 #EXT-X-DRM-ID: 760
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=760
 https://servertvhub.site/jiotv+/mpd.php?id=760
+#EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" group-title="JioTv+ TELUGU",Zee Cinemalu HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fa59e199f7352d69e194a23525b5ec2:bd1eaea91897258b3068bb81f1c9011c
+#EXT-X-DRM-ID: 1363
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1363
+https://servertvhub.site/jiotv+/mpd.php?id=1363
 #EXTINF:-1 tvg-id="1137" tvg-name="Maa Gold" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="JioTv+ TELUGU",Maa Gold
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
