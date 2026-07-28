@@ -118,6 +118,9 @@ https://servertvhub.site/jiotv+/mpd.php?id=1985
 #EXT-X-DRM-ID: 1389
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1389
 https://servertvhub.site/jiotv+/mpd.php?id=1389
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4952/1424952-a-5e13c7b9ff28.jpg",Telugu Opplex
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/Share0804.php?id=177843
 #EXTINF:-1 group-title="LIVE | WORLD CUP 2026",UK - ITV 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
