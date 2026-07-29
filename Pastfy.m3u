@@ -829,8 +829,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5774f9c8093547ac8796445049163c00:2716fd8f71974ffa82e68e198c8d91d6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/main.mpd
-
-
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" group-title="ZEE HINDI 🇮🇳",Sangeet Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeb0cd6768be49eeb8eac3df17638a4e:3496163276404b46906865eadd195e67
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd?
+#EXTINF:-1 tvg-id="585" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="ZEE HINDI 🇮🇳",Zing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+ #EXTINF:-1 tvg-id="592" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="ZEE HINDI 🇮🇳",ZOOM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="",PTC Music
 https://cdn-3.pishow.tv/live/1501/master.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",Balle Balle (1080p)
@@ -841,6 +851,7 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png" group-title="General",DD Yadagiri (576p)
 https://cdn-1.pishow.tv/live/21/master.m3u8
 #EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png" group-title="General",DD Saptagiri (576p)
+https://cdn-1.pishow.tv/live/22/master.m3u8
 https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
 #EXTINF:-1 tvg-id="VissaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png" group-title="Entertainment",Vissa TV (576p)
 https://mumt02.tangotv.in/VISSATV/index.m3u8
@@ -915,6 +926,10 @@ https://livestream.sunnxt.com/b24f908d8104462db019c91dac6512a3/KushiTV_IN_index.
 https://servertvhub.site/jiotv+/mpd.php?id=1080
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="",WOW Kidz Telugu
 https://yuppparoriglin.akamaized.net//181224//smil:wowkidztelgu.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=720x540" group-title="ZEE HINDI 🇮🇳",Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd 
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", VCN TV https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Etv Telangana" tvg-logo="https://i.ibb.co/MxZRmbgQ/1000150603.png" group-title="Entertainment",Etv Telangana
 https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
