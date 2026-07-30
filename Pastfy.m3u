@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="608" tvg-name="Zee Tamil HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Thumbnail_7022fe5b-89a2-4cca-a9d0-58e46baa6d5c.png" group-title="AMAIRA Entertainment", Zee Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-zeetamil&u=Stream-star
+https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-zeetelugu&u=Stream-star
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="ZEE HINDI 🇮🇳",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
