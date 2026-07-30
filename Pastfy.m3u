@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="AMAIRA Sports", Cricbuzz
+https://s.rocketdns.info:443/live/1234567/7654321/587722.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png" group-title="SPORTS", FOX501
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
