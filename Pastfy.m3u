@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="496" tvg-name="Star Vijay HD" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="AMAIRA Entertainment", Star Vijay HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://m3u.8088y.fun/jtv/Star_Maa_HD.mpd?tk=testing
 #EXTINF:-1 tvg-id="502" group-title="AMAIRA Sports" tvg-logo="https://i.ibb.co/h1gBmjbj/Unite8-1.png",Unite8 Sports 1 HD
 http://skyfilex.fun:80/live/9480808/9480808/741567.ts
 #EXTINF:-1 tvg-id="506" group-title="AMAIRA Sports" tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png",Unite8 Sports 2 HD
