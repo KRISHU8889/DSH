@@ -9,6 +9,10 @@ https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeetelugu
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/new-wca/281777.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="ZEE", Zee Cinemalu HD
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeecinemalu
+#EXTINF:-1 group-title="|AS| TELUGU" tvg-logo="http://103.176.90.118/picons-dino/logos/starmaa.jpg", TLG - STAR MAA MOVIES UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/new-wca/281778.m3u8
+#EXTINF:-1 group-title="|AS| TELUGU" tvg-logo="http://103.176.90.118/picons-dino/logos/starmaa.jpg", TLG - STAR MAA GOLD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/new-wca/281779.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg" group-title="ZEE", Zee Telugu SD
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-9z5383485
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="ZEE", Zee Cinemalu
