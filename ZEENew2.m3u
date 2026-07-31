@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_avif,q_auto:eco/resources/0-9-zeecafehd/portrait/1920x770pwabannerce6777d11f2744d68f3fae5174a28c0e.jpg" group-title="ZEE", Unite8 Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_avif,q_auto:eco/resources/0-9-channel_2105335046/portrait/1920x770pwabannereb934e08e5d34655b2895321fdf3df32.jpg" group-title="ZEE", Unite8 Sports 2 HD
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-channel_2105335046
