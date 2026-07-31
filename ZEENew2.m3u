@@ -197,6 +197,22 @@ https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-09_02_36-AM-1-185x278.png" group-title="Local Channels",VV Movies
 https://allchannels.in/live/vvmovies_100/index.m3u8
+#EXTINF:-1 tvg-name="KTV MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV MOVIES
+https://mumbai-edge.smartplaytv.in/KTVNEWMOVIES/index.m3u8
+#EXTINF:-1 tvg-name="KTV NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHFc7Y5SpBt3C3hTZSFVhn9R391trECu69F2vtluBvuQ&s" group-title="LOCAL",KTV NEWS
+https://mumbai-edge.smartplaytv.in/KTVNews/index.m3u8
+#EXTINF:-1 tvg-name="KTV MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_eBy_nM2YqvZWDO2pcgoMTOKcYtfErvMigyh_HCeSQ&s" group-title="LOCAL",KTV MUSIC
+https://mumbai-edge.smartplaytv.in/KTVMUSIC/index.m3u8
+#EXTINF:-1 tvg-name="KTV HOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV HOLLYWOOD
+https://mumbai-edge.smartplaytv.in/KTVHOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-name="KTV BOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV BOLLYWOOD
+https://mumbai-edge.smartplaytv.in/KTVBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-name="KTV FOLK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV FOLK
+https://mumbai-edge.smartplaytv.in/KTVFOLK/index.m3u8
+#EXTINF:-1 tvg-name="KTV BHAKTHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV BHAKTHI
+https://mumbai-edge.smartplaytv.in/KTVBHAKTHI/index.m3u8
+#EXTINF:-1 tvg-name="KTV COMEDY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV COMEDY
+https://mumbai-edge.smartplaytv.in/KTVCOMEDY/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-09_04_59-AM-1-185x278.png" group-title="Local Channels",VV Music
 https://allchannels.in/live/vvmusic_100/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-09_21_26-AM-1-185x278.png" group-title="Local Channels",RK TV 2
