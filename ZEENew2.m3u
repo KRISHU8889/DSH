@@ -547,4 +547,19 @@ https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeecafehd
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-348
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/list/1920x1080list6d595ac187f94ee8a066a848374117fe.jpg" group-title="ZEE", Zee Kannada HD
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeekannada
-
+#EXTINF:-1 tvg-id="562" tvg-logo="https://tatalogo.pages.dev/562.png" group-title="AMAIRA Movies",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="599" tvg-logo="https://tatalogo.pages.dev/599.png" group-title="AMAIRA Movies",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="210" tvg-logo="https://tatalogo.pages.dev/210.png" group-title="AMAIRA Movies",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="AMAIRA Movies", Romedy Now
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
