@@ -381,6 +381,124 @@ http://cloud.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 http://live.streamplay.in:1935/108tv/108tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",V5 News
 http://cloud.streamplay.in:1935/v5news/v5news/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Prime one news
+http://live.streamplay.in:1935/prime1/prime1/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png" group-title="Telugu Local Channel",Vihari Tv
+http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8
+#EXTINF:-1 tvg-name="MA Telanagana Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png" group-title="Telugu Local Channel",MA Telagana Tv
+http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="http://cnews.phoenixcreations.online/cnews/cnews/tracks-v1a1/index.m3u8" group-title="Telugu Local Channel",C news
+http://cnews.phoenixcreations.online/cnews/cnews/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Bbrtv
+http://bbrtv.phoenixcreations.online/bbrtv/bbrtv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",new tv telugu
+http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",MA Telangana TV
+http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Zoy HD
+https://rtmp.streamwell.in/hls/zoyhd.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930056864.png" group-title="Telugu Local Channel",VV Movies HD
+http://allchannels.in:80/live/vvmovies_100/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930073502.png" group-title="Telugu Local Channel",VV Music HD
+http://allchannels.in:80/live/vvmusic_100/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQFbgs24zIVqeg/company-logo_200_200/company-logo_200_200/0/1630625392514?e=2147483647&v=beta&t=v8_ABKXGqz6r9iz5WG1XZAcJ0zX0gFkTPv5IOvAXXfI" group-title="Telugu Local Channel",Public Tv
+https://publictvtelugu.co.in/publictv_1/video.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/meetv.jpg" group-title="Telugu Local Channel",mee tv
+https://sharsolution.in/hls/meetv/meetv.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",D4 channel
+https://sharsolution.in/hls/d4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1054176811098685694198369.png" group-title="Telugu Local Channel",SS News Tv
+http://streamcp.logosys.cloud:1935/snewsnpt/snewsnpt/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",bcn channel
+http://streamcp.logosys.cloud:1935/bcnchannel/bcnchannel/chunklist_w1043016966.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1200051642873567375927303.png" group-title="Telugu Local Channel",Praja Tv
+http://prajatv.mythrimediaindia.com:1935/prajatv/prajatv/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",City news
+http://citynews.mythrimediaindia.com:1935/citynews/citynews/index.m3u8
+#EXTINF:-1 tvg-name="V6 News Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1239252415599862167160536.png" group-title="Telugu Local Channel",V6 News Tv
+https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv5 News" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1238455999003030545830557.png" group-title="Telugu Local Channel",Tv5 News
+https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/110322/tv5/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Mana tv international
+https://manatv.akamaized.net/090823/smil:manatvint.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Ntv Telugu
+https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/110322/ntv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/89802/etv-plus-320x240.jpg" group-title="Telugu Local Channel",ETV Plus
+https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/27931/etv-cinema-320x240.jpg" group-title="Telugu Local Channel",ETV Cinema
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/28270/etv-telugu-320x240.jpg" group-title="Telugu Local Channel",ETV Telugu
+https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Dd saptagiri
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index_3.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Dd yadagiri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index_3.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Zee Telugu News
+https://d116gfrn8orazi.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Ayush TV 2
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Bhakti TV
+https://segment.yuppcdn.net/240122/bhakti/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Mana TV HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/manatv/master/chunklist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/tollytv_512X512_balck.png" group-title="Telugu Local Channel",Tolly Tv
+https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Studio One Plus
+https://cdn-1.pishow.tv/live/276/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Big TV 2
+https://cdn-1.pishow.tv/live/1059/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",10tv Telugu
+https://cdn-1.pishow.tv/live/391/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",ABN Telugu
+https://cdn-1.pishow.tv/live/407/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",6TV 2
+https://cdn-1.pishow.tv/live/232/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Mahaa News 2
+https://cdn-1.pishow.tv/live/401/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",T News 2
+https://cdn-1.pishow.tv/live/385/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",i News
+https://cdn-1.pishow.tv/live/411/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",Sakshi TV 2
+https://cdn-1.pishow.tv/live/409/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",TGN News
+https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/i69dvDznC804LvmZZPksaAMwsl0Usx7iQYV5ISIy3vqg88CL2z8gzhder_hFlgMS7w=w240-h480-rw" group-title="Telugu Local Channel",Anjali TV
+http://venus.streambridge.link:8045/telugu/anjalitv/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/TnmbLO4d5JSQXbrqpDt7q_4Y5VBxwxR4dwi3jv5Sk4qNjDAIG7GoLkwcTo7nlCJ_yA=w240-h480-rw" group-title="Telugu Local Channel",INB TV
+https://ace.aplombtv.in/hls/INB/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",SS TV
+https://5dd3981940faa.streamlock.net/snewsnpt/snewsnpt/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20250811T033449SQUARE.png" group-title="Telugu Local Channel",ETV Comedy 2
+https://jmp2.uk/stvp-IN4900003U3
+#EXTINF:-1 tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png" group-title="Telugu Local Channel",ETV News 2
+https://jmp2.uk/stvp-IN4900001AQ
+#EXTINF:-1 tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png" group-title="Telugu Local Channel",ETV Josh 2
+https://jmp2.uk/stvp-IN4900004LP
+#EXTINF:-1 tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" group-title="Telugu Local Channel",ETV Music 2
+https://jmp2.uk/stvp-IN4900002RV
+#EXTINF:-1 tvg-name="Satya News Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0037188944456085858121867.png" group-title="Telugu Local Channel",Satya News Tv
+http://103.146.170.102:1935/satya/satya/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRicm5ld3Nfc2NyZWVuXzBfMTU5ODY0Njg5NF8wMTM/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Telugu Local Channel",DBR News
+http://telugusolutions.in:8088/dbr12/dbr12.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",vizag local tv
+https://edmediahub.in/vizaglocaltv/video.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Telugu Local Channel",tr9 tv
+http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="KCN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFl2IEA2IAI1tSnA7PI9cmu_o1MmQAZvpmxSTUjqg4UpD641fIYVbu2tdj&s=10" group-title="LOCAL",KCN
+https://cloud.kcncable.in/hls/kcn/index.m3u8
+#EXTINF:-1 tvg-name="KCN MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wVk2rRubuszr4NKPwgBizUlnubm2vKb_xrWkotwVtQ&s" group-title="LOCAL",KCN MOVIES
+https://cloud.kcncable.in/hls/kcnmovies/index.m3u8
+#EXTINF:-1 tvg-name="KCN MUSIC" tvg-logo="https://scontent.fhyd14-2.fna.fbcdn.net/v/t39.30808-6/474444724_659538523064586_1040626824887525537_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1150&ctp=s2048x1150&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=SRika6O9h2cQ7kNvwGTTQ45&_nc_oc=Ado_6erCEAGgTj8HQk76KNVX9Q3uXelY3i-dkLNMRc2CoiD0lLdL23eokVpzP4rz_z3RJrsTOvnlK4Dpq44dBvJ1&_nc_zt=23&_nc_ht=scontent.fhyd14-2.fna&_nc_gid=jFrGfKpdJU-GPE1nL_BTuQ&_nc_ss=7b289&oh=00_AQDS4XEnWQjkZYIoCWJXk9zYgeeEZndc983H64o2NHwElg&oe=6A66DB3B" group-title="LOCAL",KCN MUSIC
+https://cloud.kcncable.in/hls/kcnmusic/index.m3u8
+#EXTINF:-1 tvg-name="KCN CLASSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2h29NCXJFk83Po2JPAD_kqX4AMsdBNM0x43wwnScAwSaM9YY3dS4xaE&s=10" group-title="LOCAL",KCN CLASSIC
+https://cloud.kcncable.in/hls/kcnclassic/index.m3u8
+#EXTINF:-1 tvg-name="KCN FUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7F-twbnUlAqA0kfCFMEKjVQxPfjETOvjDBTof98yRVPA9JoM1Oc9qhWF&s=10" group-title="LOCAL",KCN FUN
+https://cloud.kcncable.in/hls/kcnfun/index.m3u8
+#EXTINF:-1 tvg-name="KCN BANJARA" tvg-logo="https://scontent.fhyd14-2.fna.fbcdn.net/v/t39.30808-6/300458280_520747486522652_8928384645858613089_n.jpg?stp=dst-jpg_tt6&cstp=mx960x957&ctp=s960x957&_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=FuevPuehGUAQ7kNvwG6PBds&_nc_oc=Ado1qVgS7Y--ngUVFXo8wenOVhCNCRYM5-3-E_XYrZYmQ5o6cn8GNDthWt2dautgOVatmqaL47vKZTnzddWzBKhK&_nc_zt=23&_nc_ht=scontent.fhyd14-2.fna&_nc_gid=uZMpJdGEIYG1DN-mobZS4w&_nc_ss=7b289&oh=00_AQDq_bTPlcB6SICWTZSx9dWgRwLTbKxyptfRRCmWIZwo2w&oe=6A66F4F0" group-title="LOCAL",KCN BANJARA
+https://cloud.kcncable.in/hls/kcnbanjara/index.m3u8
+#EXTINF:-1 tvg-name="KCN PRATHYAKSHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IJIqK5rAALY2G4UJzvsziUokiNX-URe_IXy2QZ-Wz4uiDK1966iUc2Q&s" group-title="LOCAL",KCN PRATHYAKSHA
+https://cloud.kcncable.in/hls/kcnprathyaksha/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="ZEE", Zee Tamil HD
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeetamil
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg" group-title="ZEE", Zee Marathi HD
