@@ -2797,6 +2797,11 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd#KODIPROP:inputstrea
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-id="174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="AMAIRA Movies", Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/007_jamesbond._SL170_FMpng_.png" group-title="Action",James Bond 007!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xX2dRh0/showcase.png" group-title="AMAIRA Movies",SHOWCASE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
