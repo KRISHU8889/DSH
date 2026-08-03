@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="Entertainment" lang="Telugu", Zee Telugu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
+https://alex4528.site/zee5/zee-telugu-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_avif,q_auto:eco/resources/0-9-zeecafehd/portrait/1920x770pwabannerce6777d11f2744d68f3fae5174a28c0e.jpg" group-title="ZEE", Unite8 Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeecafehd
