@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Entertainment", Maa HD
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"E9mxetoVX0KYO7dmeqefOg","k":"TE2lnVFd5jD2y1lc6o2k_w"},{"kty":"oct","kid":"QZc-YzPwVNOL6xwtPVjQOA","k":"wNW62NvvBGqRKdUe0i6cag"},{"kty":"oct","kid":"yUqF2n5EVj-POmh7W-9kHA","k":"RFRQg0JQiHgwrb3nx1yqKw"},{"kty":"oct","kid":"2oxPIxzXWuKnHii0YmOhNA","k":"z5tZMNRofcoJ6p1Ldufd6g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1786176004~exp=1788768004~acl=/*~hmac=22706651515dd59e9642d6e364f32bbb4a0af8f130f0be555015b76259c29780"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1786176004~exp=1786197604~acl=/*~hmac=22706651515dd59e9642d6e364f32bbb4a0af8f130f0be555015b76259c29780&xxx=%7Ccookie=__hdnea__=st=1786176004~exp=1788768004~acl=/*~hmac=22706651515dd59e9642d6e364f32bbb4a0af8f130f0be555015b76259c29780
+
+#EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="JioTv+ TELUGU",Maa HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b
+#EXTHTTP:{"cookie":"__hdnea__=st=1786176004~exp=1788768004~acl=/*~hmac=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1786176004~exp=1788768004~acl=/*~hmac=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b&xxx=%7Ccookie=__hdnea__=st=1786176004~exp=1788768004~acl=/*~hmac=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b
 #EXTINF:-1 tvg-id="Unite8Sports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Unite8 Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://59.103.38.46:8000/play/a126/index.m3u8
