@@ -6,6 +6,11 @@ http://59.103.38.46:8000/play/a126/index.m3u8
 https://messi.damitv.st/papi/ts/fox-sports-501/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="SPORTS", FOX 502 HD
 https://messi.damitv.st/papi/ts/fox-sports-502/playlist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-icon.png",Brighton Hove Albion vs AS Roma : CBS SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="SPORTS", FOX 504 HD
 https://messi.damitv.st/papi/ts/fox-sports-504/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="SPORTS", FOX 507 HD
@@ -935,6 +940,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/in
 https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8
 #EXTINF:-1 tvg-id="10648" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp" group-title="Entertainment", ABZY DHAKAD
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ed197e7253c04946903f03bad9afac91&key=99ebb8683ea74b70a9fda1cbdc2cc1b4
+#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Entertainment", Korean Drama Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #EXTINF:-1 tvg-id="SHORTS.TV.ACTIVE.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="AMAIRA Movies",Shorts Tv Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
