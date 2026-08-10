@@ -1096,6 +1096,34 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-id="174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="AMAIRA Movies", Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Extreme" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Extreme
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Family Zone" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Family Zone
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime HD" tvg-logo="" group-title="⭐MOVIES⭐",Showtime HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime HD West" tvg-logo="" group-title="⭐MOVIES⭐",Showtime HD West
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Nex" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Nex
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Show Case" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Show Case
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Women" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Women
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz East" tvg-logo="" group-title="⭐MOVIES⭐",Starz East
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore" tvg-logo="" group-title="⭐MOVIES⭐",Starz Encore
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action" tvg-logo="" group-title="⭐MOVIES⭐",Starz Encore Action
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Black" tvg-logo="" group-title="⭐MOVIES⭐",Starz Encore Black
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Wester" tvg-logo="" group-title="⭐MOVIES⭐",Starz Encore Wester
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Weast" tvg-logo="" group-title="⭐MOVIES⭐",Starz Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="ScreenPix" tvg-logo="" group-title="⭐MOVIES⭐",ScreenPix
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/110.ts
 #EXTINF:-1 tvg-id="hbo" group-title="VN 🇻🇳" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png",HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
