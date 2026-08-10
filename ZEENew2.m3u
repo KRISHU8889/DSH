@@ -1158,6 +1158,78 @@ https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTINF:-1 group-title="⭐MOVIES⭐" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi",HOLLYWOOD CLASSICS
 https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="⭐MOVIES⭐",Sony One | Action HITS
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png" group-title="⭐MOVIES⭐",Sony One | Comedy HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="⭐MOVIES⭐",Sony One | Comedy TV
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/En_LG_FAST_DragonsDen_ChannelLogo_Horizontal.png" group-title="⭐MOVIES⭐",Sony One | Dragons' Den
+https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="⭐MOVIES⭐",Sony One | FAVES
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title="⭐MOVIES⭐",Sony One | Thriller TV
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="5tar Max" tvg-logo="" group-title="⭐MOVIES⭐",5tar Max
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="ActionMax" tvg-logo="" group-title="⭐MOVIES⭐",ActionMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="⭐MOVIES⭐",Cinemax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="MoreMax" tvg-logo="" group-title="⭐MOVIES⭐",MoreMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="MovieMax" tvg-logo="" group-title="⭐MOVIES⭐",MovieMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="OuterMax" tvg-logo="" group-title="⭐MOVIES⭐",OuterMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="TrillerMax" tvg-logo="" group-title="⭐MOVIES⭐",TrillerMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="⭐MOVIES⭐",HBO 2 HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/100.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD" tvg-logo="" group-title="⭐MOVIES⭐",HBO Comedy HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="⭐MOVIES⭐",HBO Family HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD East" tvg-logo="" group-title="⭐MOVIES⭐",HBO HD East
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD Weast" tvg-logo="" group-title="⭐MOVIES⭐",HBO HD Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Latino" tvg-logo="" group-title="⭐MOVIES⭐",HBO Latino
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone HD" tvg-logo="" group-title="⭐MOVIES⭐",HBO Zone HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 HD" tvg-logo="" group-title="⭐MOVIES⭐",Showtime 2 HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Bet" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Bet
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Extreme" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Extreme
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Family Zone" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Family Zone
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime HD" tvg-logo="" group-title="⭐MOVIES⭐",Showtime HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime HD West" tvg-logo="" group-title="⭐MOVIES⭐",Showtime HD West
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Nex" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Nex
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Show Case" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Show Case
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Women" tvg-logo="" group-title="⭐MOVIES⭐",Showtime Women
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz East" tvg-logo="" group-title="⭐MOVIES⭐",Starz East
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore" tvg-logo="" group-title="⭐MOVIES⭐",Starz Encore
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action" tvg-logo="" group-title="⭐MOVIES⭐",Starz Encore Action
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Black" tvg-logo="" group-title="⭐MOVIES⭐",Starz Encore Black
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Wester" tvg-logo="" group-title="⭐MOVIES⭐",Starz Encore Wester
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Weast" tvg-logo="" group-title="⭐MOVIES⭐",Starz Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="ScreenPix" tvg-logo="" group-title="⭐MOVIES⭐",ScreenPix
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/110.ts
 #EXTINF:-1 tvg-id="hbo" group-title="VN 🇻🇳" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png",HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
