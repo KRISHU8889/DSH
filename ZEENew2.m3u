@@ -1124,6 +1124,22 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.ts
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.ts
 #EXTINF:-1 tvg-id="" tvg-name="ScreenPix" tvg-logo="" group-title="⭐MOVIES⭐",ScreenPix
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/110.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+#EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="" group-title="⭐MOVIES⭐",MGM+
+https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
+#EXTINF:-1  tvg-id="MGM+.Drive-In.us2" tvg-logo="https://i.imgur.com/3fsnLQn.png" group-title="⭐MOVIES⭐",MGM+ DRIVE IN
+https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e177abdd25b476dbb474fa7c2ee76b3:dc43cb2d4bd48774ef9620fda1158060
+#EXTINF:-1  tvg-id="MGM+.Hits.HD.us2" tvg-logo="https://i.imgur.com/QKtbFDn.png" group-title="⭐MOVIES⭐",MGM+ HITS
+https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f2032b4cae944a0adf5ce111a2ff693:2b4a2855b0abde035714985be6db4bd0
+#EXTINF:-1  tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://i.imgur.com/9TEprOp.png" group-title="⭐MOVIES⭐",MGM+ MARQUEE
+https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd
 #EXTINF:-1 tvg-id="hbo" group-title="VN 🇻🇳" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png",HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
