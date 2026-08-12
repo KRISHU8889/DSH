@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Entertainment",Star Maa HD (1080p)
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1080" tvg-name="Cartoon Network HD+ Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDTelugu.png" group-title="JioTv+ TELUGU",Cartoon Network HD+ Telugu
 https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_MOB/WDVLive/index.mpd?|cookie=__hdnea__=st=1786240839~exp=1786262439~acl=/*~hmac=e41838fde24c1af983b401046a94cf602a881ce62bd005a08c9dc446d9e5c622&drmScheme=clearkey&drmLicense=dfdcfe466f865e51ac6b9345a03478fc:4cfddb414841586f0f992f2810ec2931
 #EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="JioTv+ TELUGU",Maa HD
