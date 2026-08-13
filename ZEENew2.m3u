@@ -160,6 +160,28 @@ https://mumbai-edge.smartplaytv.in/DeviKathalu/index.m3u8
 https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-09_03_16-PM-1-185x278.png" group-title="Local Channels",SV News Telugu
 https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-12-2026-10_27_40-PM-1-200x300.png" group-title="LOCAL", RV DIGITAL TV
+https://server.streamwell.in/hls/rvdigitaltv.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/07/ChatGPT-Image-Jul-16-2026-10_28_04-PM-1-200x300.png" group-title="LOCAL", MEDIA TODAY
+https://mumbai-edge.smartplaytv.in/MediaToday/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/05/ChatGPT-Image-May-15-2026-08_44_33-AM-1-200x300.png" group-title="LOCAL", KEY NEWS
+https://mumbai-edge.smartplaytv.in/KeyNews/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Apr-18-2026-09_08_14-PM-1-200x300.png" group-title="LOCAL", JAI TELANGANA TV
+https://mumbai-edge.smartplaytv.in/JaiTelangana/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Apr-17-2026-09_57_20-PM-1-200x300.png" group-title="LOCAL", TV3
+https://mumbai-edge.smartplaytv.in/TV3/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Oct-28-2025-10_22_18-AM-1-200x300.png" group-title="LOCAL", SSLC MUSIC
+https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_32_46-PM-1-200x300.png" group-title="LOCAL", SSLC GOLD
+https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_37_06-PM-1-200x300.png" group-title="LOCAL", SSLC CINEMALU
+https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-07_50_50-AM-1-200x300.png" group-title="LOCAL", SSLC KATHALU
+https://mumbai-edge.smartplaytv.in/SSLCKathalu/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-11_48_36-AM-1-200x300.png" group-title="LOCAL", A1TV TELUGU
+https://mumbai-edge.smartplaytv.in/A1TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_24_47-PM-1-200x300.png" group-title="LOCAL", E69 NEWS
+https://mumbai-edge.smartplaytv.in/E69News/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-08_45_07-AM-1-185x278.png" group-title="Local Channels",ASN News Telugu
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-9-2026-09_24_54-PM-1-185x278.png" group-title="Local Channels",AVN TV Telugu
