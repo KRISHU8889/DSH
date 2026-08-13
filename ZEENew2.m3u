@@ -172,6 +172,10 @@ https://mumbai-edge.smartplaytv.in/JaiTelangana/index.m3u8
 https://mumbai-edge.smartplaytv.in/TV3/index.m3u8
 #EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Oct-28-2025-10_22_18-AM-1-200x300.png" group-title="LOCAL", SSLC MUSIC
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJs986IFJQMpmz_tMuLKGav7r6_oFGfeT0mQa-4sz3TViKKUi8WWsjX8&s=10" group-title="LOCAL", COLORBAR MUSIC
+https://amigofx.com:1936/colorbarmusic/colorbarmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.magnific.com/free-vector/comedy-show-neon-sign-microphone-stand-colorful-circles_2553246.htm#fromView=keyword&page=1&position=1&uuid=722a52db-854b-43ff-b2da-b96fae111ea8&track=ais_test_b&query=Standup+comedy+logo" group-title="LOCAL", COLORBAR COMEDY
+https://amigofx.com:1936/colorbarcomedy/colorbarcomedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_32_46-PM-1-200x300.png" group-title="LOCAL", SSLC GOLD
 https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
 #EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_37_06-PM-1-200x300.png" group-title="LOCAL", SSLC CINEMALU
