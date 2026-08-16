@@ -6,6 +6,8 @@ https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8
 #EXTINF:-1 tvg-id="LOCALTVHD" tvg-chno="76" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C76-1765071691.png" tvg-language="te" group-title="Telugu Local",Local TV News
 https://mumbai-edge.smartplaytv.in/LocalTVNews/index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-chno="77" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C77-1774001644.png" tvg-language="te" group-title="Sun Network (SUN NXT)",Sun Gemini HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
 https://mumbai-edge.smartplaytv.in/GeminiTVHD/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-chno="78" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C78-1774001721.png" tvg-language="te" group-title="Sun Network (SUN NXT)",Sun Gemini Music HD
 https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
