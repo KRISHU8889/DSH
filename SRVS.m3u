@@ -280,7 +280,81 @@ https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
 #EXTINF:-1 tvg-id="Mnadu" tvg-chno="706" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C706-1770462513.png" tvg-language="ta" group-title="Tamil News",M Nadu
 https://mumbai-edge.smartplaytv.in/mnadu/index.m3u8
 #EXTINF:-1 tvg-id="Smart Sria" tvg-chno="707" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_583_1733038295.png" tvg-language="ta" group-title="Tamil Local",Smart Sria
-
+https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
+#EXTINF:-1 tvg-id="JAY_JAGANNATH" tvg-chno="708" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C708-1771589696.png" tvg-language="ta" group-title="ODIYA CHANNELS",JAY JAGANNATH
+https://mumbai-edge.smartplaytv.in/jayjagannath/index.m3u8
+#EXTINF:-1 tvg-id="EKAMRA_CINEMA" tvg-chno="709" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C709-1771588231.png" tvg-language="ta" group-title="ODIYA CHANNELS",EKAMRA CINEMA
+https://mumbai-edge.smartplaytv.in/ekamracinema/index.m3u8
+#EXTINF:-1 tvg-id="captain_tv" tvg-chno="710" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C710-1761814225.png" tvg-language="ta" group-title="Hindi Entertainment",Captain TV
+https://mumbai-edge.smartplaytv.in/captain/index.m3u8
+#EXTINF:-1 tvg-id="RAJA TV" tvg-chno="716" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_592_1733039228.png" tvg-language="ta" group-title="Tamil Local",Raja TV
+https://mumbai-edge.smartplaytv.in/RajaTV/index.m3u8
+#EXTINF:-1 tvg-id="EKAMRA_MUSIC" tvg-chno="718" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C719-1771588057.png" tvg-language="ta" group-title="ODIYA CHANNELS",EKAMRA MUSIC
+https://mumbai-edge.smartplaytv.in/ekamramusic/index.m3u8
+#EXTINF:-1 tvg-id="PCVchannel" tvg-chno="719" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_595_1733039463.png" tvg-language="ta" group-title="Tamil Local",PCV Channel
+https://mumbai-edge.smartplaytv.in/PCVchannel/index.m3u8
+#EXTINF:-1 tvg-id="7SMUSIC" tvg-chno="720" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C720-1760172614.png" tvg-language="ta" group-title="Music Channels",7S Music
+https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
+#EXTINF:-1 tvg-id="utv" tvg-chno="723" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C723-1759872655.png" tvg-language="ta" group-title="Tamil Local",U TV
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+#EXTINF:-1 tvg-id="makkaltv" tvg-chno="724" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_600_1739451757.png" tvg-language="ta" group-title="Tamil Entertainment",Makkal TV
+https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8
+#EXTINF:-1 tvg-id="BADAKHABAR" tvg-chno="727" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C728-1771589348.png" tvg-language="ta" group-title="ODIYA CHANNELS",BADAKHABAR
+https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
+#EXTINF:-1 tvg-id="Ekamra_Manoranjan" tvg-chno="729" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C728-1771589348.png" tvg-language="ta" group-title="ODIYA CHANNELS",Ekamra Manoranjan
+https://mumbai-edge.smartplaytv.in/EkamraManoranjan/index.m3u8
+#EXTINF:-1 tvg-id="argustv" tvg-chno="730" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C730-1771579833.png" tvg-language="ta" group-title="ODIYA CHANNELS",Argus TV
+https://mumbai-edge.smartplaytv.in/argustv/index.m3u8
+#EXTINF:-1 tvg-id="Shrihigulambika" tvg-chno="733" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C733-1770975533.png" tvg-language="te" group-title="Live Darshan",Shrihigulambika
+https://mumbai-edge.smartplaytv.in/Shrihigulambika/index.m3u8
+#EXTINF:-1 tvg-id="Sidharth_tv" tvg-chno="734" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C734-1771581136.png" tvg-language="ta" group-title="ODIYA CHANNELS",Sidharth TV
+https://mumbai-edge.smartplaytv.in/sidharthtv/index.m3u8
+#EXTINF:-1 tvg-id="902" tvg-chno="901" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C901-1771577731.png" tvg-language="en" group-title="ODIYA CHANNELS",MBC T V
+https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+#EXTINF:-1 tvg-id="903" tvg-chno="903" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C903-1771579282.png" tvg-language="en" group-title="ODIYA CHANNELS",News 18 Odiya
+https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8
+#EXTINF:-1 tvg-id="904" tvg-chno="904" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C904-1771579427.png" tvg-language="en" group-title="ODIYA CHANNELS",DD ODIYA
+https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
+#EXTINF:-1 tvg-id="C906" tvg-chno="907" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C907-1760172306.png" tvg-language="te" group-title="Telugu Local",MTV
+https://mumbai-edge.smartplaytv.in/MTV/index.m3u8
+#EXTINF:-1 tvg-id="ABP Majha" tvg-chno="910" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_482_1722056498.png" tvg-language="mr" group-title="45",ABP Majha
+https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
+#EXTINF:-1 tvg-id="EKAMRA_NILACH_AKRA" tvg-chno="911" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C727-1771580055.png" tvg-language="mr" group-title="ODIYA CHANNELS",EKAMRA NILACH AKRA
+https://mumbai-edge.smartplaytv.in/EKAMRANILACHAKRA/index.m3u8
+#EXTINF:-1 tvg-id="kanaknews" tvg-chno="1104" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C1104-1771579576.png" tvg-language="ta" group-title="ODIYA CHANNELS",Kanak News
+https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+#EXTINF:-1 tvg-id="kalingatv" tvg-chno="1117" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C1117-1771580816.png" tvg-language="ta" group-title="ODIYA CHANNELS",Kalinga TV
+https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
+#EXTINF:-1 tvg-id="205" tvg-chno="1119" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_175_1721312832.png" tvg-language="hi" group-title="DD Channels",DD National HD
+https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
+#EXTINF:-1 tvg-id="206" tvg-chno="1120" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_176_1721312915.png" tvg-language="hi" group-title="DD Channels",DD India
+https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
+#EXTINF:-1 tvg-id="207" tvg-chno="1121" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_177_1715863534.png" tvg-language="hi" group-title="DD Channels",DD News
+https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
+#EXTINF:-1 tvg-id="208" tvg-chno="1122" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C208-1770733348.png" tvg-language="hi" group-title="DD Channels",DD Bharthi
+https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
+#EXTINF:-1 tvg-id="209" tvg-chno="1123" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C209-1770733407.png" tvg-language="hi" group-title="DD Channels",DD Kisan
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
+#EXTINF:-1 tvg-id="210" tvg-chno="1124" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C210-1771582119.png" tvg-language="hi" group-title="DD Channels",Sansad 1 HD
+https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
+#EXTINF:-1 tvg-id="211" tvg-chno="1125" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_181_1715863828.png" tvg-language="te" group-title="DD Channels",DD Sapthagiri
+https://mumbai-edge.smartplaytv.in/DDSapthagiri/index.m3u8
+#EXTINF:-1 tvg-id="tarang" tvg-chno="2000" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2000-1771577428.png" tvg-language="en" group-title="ODIYA CHANNELS",TARANG TV
+https://mumbai-edge.smartplaytv.in/tarang/index.m3u8
+#EXTINF:-1 tvg-id="ENCORE" tvg-chno="2001" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2001-1770294575.png" tvg-language="en" group-title="English Entertainment",ENCORE
+https://mumbai-edge.smartplaytv.in/ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="2003" tvg-chno="2003" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2003-1773475755.png" tvg-language="hi" group-title="Hindu Devotional",Bhakthisiri
+https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
+#EXTINF:-1 tvg-id="DS9 Music" tvg-chno="2005" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2005-1770460644.png" tvg-language="te" group-title="Music Channels",DS9 Music
+https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
+#EXTINF:-1 tvg-id="DS9 Kathalu" tvg-chno="2006" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2006-1770460706.png" tvg-language="te" group-title="Music Channels",DS9 Kathalu
+https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8
+#EXTINF:-1 tvg-id="2009" tvg-chno="2009" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-c2009-1773479940.png" tvg-language="pa" group-title="PUNJAB NEWS",Global Punjab
+https://mumbai-edge.smartplaytv.in/Globalpunjab/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-chno="" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_488_1726319141.png" tvg-language="te" group-title="Telugu Local",Rapid Media
+https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" tvg-language="te" group-title="Telugu Local",GS Grameena
+https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
 #EXTINF:-1 tvg-id="NTVTELUGU" tvg-chno="1" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_1_1720509115.png" tvg-language="te" group-title="Telugu News",NTV FHD
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="BIGTV" tvg-chno="2" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_2_1734957616.png" tvg-language="te" group-title="Telugu News",BIG TV FHD
