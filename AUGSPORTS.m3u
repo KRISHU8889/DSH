@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="SPORTS", DDSPORTS 1.0SD
+http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090633.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="SPORTS", ASTRO CRICBUZZ
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="SPORTS", RTA SPORTS
