@@ -1,1 +1,36 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="SPORTS", ASTRO CRICBUZZ
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="SPORTS", RTA SPORTS
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302017.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png" group-title="SPORTS", SKYSPORTS CRICKET
+https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="SPORTS", TNT SPORTS 1
+https://7nyaler.streamhostingcdn.top/stream/13/master.m3u8
+#EXTINF:-1 tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" group-title="SPORTS", DD SPORTS HD
+https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="SPORTS", DD SPORTS SD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" group-title="SPORTS", FOX501 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51am3fgD1lL.png" group-title="SPORTS", ATN SPORTS
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="SPORTS", TVE SPORTS
+https://livetv.mahotsavtv.com/trinityvision/tvesports/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="SPORTS", TEN CRICKET
+https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png" group-title="SPORTS", STAR SPORTS 2HD
+http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090637.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="SPORTS", STAR SPORTS 1HD
+http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090636.ts
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-249-j5fyl7tk-v1/imageContent-249-j5fyl7tk-m1.png" group-title="SPORTS", STAR SPORTS 1HD TAMIL
+http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090646.ts
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png" group-title="SPORTS", Star Sports 1 Tamil HD
+http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090646.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="SPORTS", TNT SPORTS 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="SPORTS", TNT SPORTS 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="SPORTS", TNT SPORTS 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 
