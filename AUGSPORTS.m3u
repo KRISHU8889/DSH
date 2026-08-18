@@ -6,6 +6,11 @@ http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090652.ts
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_sports_stacked_logo_full_white.png" group-title="SPORTS", WILLOW SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0 
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" group-title="SPORTS", WILLOWBY@ CRICBUZZ
+http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090644.m3u8
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" group-title="SPORTS", WILLOWBY@ CRICBUZZ
+http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090644.ts
+#http://mag.tivi-one-iptv.net:80/play/live.php?mac=A0:BB:3E:07:67:9C&stream=373197&extension=ts
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_3.png" tvg-language="English" group-title="Sports", Star Sports 3
 http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090638.m3u8
 #http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090638.ts
