@@ -20,7 +20,7 @@ http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090633.ts
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="SPORTS", RTA SPORTS
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302017.m3u8
-https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsHD2Hin.png" group-title="Sports", Star Sports 2 Hindi HD
+#EXTINF:-1 tvg-id="Star Sports 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsHD2Hin.png" group-title="Sports", Star Sports 2 Hindi HD
 http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090653.m3u8
 #http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090653.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png" group-title="SPORTS", SKYSPORTS CRICKET
