@@ -20,6 +20,8 @@ http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090633.ts
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="SPORTS", RTA SPORTS
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302017.m3u8
+https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsHD2Hin.png" group-title="Sports", Star Sports 2 Hindi HD
+http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090653.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png" group-title="SPORTS", SKYSPORTS CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8
