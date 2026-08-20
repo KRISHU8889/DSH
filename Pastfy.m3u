@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Star Maa Digital By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h" group-title="Entertainment By @rtxcric", Star Maa Digital @rtxcric
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a6865c2eb484c57806a76e2719b0000:97c95a3bbfd344d9a16d96bad4f42ad7
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1787301770~acl=%2f*~id=126f79d8acab55b1a8a6ad52b1c414d1~data=hdntl~hmac=a04b3bab7cf0df692383248f457055116d6f3493122101dc11e9f5dd0b82fae1
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787301770~acl=%2f*~id=126f79d8acab55b1a8a6ad52b1c414d1~data=hdntl~hmac=a04b3bab7cf0df692383248f457055116d6f3493122101dc11e9f5dd0b82fae1"}
+https://livetv.hotstar.com/mp1/gec-india-1540068277/f9eb70f10233442f82a6e3c4e8b2df70/index.mpd?|cookie=hdntl=exp=1787301770~acl=%2f*~id=126f79d8acab55b1a8a6ad52b1c414d1~data=hdntl~hmac=a04b3bab7cf0df692383248f457055116d6f3493122101dc11e9f5dd0b82fae1&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 #EXTINF:-1 tvg-id="496" tvg-name="Star Vijay HD" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="AMAIRA Entertainment", Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
