@@ -1,4 +1,9 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1112
+#EXTINF:-1 tvg-id="1112" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="AMAIRA Telugu",Maa HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" group-title="Entertainment", Maa HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
