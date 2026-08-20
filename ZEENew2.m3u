@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1112
 #EXTINF:-1 tvg-id="1112" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="AMAIRA Telugu",Maa HD
