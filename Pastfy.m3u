@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="Undefined",NDTV 24X7 
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name=""  tvg-logo="https://i.imgur.com/PyDjUZB.png" group-title="Undefined",NDTV India 
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-name="Star Maa Digital By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h" group-title="Entertainment By @rtxcric", Star Maa Digital @rtxcric
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
