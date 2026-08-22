@@ -195,6 +195,8 @@ https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
 https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-12-2026-10_27_40-PM-1-200x300.png" group-title="LOCAL", RV DIGITAL TV
 https://server.streamwell.in/hls/rvdigitaltv.m3u8
+#EXTINF:-1  tvg-name="Vihari Tv" group-title="Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png",Vihari Tv
+http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8
 #EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/07/ChatGPT-Image-Jul-16-2026-10_28_04-PM-1-200x300.png" group-title="LOCAL", MEDIA TODAY
 https://mumbai-edge.smartplaytv.in/MediaToday/index.m3u8
 #EXTINF:-1 tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/05/ChatGPT-Image-May-15-2026-08_44_33-AM-1-200x300.png" group-title="LOCAL", KEY NEWS
