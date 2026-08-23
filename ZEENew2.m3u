@@ -731,6 +731,10 @@ https://cloud.kcncable.in/hls/kcnfun/index.m3u8
 https://cloud.kcncable.in/hls/kcnbanjara/index.m3u8
 #EXTINF:-1 tvg-name="KCN PRATHYAKSHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IJIqK5rAALY2G4UJzvsziUokiNX-URe_IXy2QZ-Wz4uiDK1966iUc2Q&s" group-title="LOCAL",KCN PRATHYAKSHA
 https://cloud.kcncable.in/hls/kcnprathyaksha/index.m3u8
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/199.png" group-title="LOCAL TML", JAYA MAX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0
+https://login.bheem.tv/bpk-tv/22374/output/index.mpd
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="ZEE", Zee Tamil HD
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeetamil
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg" group-title="ZEE", Zee Marathi HD
