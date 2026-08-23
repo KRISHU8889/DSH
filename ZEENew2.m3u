@@ -733,7 +733,7 @@ https://cloud.kcncable.in/hls/kcnbanjara/index.m3u8
 https://cloud.kcncable.in/hls/kcnprathyaksha/index.m3u8
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/199.png" group-title="LOCAL TML", JAYA MAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0
+#KODIPROP:inputstream.adaptive.license_key=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0
 https://login.bheem.tv/bpk-tv/22374/output/index.mpd
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="ZEE", Zee Tamil HD
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeetamil
