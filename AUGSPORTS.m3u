@@ -1,5 +1,25 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver69.fun/Jtv/key.php?id=3278&token=ZpB4Qu
+#EXTINF:-1 tvg-id="3278" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" CATCH-UP-FAILED="null" group-title="Sports",Star Sports 1 Telugu HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.denver69.fun/Jtv/ZpB4Qu/Jtv.mpd?id=3278
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver69.fun/Jtv/key.php?id=3274&token=ZpB4Qu
+#EXTINF:-1 tvg-id="3274" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg" CATCH-UP-FAILED="null" group-title="Sports",Star Sports 2 Telugu HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.denver69.fun/Jtv/ZpB4Qu/Jtv.mpd?id=3274
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver69.fun/Jtv/key.php?id=1651&token=ZpB4Qu
+#EXTINF:-1 tvg-id="1651" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg" CATCH-UP-FAILED="null" group-title="Sports",Star Sports 1 Telugu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.denver69.fun/Jtv/ZpB4Qu/Jtv.mpd?id=1651
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver69.fun/Jtv/key.php?id=2852&token=ZpB4Qu
+#EXTINF:-1 tvg-id="2852" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg" CATCH-UP-FAILED="null" group-title="Sports",Star Sports 2 Telugu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.denver69.fun/Jtv/ZpB4Qu/Jtv.mpd?id=2852
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.denver69.fun/Jtv/key.php?id=1106&token=ZpB4Qu
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" CATCH-UP-FAILED="null" group-title="Sports",Star Sports 1 HD
 #EXTVLCOPT:http-user-agent=Denver1769
