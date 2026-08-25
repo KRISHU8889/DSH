@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/BIGG_BOSS_TELUGU.jpg/330px-BIGG_BOSS_TELUGU.jpg" group-title="Telugu",BIGG BOSS 24x7 Telugu
+#EXTVLCOPT:http-user-agent=Denver1769
+#https://m3u.denver1769.fun/Jh/BB/Telugu/index.m3u8
 #EXTINF:-1 tvg-name="Star Maa Digital By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h" group-title="Entertainment By @rtxcric", Star Maa Digital @rtxcric
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
