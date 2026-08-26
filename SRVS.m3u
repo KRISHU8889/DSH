@@ -3,8 +3,8 @@
 http://cast6.my-control-panel.com:9287/live
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/daftplug-progressify/pwa-icons/icon-maskable.png" group-title="FM RADIO", TELUGU BIG FM
 https://stream.zeno.fm/zuu89d1pgzzuv
-#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/super-radio-telugu-icon-1.png" group-title="FM RADIO", TELUGU COMEDY RADIO
-http://cast6.my-control-panel.com:9287/live
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/mani-sharma.jpg" group-title="FM RADIO", MANI SHARMA
+https://stream.zeno.fm/ypgf9wtshm8uv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/11/vinodam-hd.jpg" group-title="LOCAL", VINODAM HD
 https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
 #EXTINF:-1 tvg-name="Asianet News Telugu" tvg-logo="https://i.imgur.com/9wJvDMn.jpeg" tvg-id="Telugu.AsianetNews.com" tvg-chno="21" tvg-country="IN" group-title="India",Asianet News Telugu Ⓨ
