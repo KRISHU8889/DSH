@@ -3,6 +3,8 @@
 http://cast6.my-control-panel.com:7426/live
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/telugu-radio.jpg" group-title="FM RADIO", TELUGU FM LIVE
 https://stream.zeno.fm/phztcgv6zoxtv
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2024/12/ilaiyaraja.png" group-title="FM RADIO", IiAYARAJA HITS
+https://stream.zeno.fm/5bc5hwbsqg8uv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/godavari-radio.jpg" group-title="FM RADIO", GODAVARI RADIO
 https://stream.zeno.fm/xlgwsdncsdptv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Telugu-One-Radio.jpg" group-title="FM RADIO", TELUGU ONE RADIO
