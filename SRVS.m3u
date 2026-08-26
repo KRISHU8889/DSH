@@ -17,6 +17,8 @@ https://stream.zeno.fm/5bc5hwbsqg8uv
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Telugu-Melodies.jpg" group-title="FM RADIO", TELUGU MELODIES
 https://azuracast.vibesounds.in:8020/radio.mp3?1611497327
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/devisriprasad.jpg" group-title="FM RADIO", DEVI SRI  HITS
+https://stream.zeno.fm/xb1sm55skm0uv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/godavari-radio.jpg" group-title="FM RADIO", GODAVARI RADIO
 https://stream.zeno.fm/xlgwsdncsdptv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Telugu-One-Radio.jpg" group-title="FM RADIO", TELUGU ONE RADIO
