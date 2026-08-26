@@ -240,6 +240,8 @@ https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8
 https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8
 #EXTINF:-1 tvg-id="CKNEWS" tvg-chno="210" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0211-1772700646.png" tvg-language="te" group-title="Telugu Local",CK NEWS
 https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8
+#EXTINF: -1 tvg-id="S9 Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1051442084278202918846578.png" group-title="LOCAL", S9 Channel
+https://sharsolution.in/hls/s9tv/s9tv.m3u8
 #EXTINF:-1 tvg-id="BV9" tvg-chno="211" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0210-1771828430.png" tvg-language="te" group-title="Telugu Local",BV9 News
 https://mumbai-edge.smartplaytv.in/BV9NEWS/index.m3u8
 #EXTINF:-1 tvg-id="TIME2TIME" tvg-chno="212" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0212-1771308915.png" tvg-language="te" group-title="Telugu Local",Time 2 Time
