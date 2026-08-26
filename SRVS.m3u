@@ -25,6 +25,8 @@ http://cast6.my-control-panel.com:9287/live
 https://stream.zeno.fm/zuu89d1pgzzuv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/VBS-vijayawada-air.jpg" group-title="FM RADIO", VIJAYWADA RADIO
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/telugu-hits.jpg" group-title="FM RADIO", TELUGU 40HITS
+https://stream.zeno.fm/rfrzu1lxw8atv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/mani-sharma.jpg" group-title="FM RADIO", MANI SHARMA
 https://stream.zeno.fm/ypgf9wtshm8uv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/11/vinodam-hd.jpg" group-title="LOCAL", VINODAM HD
