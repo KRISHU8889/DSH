@@ -188,6 +188,8 @@ https://mumbai-edge.smartplaytv.in/PCNHD/index.m3u8
 https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8
 #EXTINF:-1 tvg-id="S90NEWS" tvg-chno="151" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0151-1770989606.png" tvg-language="te" group-title="Telugu Local",S90 News
 https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/11/siti.jpg" group-title="LOCAL", SITI24×7 NEWS
+https://www.schannels.in/SITI24X7_1/index.m3u8
 #EXTINF:-1 tvg-id="WINTV" tvg-chno="155" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C155-1774869325.png" tvg-language="te" group-title="Telugu Entertainment",WIN TV
 https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8
 #EXTINF:-1 tvg-id="160" tvg-chno="160" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C160-1765072598.png" tvg-language="te" group-title="Telugu Local",SUPER TV
