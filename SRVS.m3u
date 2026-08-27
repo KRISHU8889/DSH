@@ -11,6 +11,8 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8
 https://stream.zeno.fm/phztcgv6zoxtv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/VB-Telugu.jpg" group-title="FM RADIO", VB TELUGU HYD
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/airtirupati1.jpg" group-title="FM RADIO", AIR TIRUPATI
+https://radio.wavespb.com/live/1119aa26b4e9f653/1119aa26b4e9f653.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/FM-Rainbow-Hyderabad.jpg" group-title="FM RADIO", FM RAINBOW HYD
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/air-Nizamabad.jpg" group-title="FM RADIO", AIR NIZAMABAD
