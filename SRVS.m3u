@@ -19,6 +19,8 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2024/12/ilaiyaraja.png" group-title="FM RADIO", IiAYARAJA HITS
 https://stream.zeno.fm/5bc5hwbsqg8uv
+#EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/red-fm15.webp" group-title="FM RADIO", RED FM 93.5
+https://stream.zeno.fm/9phrkb1e3v8uv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Telugu-Junction.jpg" group-title="FM RADIO", TELUGU JUNCTION
 https://stream.zeno.fm/ige35g4gzhhtv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Warangal.jpg" group-title="FM RADIO", AIR WARANGAL
