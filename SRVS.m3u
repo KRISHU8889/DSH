@@ -3,6 +3,8 @@
 https://radio.mslivecdn.com:6278/stream
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/07/Ghantasala.jpg" group-title="FM RADIO", GHANTASALA HITS
 http://cast6.my-control-panel.com:7426/live
+#EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/RadioCity-LataMangeshkarRadio2222.png" group-title="FM RADIO", LATA MANGESHKAR FM
+https://stream.zeno.fm/87xam8pf7tzuv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/air-Telangana.jpg" group-title="FM RADIO", AKASHVANI TELANGANA
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/telugu-radio.jpg" group-title="FM RADIO", TELUGU FM LIVE
