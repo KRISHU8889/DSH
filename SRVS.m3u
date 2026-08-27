@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/svbc.jpg" group-title="FM RADIO", TTD RADIO
+https://radio.mslivecdn.com:6278/stream
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/07/Ghantasala.jpg" group-title="FM RADIO", GHANTASALA HITS
 http://cast6.my-control-panel.com:7426/live
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/air-Telangana.jpg" group-title="FM RADIO", AKASHVANI TELANGANA
