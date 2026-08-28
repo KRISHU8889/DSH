@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1000001971" tvg-name="SONY YAY" group-title="VT | Sony Liv" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",SONY YAY
+#EXTHTTP:{"Cookie":"","Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Telegram":"@links_macha_official","Creator":"@DJ-TM"}
+https://sl.vodep39240327.workers.dev/channel/SONY YAY.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="KIDS", SNY YAY
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Telugu",LANGUAGE="te",DEFAULT=NO,AUTOSELECT=YES,URI="telugu.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud",NAME="Hindi",LANGUAGE="hi",DEFAULT=YES,AUTOSELECT=YES,URI="hindi.m3u8"
