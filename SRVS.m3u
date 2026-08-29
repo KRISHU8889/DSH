@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1137" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Gold.png"http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"  group-title="Telugu",Maa Gold
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://anet.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaagoldus_delay_https/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/air-Anantapur.jpg" group-title="FM RADIO", ANANTAPUR RADIO
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Hello-Telugu-Radio.jpg" group-title="FM RADIO", HELLO TELUGU RADIO
