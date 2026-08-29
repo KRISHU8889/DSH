@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Radio-Ala-90.8-F.M.jpg" group-title="FM RADIO", RADIO ALA 90.8 F.M
+https://mahi.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Telugu-One-Radio.jpg" group-title="FM RADIO", TELUGU ONE FM
 https://stream.zeno.fm/7kbt507d3qzuv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Fidaa-FM.jpg" group-title="FM RADIO", FIDAA FM
