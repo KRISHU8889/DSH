@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.yupptv.com/channels/tana-prapancha-sahitya-vedika" group-title="LOCAL", TANA SABHA TV
+https://yuppnimrestreammum.akamaized.net/090823/smil:tana.smil/hdntl=exp=1788073395~acl=%2f*~data=hdntl~hmac=1787e936393c6a425d56d9766bc5ba136b03f15c5346c934663ce5d5b14db8dd/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/VB-Telugu.jpg" group-title="FM RADIO", VBTGU HYDFM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/gold-babu-1.jpg" group-title="FM RADIO", GOLD BABU FM
