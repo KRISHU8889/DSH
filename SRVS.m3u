@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/air-Anantapur.jpg" group-title="FM RADIO", ANANTAPUR RADIO
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/Hello-Telugu-Radio.jpg" group-title="FM RADIO", HELLO TELUGU RADIO
 https://play.radioking.io/hello-telugu
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/radio-kokila.jpg" group-title="FM RADIO", RADIO KOKILA FM
