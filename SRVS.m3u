@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2024/12/spb.png" group-title="FM RADIO", SP BAL FM
+http://cast6.my-control-panel.com:9295/live
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/07/madhupriya.jpg" group-title="FM RADIO", MADHUPRIYA FM
 http://cast6.my-control-panel.com:8245/live
 #EXTINF:-1 tvg-logo="https://f4111056.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-28-2026-01_24_49-AM-1.png" group-title="LOCAL", JOGULAMBA TV
