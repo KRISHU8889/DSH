@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/01/mirchi-love.jpg" group-title="FM RADIO", MIRCHI LOVE FM
+https://drive.uber.radio/uber-app/bollywoodlove/icecast.audio
 #EXTINF:-1 tvg-logo="https://f4111056.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-28-2026-07_20_22-PM-1.png" group-title="TML LOCAL", SELFIE HD
 https://srvx.nellaiiptv.com/restream/150cbg/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.yupptv.com/channels/tana-prapancha-sahitya-vedika" group-title="LOCAL", TANA SABHA TV
