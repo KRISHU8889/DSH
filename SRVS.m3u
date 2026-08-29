@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/gold-babu-1.jpg" group-title="FM RADIO", GOLD BABU FM
+https://stream-179.surfernetwork.com/6bb3sf5fva0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2YmIzc2Y1ZnZhMHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIzdFByWldHQ1ItMnpWQUpJQmpVR1NBIiwiaWF0IjoxNzg3OTg0NzYyLCJleHAiOjE3ODc5ODQ4MjJ9.KDBEb_p56fIxEb-596CrQe0zWgIVT2iZsqYznjzQmYY
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2024/12/spb.png" group-title="FM RADIO", SP BAL FM
 http://cast6.my-control-panel.com:9295/live
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/07/madhupriya.jpg" group-title="FM RADIO", MADHUPRIYA FM
