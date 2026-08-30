@@ -248,6 +248,8 @@ group-title="Movies",Star Maa Movies HD (1080p)
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="MYTV" tvg-chno="74" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C74-1762845018.png" tvg-language="te" group-title="Telugu Local",MYTV FHD
 https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://f4111056.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Aug-28-2026-01_15_09-AM-1.png" group-title="LOCAL", ETV BEATS HD
+https://cc-szivnms4rlah6.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/f8eabe3d-788f-4760-bd4d-ad5ee3fab4b1/3.m3u8
 #EXTINF:-1 tvg-id="75" tvg-chno="75" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_494_1748355672.png" tvg-language="te" group-title="Music Channels",Shreyas Music
 https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8
 #EXTINF:-1 tvg-id="LOCALTVHD" tvg-chno="76" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C76-1765071691.png" tvg-language="te" group-title="Telugu Local",Local TV News
