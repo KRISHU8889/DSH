@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://f4111056.delivery.rocketcdn.me/wp-content/uploads/2025/11/ChatGPT-Image-Apr-23-2026-05_26_10-PM-1-200x300.png" group-title="LOCAL", ETV HD US
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://d27zlkxhgwrfgo.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/625c79e7-5437-480f-b9da-4bc096e8264f/3.m3u8
 #EXTINF:-1 tvg-logo="https://f4111056.delivery.rocketcdn.me/wp-content/uploads/2025/12/ChatGPT-Image-Aug-28-2026-01_14_22-AM-1.png" group-title="LOCAL", ETV MUSIC
 https://dg3721c3ez5m0.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/27f4c93c-1ef1-4eda-9487-267735b3546e/3.m3u8
 #EXTINF:-1 tvg-logo="https://f4111056.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_44_46-PM-1.png" group-title="LOCAL TML", KM TELEVISION
