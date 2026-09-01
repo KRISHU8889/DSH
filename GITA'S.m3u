@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF: -1 tvg-id="81" tvg-logo="https://tatalogo.pages.dev/81.png" group-title="Sports", Sony Sports Ten 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
+#EXTINF: -1 tvg-id="462" tvg-logo="https://tatalogo.pages.dev/462.png" group-title="Sports", Sony Sports Ten 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
+#EXTINF:-1 tvg-id="ts914" tvg-logo="https://i.ibb.co/nqJRcGMd/Picsart-25-09-02-13-13-07-905.png" group-title="Sports", Sony Sports Ten 4 Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
+#EXTINF: -1 tvg-id="35" tvg-logo="https://tatalogo.pages.dev/35.png" group-title="Sports", Sony Sports Ten 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pass=61498d15
 EXTINF:-1  tvg-id="AFN" tvg-logo="https://i.imgur.com/PUe61Ov.png" group-title="Astro GO",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
