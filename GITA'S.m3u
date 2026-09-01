@@ -23,7 +23,8 @@ http://skyfilex.fun:80/live/9480808/9480808/333368.ts
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
 #http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.ts
 #EXTINF: -1 tvg-id="Willow.us" tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" group-title="Sports", Willow Cricket
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=A0:BB:3E:07:67:9C&stream=373197&extension=ts
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302022.m3u8
+#http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302022.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_sports_stacked_logo_full_white.png" group-title="Sports",Willow Sports
