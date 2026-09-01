@@ -52,7 +52,41 @@ https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 #EXTINF: -1 tvg-id="35" tvg-logo="https://tatalogo.pages.dev/35.png" group-title="Sports", Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pass=61498d15
-EXTINF:-1  tvg-id="AFN" tvg-logo="https://i.imgur.com/PUe61Ov.png" group-title="Astro GO",Asian Food Network
+#EXTINF:-1 tvg-id="400" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="Music",Mega Musiq
+http://livebox.pro/live/1yearqatar8942/950316240263/26164.ts
+#EXTINF:-1 tvg-id="7S.MUSIC.in" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17097527414494923868850942693233.png" group-title="Music", 7S Music
+https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
+#EXTINF:-1 tvg-id="jio-786" tvg-logo="https://tatalogo.pages.dev/377.png" group-title="Music", Kappa TV
+https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+#EXTINF:-1 tvg-id="1284" group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANPLTV_Thumbnail-v1/SANPLTV_Thumbnail.png",Sana Plus
+https://cable74tataplay.akamaized.net/hls/sanaplus.m3u8
+#EXTINF: -1 tvg-id="96" tvg-logo="https://tatalogo.pages.dev/96.png" group-title="Music", Zoom
+https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
+#EXTINF:-1 tvg-id="250" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music", Music India
+https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF: -1 tvg-id="139" tvg-logo="https://tatalogo.pages.dev/139.png" group-title="Music", 9xM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF: -1 tvg-id="39" tvg-logo="https://tatalogo.pages.dev/39.png" group-title="Music", 9x Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240625_0713451452390300174130287.png" group-title="Music",SR Musix TV
+http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
+#EXTINF: -1 tvg-name="MN Music" group-title="Music" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0846274573125433222986374.png",MN Music
+#http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Tamil Songs
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:EE:CB&stream=734065&extension=ts
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Latest Songs
+https://ksr.indevs.in/m3u/?stream=481200
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Trending Songs
+https://ksr.indevs.in/m3u/?stream=481199
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Mix Songs
+https://ksr.indevs.in/m3u/?stream=481201
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Hit Songs
+https://ksr.indevs.in/m3u/?stream=481314
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Romantic Songs
+https://ksr.indevs.in/m3u/?stream=481315
+#EXTINF:-1  tvg-id="AFN" tvg-logo="https://i.imgur.com/PUe61Ov.png" group-title="Astro GO",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
