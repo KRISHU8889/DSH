@@ -174,3 +174,77 @@ https://delta13tatasky.akamaized.net/out/i/5615195.mpd
 https://delta13tatasky.akamaized.net/out/i/6282177.mpd
 #EXTINF:-1 tvg-id="ts663" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" group-title="Movies", Tata Play Tamil Cinema
 http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281614&extension=ts
+#EXTINF:-1 tvg-id="647" tvg-logo="https://tatalogo.pages.dev/647.png" group-title="Music", Isai Aruvi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90847bc89c0d5eb19c57d70370c3477c:8938c82cd4feec1f586e3c611459a7d4
+https://login.bheem.tv/bpk-tv/22348/output/index.mpd
+#EXTINF:-1 tvg-id="611" tvg-name="Sirippoli" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Tamil", Sirippoli
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0bef7a3d07f5b9c8b4b2de472da7718:3139f66c3e590441bec542fcf16dcaca
+https://login.bheem.tv/bpk-tv/22379/output/index.mpd
+#https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="ts1166" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="Tamil", Chithiram
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928e0f5213fc5a7ebeb0bd8cbd4d1442:22b778641744694ad3de2822ee018d38
+https://login.bheem.tv/bpk-tv/22378/output/index.mpd
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RAJ_NAGAICHUVAI" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/raj-en_nagaichuvai_2000_X_1125_Transpharent.png", Raj Nagaichuvai
+http://tv.cloudcdn.me:80/live.ts?channelId=89834&uid=3037&deviceMac=00:1A:79:0A:3B:2B
+#EXTINF:-1 tvg-id="334" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="Tamil", DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="jio-803" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
+#EXTINF:-1 tvg-id="ts1322" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/THANTIO_Thumbnail-v4/THANTIO_Thumbnail.png",Thanthi One
+https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+#EXTINF:-1 tvg-id="499" tvg-logo="https://tatalogo.pages.dev/499.png" group-title="Tamil", Vasanth TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f716240712b146169cd9bfb6a01061da:23ce7e9c4698d36db320c5daa1537ed2
+https://delta13tatasky.akamaized.net/out/i/6472180.mpd
+#EXTINF:-1 tvg-id="272" tvg-logo="https://tatalogo.pages.dev/272.png" group-title="Tamil", Polimer TV
+https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
+#EXTINF:-1 tvg-id="659" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="Tamil",Vendhar TV
+https://cdn-3.pishow.tv/live/1271/master.m3u8
+#EXTINF: -1 tvg-id="392" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="Tamil", Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="421" tvg-logo="https://tatalogo.pages.dev/421.png" group-title="Tamil", Peppers TV
+https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8
+#EXTINF: -1 tvg-id="jio-971" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0856271246595482699747248.png" group-title="Tamil", Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png" group-title="Tamil",Mega TV
+http://livebox.pro/live/1yearqatar8942/950316240263/28141.ts
+#EXTINF:-1 tvg-id="411" tvg-logo="https://tatalogo.pages.dev/411.png" group-title="Tamil", Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF: -1 tvg-id="396" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240404_0218344882082935187551464.png" group-title="Tamil", Mega 24
+http://premiumtvs.space:8080/live/1yearqatar8942/950316240263/26163.ts
+#EXTINF: -1 tvg-id="jio-3004" tvg-logo="https://i.ibb.co/GQhjbGt/1000136225-photoaidcom-cropped.png" group-title="Tamil", Velicham TV
+https://cdn.smartstream.video/smartstream-us/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="jio-1647" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/05/20240521_1223086548629137627592678.png" group-title="Tamil",MK SIX
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 tvg-id="jio-843" tvg-name="Madhimugam TV" tvg-language="Local Channels" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Tamil" group-logo="", Madhimugam TV
+https://cdn-3.pishow.tv/live/1476/master.m3u8
+#EXTINF:-1  tvg-name="jio-824" group-title="Tamil" tvg-logo="https://i.ibb.co/Xt40dT5/Puthuyugam.png",Puthu Yugam
+https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
+#EXTINF: -1 tvg-id="jio-1518" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png" group-title="Tamil",Moon TV
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-logo="https://tatalogo.pages.dev/490.png" group-title="Tamil",SVBC 
+https://d1msejlow1t3l4.cloudfront.net/fta/svbctamil2/playlist.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="https://i.imgur.com/YQK9ewf.png" group-title="Tamil",Aastha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="477" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11788-j9kypa94-v1/imageContent-11788-j9kypa94-m2.png" group-title="Tamil", Sri Sankara
+https://d1msejlow1t3l4.cloudfront.net/fta/srisankaratamil/playlist.m3u8
+#EXTINF:-1 tvg-id="jio-3279" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="Tamil",OM TV
+https://mumt03.tangotv.in/Dsly5z3HOMTV/index.m3u8
+#EXTINF:-1 tvg-id="ts1067" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-249-j5fyl7tk-v1/imageContent-249-j5fyl7tk-m1.png" group-title="Tamil", Star Sports 1 Tamil
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:7A:D2:0E&stream=155873&extension=m3u8
+#EXTINF:-1 tvg-id="1187" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Thumbnail_62ccb7be-f9e6-49c0-8382-7ee6a812fe50.png" group-title="Tamil", Star Sports 2 Tamil
+http://tv.cloudcdn.me:80/live.ts?channelId=132885&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="ShaliniTV.in@SD" tvg-logo="https://i.imgur.com/fDdG6Y2.png" group-title="Tamil",Shalini TV
+#https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png" group-title="Tamil",Sairam TV
+https://cdn-3.pishow.tv/live/1611/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png" group-title="Tamil",Malar TV
+https://mumt04.tangotv.in/m18aqlK4MALARTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="Tamil",Dheeran TV
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
