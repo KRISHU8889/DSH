@@ -1069,6 +1069,11 @@ https://vvsolutions.in/tv8news/tv8news.m3u8
 https://vvsolutions.in/yjtv/yjtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p63fwxkY/1000151066.png" group-title="Telugu",YSR TV
 https://vvsolutions.in/ysrtv/ysrtv.m3u8
+#EXTINF:-1 tvg-id="HITSMovies" group-title="Astro GO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #EXTINF:-1 tvg-id="AT48000012I" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20260804T045845SQUARE.png",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-AT48000012I
 #EXTINF:-1 tvg-id="AT30000053R" tvg-name="Dating hinter Gittern" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT30000053R_20251111T013636SQUARE.png",Dating hinter Gittern
