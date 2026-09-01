@@ -131,6 +131,16 @@ https://livestream.sunnxt.com/f6f92acd2b4f4870aabf04b274c69376/SunMusicHD_P_IN_i
 #KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
 #EXTINF:-1 tvg-id="380" tvg-logo="https://i.ibb.co/27bxZ2Zs/ktv.png" group-title="Movies", KTV HD
 https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sund-images.sunnxt.com/194403/1600x1200_SunTVHD_194403_4fcf48c1-ad41-4f91-a493-886ce54889c1.png" group-title="Entertainment",SUN TV HD AU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wNmB354M/Picsart-25-09-04-12-47-02-235.png",Star Vijay UK
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starvijay_live_https/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png",Colors Tamil USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://yupp-geo-us.keralive.workers.dev/020424/colorstamilus_1800/playlist.m3u8
 #EXTINF:-1 tvg-id="ts1176" group-title="Movies" tvg-logo="https://i.ibb.co/pBHxm6Zc/1782285031929-h-modified.png",Vijay Super Digital
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08e4a1c2f55d4ed4878110a640920000:23dc3107bf284a0dbd93b1dc9f142459
@@ -248,3 +258,13 @@ https://cdn-3.pishow.tv/live/1611/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4MALARTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="Tamil",Dheeran TV
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sund-images.sunnxt.com/194403/1600x1200_SunTVHD_194403_4fcf48c1-ad41-4f91-a493-886ce54889c1.png" group-title="Entertainment",SUN TV HD AU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wNmB354M/Picsart-25-09-04-12-47-02-235.png",Star Vijay UK
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starvijay_live_https/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png",Colors Tamil USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://yupp-geo-us.keralive.workers.dev/020424/colorstamilus_1800/playlist.m3u8
