@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 , TV7 AP
+https://server.streamwell.in/hls/7hills.m3u8
+#EXTINF:-1 , KPS TV
+https://live.kpsnetwork.in/kps/kps/chunklist_w314016044.m3u8
+#EXTINF:-1 , PUBLIC TV
+https://publictvtelugu.co.in/publictv_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , PUBLIC FOLK MUSIC
+https://publictvtelugu.co.in/publictvfolkmusic_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , METRO TV
+https://mercury.streambridge.link:8042/telugu/metrotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , MOJO TV
+https://colorsportscreen.com/freetv/stream.m3u8?id=978045f57601|Referer=https://colorsportscreen.com/freetv/stream.m3u8?id=978045f57601
+#EXTINF:-1 , CVR HEALTH
+https://mumbai-edge.smartplaytv.in/CVRHealth/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , CHITTOOR TV
+https://server.streamwell.in/hls/chittoortvhd.m3u8
+#EXTINF:-1 , SSLC MUSIC
+https://mumbai-edge.smartplaytv.in/SSLCMusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , SSLC MULTIPLEX
+https://mumbai-edge.smartplaytv.in/SSLCMultiplex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , SHREYAS TV
+https://mumbai-edge.smartplaytv.in/ShreyasTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , MASTI MUSIC
+https://mumbai-edge.smartplaytv.in/MastiMusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , BCT MUSIC
+https://mumbai-edge.smartplaytv.in/BCTMusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , LOCAL TV
+https://mumbai-edge.smartplaytv.in/LocalTVNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , TIRUMALA TV
+https://mumbai-edge.smartplaytv.in/TirumalaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Astro GO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
