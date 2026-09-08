@@ -1,1 +1,758 @@
+{
+  "success": {
+    "page": {
+      "id": "tray_details",
+      "template": "TrayDetailsPage",
+      "spaces": {
+        "content": {
+          "id": "content",
+          "template": "ContentSpace",
+          "widget_wrappers": [
+            {
+              "template": "GridWidget",
+              "widget": {
+                "@type": "type.googleapis.com/widget.GridWidget",
+                "widget_commons": {
+                  "version": "1",
+                  "name": "GridWidget"
+                },
+                "data": {
+                  "column_number": 5,
+                  "items": [
+                    {
+                      "horizontal_content_card": {
+                        "template": {
+                          "name": "HorizontalContentCardWidget",
+                          "version": "1"
+                        },
+                        "widget_commons": {
+                          "version": "1",
+                          "instrumentation": {
+                            "override_referrer": true,
+                            "impression_events": [
+                              {
+                                "event_name": "Content Viewed"
+                              }
+                            ],
+                            "instrumentation_context_v2": {
+                              "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                              "value": "CkgSHUhvcml6b250YWxDb250ZW50UG9zdGVyV2lkZ2V0GiRDb250ZW50R3JpZFdpZGdldEluc3RhbmNlL0dyaWRXaWRnZXQiATEakAIKCjEyNzE2OTgyNzUSIEJCUzIwOiAyNCBIUlMgQ2hhbm5lbCBbRGVmZXJyZWRdGiBCQlMyMDogMjQgSFJTIENoYW5uZWwgW0RlZmVycmVkXSIJU0hPV19MSVZFKgdSZWFsaXR5MOOmst4EOgRKSVBMSAFqA2hpbpICfmltYWdlX3ZhcmlhbnQ9REVGQVVMVCxhcnR3b3JrX2xvZ2ljPWRlZmF1bHQsdGhlbWU9REVGQVVMVCxzY3JpcHRfbGFuZ3VhZ2U9dW5rbm93bixjYWxsb3V0X2xhbmd1YWdlcz11bmtub3duLHNjcmlwdFR5cGU9YXJ0d29ya+oCFUVuZGVtb2wgU2hpbmUgSVAgQi5WLiABKlUKGnRwLWVkX0NOS2pzdDRFRUFFYUFRRXdBVGdBEhlFbnRlciB0aGUgQmlnZyBCb3NzIEhvdXNlGgtMaXN0aW5nR3JpZCABKgtyZWNvbW1lbmRlZDgBMg0KCVdhdGNoIE5vdxAB"
+                            }
+                          },
+                          "name": "HorizontalContentCardWidget"
+                        },
+                        "data": {
+                          "image": {
+                            "src": "sources/r1/cms/prod/2305/1788708712305-h",
+                            "alt": "BBS20: 24 HRS Channel [Deferred]"
+                          },
+                          "footer": {
+                            "title": "BBS20: 24 HRS Channel [Deferred]"
+                          },
+                          "actions": {
+                            "on_click": [
+                              {
+                                "hs_track": {
+                                  "name": "Content Clicked"
+                                }
+                              },
+                              {
+                                "page_navigation": {
+                                  "page_type": "WatchPage",
+                                  "page_url": "/v2/pages/watch?content_id=1271698275&filters=content_type%3Dshow_live",
+                                  "page_slug": "/in/shows/bbs20-24-hrs-channel-deferred/1271698275/live/watch"
+                                }
+                              }
+                            ]
+                          },
+                          "expanded_content_poster": {
+                            "image": {
+                              "src": "sources/r1/cms/prod/6338/1788708796338-i",
+                              "alt": "BBS20: 24 HRS Channel [Deferred]"
+                            },
+                            "content_info": {
+                              "title": "BBS20: 24 HRS Channel [Deferred]",
+                              "title_cutout": {
+                                "src": "sources/r1/cms/prod/1357/1788708781357-t",
+                                "alt": "BBS20: 24 HRS Channel [Deferred]"
+                              },
+                              "description": "This is a deferred stream. Tune in to watch uninterrupted drama and entertainment straight from the Bigg Boss house. All eyes on the housemates!",
+                              "tags": [
+                                {
+                                  "value": "U/A 16+"
+                                },
+                                {
+                                  "value": "Hindi"
+                                },
+                                {
+                                  "value": "Reality"
+                                }
+                              ],
+                              "languages": [
+                                {
+                                  "key": "hin",
+                                  "value": "Hindi"
+                                }
+                              ],
+                              "primary_cta": {
+                                "icon_name": "icon-play-fill",
+                                "label": "Watch Now",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271698275&filters=content_type%3Dshow_live",
+                                        "page_slug": "/in/shows/bbs20-24-hrs-channel-deferred/1271698275/live/watch"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              "see_more_cta": {
+                                "icon_name": "icon-caret-down",
+                                "label": "View More",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked",
+                                        "override_context": {
+                                          "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                                          "value": "CkYSG0hvcml6b250YWxDb250ZW50Q2FyZFdpZGdldBokQ29udGVudEdyaWRXaWRnZXRJbnN0YW5jZS9HcmlkV2lkZ2V0IgExGpACCgoxMjcxNjk4Mjc1EiBCQlMyMDogMjQgSFJTIENoYW5uZWwgW0RlZmVycmVkXRogQkJTMjA6IDI0IEhSUyBDaGFubmVsIFtEZWZlcnJlZF0iCVNIT1dfTElWRSoHUmVhbGl0eTDjprLeBDoESklQTEgBagNoaW6SAn5pbWFnZV92YXJpYW50PURFRkFVTFQsYXJ0d29ya19sb2dpYz1kZWZhdWx0LHRoZW1lPURFRkFVTFQsc2NyaXB0X2xhbmd1YWdlPXVua25vd24sY2FsbG91dF9sYW5ndWFnZXM9dW5rbm93bixzY3JpcHRUeXBlPWFydHdvcmvqAhVFbmRlbW9sIFNoaW5lIElQIEIuVi4gASpVChp0cC1lZF9DTktqc3Q0RUVBRWFBUUV3QVRnQRIZRW50ZXIgdGhlIEJpZ2cgQm9zcyBIb3VzZRoLTGlzdGluZ0dyaWQgASoLcmVjb21tZW5kZWQ4AUILCglWaWV3IE1vcmU="
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271698275&filters=content_type%3Dshow_live",
+                                        "page_slug": "/in/shows/bbs20-24-hrs-channel-deferred/1271698275/live/watch"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "live_badge": {
+                            "text_image": {
+                              "src": "sources/r1/web-assets/live_badge",
+                              "alt": "LIVE"
+                            }
+                          },
+                          "alt": {
+                            "label": "BBS20: 24 HRS Channel [Deferred]"
+                          },
+                          "play": {
+                            "icon": "icon-play-fill"
+                          },
+                          "content_id": "1271698275",
+                          "ranking_info": {
+                            "base_score": -1
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "horizontal_content_card": {
+                        "template": {
+                          "name": "HorizontalContentCardWidget",
+                          "version": "1"
+                        },
+                        "widget_commons": {
+                          "version": "1",
+                          "instrumentation": {
+                            "override_referrer": true,
+                            "impression_events": [
+                              {
+                                "event_name": "Content Viewed"
+                              }
+                            ],
+                            "instrumentation_context_v2": {
+                              "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                              "value": "CkgSHUhvcml6b250YWxDb250ZW50UG9zdGVyV2lkZ2V0GiRDb250ZW50R3JpZFdpZGdldEluc3RhbmNlL0dyaWRXaWRnZXQiATEapQIKCjEyNzE2OTY3MzkSMkJCSGluIERheSAwMTogS2FuaWth4oCZcyBCb29uLCBIb3VzZW1hdGVz4oCZIEJhbmUhGglCaWdnIEJvc3MiB0VQSVNPREUqB1JlYWxpdHkw2rnsqwc6BEpJUExCEEhvdHN0YXIgU3BlY2lhbHNqA2hpbpICgQFpbWFnZV92YXJpYW50PURFRkFVTFQsYXJ0d29ya19sb2dpYz1kZWZhdWx0LHRoZW1lPURFRkFVTFQsc2NyaXB0X2xhbmd1YWdlPXVua25vd24sY2FsbG91dF9sYW5ndWFnZXM9dW5rbm93bixzY3JpcHRUeXBlPXBsYWluX3RleHTqAhVFbmRlbW9sIFNoaW5lIElQIEIuVi5SBhoECAEQASACKlUKGnRwLWVkX0NOS2pzdDRFRUFFYUFRRXdBVGdBEhlFbnRlciB0aGUgQmlnZyBCb3NzIEhvdXNlGgtMaXN0aW5nR3JpZCABKgtyZWNvbW1lbmRlZDgBMg0KCVdhdGNoIE5vdxAB"
+                            }
+                          },
+                          "name": "HorizontalContentCardWidget"
+                        },
+                        "data": {
+                          "image": {
+                            "src": "sources/r1/cms/prod/5982/1788793195982-h",
+                            "alt": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!"
+                          },
+                          "footer": {
+                            "title": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!"
+                          },
+                          "actions": {
+                            "on_click": [
+                              {
+                                "hs_track": {
+                                  "name": "Content Clicked"
+                                }
+                              },
+                              {
+                                "page_navigation": {
+                                  "page_type": "WatchPage",
+                                  "page_url": "/v2/pages/watch?content_id=1271696739&filters=content_type%3Depisode&ulp_id=1971002586",
+                                  "page_slug": "/in/shows/bigg-boss/1971002586/bbhin-day-01-kanikas-boon-housemates-bane/1271696739/watch?ulp_id=1971002586"
+                                }
+                              }
+                            ]
+                          },
+                          "expanded_content_poster": {
+                            "image": {
+                              "src": "sources/r1/cms/prod/5982/1788793195982-h",
+                              "alt": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!"
+                            },
+                            "content_info": {
+                              "title": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!",
+                              "title_cutout": {
+                                "alt": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!"
+                              },
+                              "description": "The Gharwaales begin to settle in, but with growing connections, new conflicts follow! Kanika uses her special 'Vardaan', while BB's 20th birthday bash begins with a twist.",
+                              "tags": [
+                                {
+                                  "value": "U/A 16+"
+                                },
+                                {
+                                  "value": "Hindi"
+                                },
+                                {
+                                  "value": "Reality"
+                                }
+                              ],
+                              "languages": [
+                                {
+                                  "key": "hin",
+                                  "value": "Hindi"
+                                }
+                              ],
+                              "primary_cta": {
+                                "icon_name": "icon-play-fill",
+                                "label": "Watch Now",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271696739&filters=content_type%3Depisode&ulp_id=1971002586",
+                                        "page_slug": "/in/shows/bigg-boss/1971002586/bbhin-day-01-kanikas-boon-housemates-bane/1271696739/watch?ulp_id=1971002586"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              "see_more_cta": {
+                                "icon_name": "icon-caret-down",
+                                "label": "View More",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked",
+                                        "override_context": {
+                                          "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                                          "value": "CkYSG0hvcml6b250YWxDb250ZW50Q2FyZFdpZGdldBokQ29udGVudEdyaWRXaWRnZXRJbnN0YW5jZS9HcmlkV2lkZ2V0IgExGqUCCgoxMjcxNjk2NzM5EjJCQkhpbiBEYXkgMDE6IEthbmlrYeKAmXMgQm9vbiwgSG91c2VtYXRlc+KAmSBCYW5lIRoJQmlnZyBCb3NzIgdFUElTT0RFKgdSZWFsaXR5MNq57KsHOgRKSVBMQhBIb3RzdGFyIFNwZWNpYWxzagNoaW6SAoEBaW1hZ2VfdmFyaWFudD1ERUZBVUxULGFydHdvcmtfbG9naWM9ZGVmYXVsdCx0aGVtZT1ERUZBVUxULHNjcmlwdF9sYW5ndWFnZT11bmtub3duLGNhbGxvdXRfbGFuZ3VhZ2VzPXVua25vd24sc2NyaXB0VHlwZT1wbGFpbl90ZXh06gIVRW5kZW1vbCBTaGluZSBJUCBCLlYuUgYaBAgBEAEgAipVChp0cC1lZF9DTktqc3Q0RUVBRWFBUUV3QVRnQRIZRW50ZXIgdGhlIEJpZ2cgQm9zcyBIb3VzZRoLTGlzdGluZ0dyaWQgASoLcmVjb21tZW5kZWQ4AUILCglWaWV3IE1vcmU="
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271696739&filters=content_type%3Depisode&ulp_id=1971002586",
+                                        "page_slug": "/in/shows/bigg-boss/1971002586/bbhin-day-01-kanikas-boon-housemates-bane/1271696739/watch?ulp_id=1971002586"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "live_badge": {
+                            "text_image": {
+                              "src": "sources/r1/web-assets/live_badge",
+                              "alt": "LIVE"
+                            }
+                          },
+                          "alt": {
+                            "label": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!"
+                          },
+                          "play": {
+                            "icon": "icon-play-fill"
+                          },
+                          "content_id": "1271696739",
+                          "ranking_info": {
+                            "base_score": -2
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "horizontal_content_card": {
+                        "template": {
+                          "name": "HorizontalContentCardWidget",
+                          "version": "1"
+                        },
+                        "widget_commons": {
+                          "version": "1",
+                          "instrumentation": {
+                            "override_referrer": true,
+                            "impression_events": [
+                              {
+                                "event_name": "Content Viewed"
+                              }
+                            ],
+                            "instrumentation_context_v2": {
+                              "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                              "value": "CkgSHUhvcml6b250YWxDb250ZW50UG9zdGVyV2lkZ2V0GiRDb250ZW50R3JpZFdpZGdldEluc3RhbmNlL0dyaWRXaWRnZXQiATEajAIKCjEyNzE2OTgyOTISHkJCUzEwIC0gMjRYNyBTdHJlYW0gW0RlZmVycmVkXRoeQkJTMTAgLSAyNFg3IFN0cmVhbSBbRGVmZXJyZWRdIglTSE9XX0xJVkUqB1JlYWxpdHkw9Kay3gQ6BEpJUExIAWoDdGVskgJ+aW1hZ2VfdmFyaWFudD1ERUZBVUxULGFydHdvcmtfbG9naWM9ZGVmYXVsdCx0aGVtZT1ERUZBVUxULHNjcmlwdF9sYW5ndWFnZT11bmtub3duLGNhbGxvdXRfbGFuZ3VhZ2VzPXVua25vd24sc2NyaXB0VHlwZT1hcnR3b3Jr6gIVRW5kZW1vbCBTaGluZSBJUCBCLlYuIAMqVQoadHAtZWRfQ05LanN0NEVFQUVhQVFFd0FUZ0ESGUVudGVyIHRoZSBCaWdnIEJvc3MgSG91c2UaC0xpc3RpbmdHcmlkIAEqC3JlY29tbWVuZGVkOAEyDQoJV2F0Y2ggTm93EAE="
+                            }
+                          },
+                          "name": "HorizontalContentCardWidget"
+                        },
+                        "data": {
+                          "image": {
+                            "src": "sources/r1/cms/prod/9898/1788794499898-h",
+                            "alt": "BBS10 - 24X7 Stream [Deferred]"
+                          },
+                          "footer": {
+                            "title": "BBS10 - 24X7 Stream [Deferred]"
+                          },
+                          "actions": {
+                            "on_click": [
+                              {
+                                "hs_track": {
+                                  "name": "Content Clicked"
+                                }
+                              },
+                              {
+                                "page_navigation": {
+                                  "page_type": "WatchPage",
+                                  "page_url": "/v2/pages/watch?content_id=1271698292&filters=content_type%3Dshow_live",
+                                  "page_slug": "/in/shows/bbs10-24x7-stream-deferred/1271698292/live/watch"
+                                }
+                              }
+                            ]
+                          },
+                          "expanded_content_poster": {
+                            "image": {
+                              "src": "sources/r1/cms/prod/3414/1788705483414-i",
+                              "alt": "BBS10 - 24X7 Stream [Deferred]"
+                            },
+                            "content_info": {
+                              "title": "BBS10 - 24X7 Stream [Deferred]",
+                              "title_cutout": {
+                                "src": "sources/r1/cms/prod/2113/1788794542113-t",
+                                "alt": "BBS10 - 24X7 Stream [Deferred]"
+                              },
+                              "description": "This is a deferred stream. Don’t miss the drama and entertainment unfolding inside the Bigg Boss house!",
+                              "tags": [
+                                {
+                                  "value": "U/A 16+"
+                                },
+                                {
+                                  "value": "Telugu"
+                                },
+                                {
+                                  "value": "Reality"
+                                }
+                              ],
+                              "languages": [
+                                {
+                                  "key": "tel",
+                                  "value": "Telugu"
+                                }
+                              ],
+                              "primary_cta": {
+                                "icon_name": "icon-play-fill",
+                                "label": "Watch Now",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271698292&filters=content_type%3Dshow_live",
+                                        "page_slug": "/in/shows/bbs10-24x7-stream-deferred/1271698292/live/watch"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              "see_more_cta": {
+                                "icon_name": "icon-caret-down",
+                                "label": "View More",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked",
+                                        "override_context": {
+                                          "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                                          "value": "CkYSG0hvcml6b250YWxDb250ZW50Q2FyZFdpZGdldBokQ29udGVudEdyaWRXaWRnZXRJbnN0YW5jZS9HcmlkV2lkZ2V0IgExGowCCgoxMjcxNjk4MjkyEh5CQlMxMCAtIDI0WDcgU3RyZWFtIFtEZWZlcnJlZF0aHkJCUzEwIC0gMjRYNyBTdHJlYW0gW0RlZmVycmVkXSIJU0hPV19MSVZFKgdSZWFsaXR5MPSmst4EOgRKSVBMSAFqA3RlbJICfmltYWdlX3ZhcmlhbnQ9REVGQVVMVCxhcnR3b3JrX2xvZ2ljPWRlZmF1bHQsdGhlbWU9REVGQVVMVCxzY3JpcHRfbGFuZ3VhZ2U9dW5rbm93bixjYWxsb3V0X2xhbmd1YWdlcz11bmtub3duLHNjcmlwdFR5cGU9YXJ0d29ya+oCFUVuZGVtb2wgU2hpbmUgSVAgQi5WLiADKlUKGnRwLWVkX0NOS2pzdDRFRUFFYUFRRXdBVGdBEhlFbnRlciB0aGUgQmlnZyBCb3NzIEhvdXNlGgtMaXN0aW5nR3JpZCABKgtyZWNvbW1lbmRlZDgBQgsKCVZpZXcgTW9yZQ=="
+                                        }
+                                      }
+                                    },
+                                    {
+                                     "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271698292&filters=content_type%3Dshow_live",
+                                        "page_slug": "/in/shows/bbs10-24x7-stream-deferred/1271698292/live/watch"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "live_badge": {
+                            "text_image": {
+                              "src": "sources/r1/web-assets/live_badge",
+                              "alt": "LIVE"
+                            }
+                          },
+                          "alt": {
+                            "label": "BBS10 - 24X7 Stream [Deferred]"
+                          },
+                          "play": {
+                            "icon": "icon-play-fill"
+                          },
+                          "content_id": "1271698292",
+                          "ranking_info": {
+                            "base_score": -3
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "horizontal_content_card": {
+                        "template": {
+                          "name": "HorizontalContentCardWidget",
+                          "version": "1"
+                        },
+                        "widget_commons": {
+                          "version": "1",
+                          "instrumentation": {
+                            "override_referrer": true,
+                            "impression_events": [
+                              {
+                                "event_name": "Content Viewed"
+                              }
+                            ],
+                            "instrumentation_context_v2": {
+                              "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                              "value": "CkgSHUhvcml6b250YWxDb250ZW50UG9zdGVyV2lkZ2V0GiRDb250ZW50R3JpZFdpZGdldEluc3RhbmNlL0dyaWRXaWRnZXQiATEahgIKCjEyNzE2OTY4NDASHkJCVGVsIERheSAxOiBIaWRkZW4gUG93ZXIgRHJvcBoJQmlnZyBCb3NzIgdFUElTT0RFKgdSZWFsaXR5MPpyOgRKSVBMQghTdGFyIE1hYWoDdGVskgKBAWltYWdlX3ZhcmlhbnQ9REVGQVVMVCxhcnR3b3JrX2xvZ2ljPWRlZmF1bHQsdGhlbWU9REVGQVVMVCxzY3JpcHRfbGFuZ3VhZ2U9dW5rbm93bixjYWxsb3V0X2xhbmd1YWdlcz11bmtub3duLHNjcmlwdFR5cGU9cGxhaW5fdGV4dOoCFUVuZGVtb2wgU2hpbmUgSVAgQi5WLlIGGgQIARABIAQqVQoadHAtZWRfQ05LanN0NEVFQUVhQVFFd0FUZ0ESGUVudGVyIHRoZSBCaWdnIEJvc3MgSG91c2UaC0xpc3RpbmdHcmlkIAEqC3JlY29tbWVuZGVkOAEyDQoJV2F0Y2ggTm93EAE="
+                            }
+                          },
+                          "name": "HorizontalContentCardWidget"
+                        },
+                        "data": {
+                          "image": {
+                            "src": "sources/r1/cms/prod/9893/1788793999893-h",
+                            "alt": "BBTel Day 1: Hidden Power Drop"
+                          },
+                          "footer": {
+                            "title": "BBTel Day 1: Hidden Power Drop"
+                          },
+                          "actions": {
+                            "on_click": [
+                              {
+                                "hs_track": {
+                                  "name": "Content Clicked"
+                                }
+                              },
+                              {
+                                "page_navigation": {
+                                  "page_type": "WatchPage",
+                                "page_url": "/v2/pages/watch?content_id=1271696840&filters=content_type%3Depisode&ulp_id=14714",
+                                  "page_slug": "/in/shows/bigg-boss/14714/bbtel-day-1-hidden-power-drop/1271696840/watch?ulp_id=14714"
+                                }
+                              }
+                            ]
+                          },
+                          "expanded_content_poster": {
+                            "image": {
+                              "src": "sources/r1/cms/prod/9893/1788793999893-h",
+                              "alt": "BBTel Day 1: Hidden Power Drop"
+                            },
+                            "content_info": {
+                              "title": "BBTel Day 1: Hidden Power Drop",
+                              "title_cutout": {
+                                "alt": "BBTel Day 1: Hidden Power Drop"
+                              },
+                              "description": "Magical keys expose game-changing powers. Secrets must stay hidden, but when MahaPariksha drops, a fierce leader battle sets the entire house on fire.",
+                              "tags": [
+                                {
+                                  "value": "U/A 16+"
+                                },
+                                {
+                                  "value": "Telugu"
+                                },
+                                {
+                                  "value": "Reality"
+                                }
+                              ],
+                              "languages": [
+                                {
+                                  "key": "tel",
+                                  "value": "Telugu"
+                                }
+                              ],
+                              "primary_cta": {
+                                "icon_name": "icon-play-fill",
+                                "label": "Watch Now",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271696840&filters=content_type%3Depisode&ulp_id=14714",
+                                        "page_slug": "/in/shows/bigg-boss/14714/bbtel-day-1-hidden-power-drop/1271696840/watch?ulp_id=14714"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              "see_more_cta": {
+                                "icon_name": "icon-caret-down",
+                                "label": "View More",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked",
+                                        "override_context": {
+                                          "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                                          "value": "CkYSG0hvcml6b250YWxDb250ZW50Q2FyZFdpZGdldBokQ29udGVudEdyaWRXaWRnZXRJbnN0YW5jZS9HcmlkV2lkZ2V0IgExGoYCCgoxMjcxNjk2ODQwEh5CQlRlbCBEYXkgMTogSGlkZGVuIFBvd2VyIERyb3AaCUJpZ2cgQm9zcyIHRVBJU09ERSoHUmVhbGl0eTD6cjoESklQTEIIU3RhciBNYWFqA3RlbJICgQFpbWFnZV92YXJpYW50PURFRkFVTFQsYXJ0d29ya19sb2dpYz1kZWZhdWx0LHRoZW1lPURFRkFVTFQsc2NyaXB0X2xhbmd1YWdlPXVua25vd24sY2FsbG91dF9sYW5ndWFnZXM9dW5rbm93bixzY3JpcHRUeXBlPXBsYWluX3RleHTqAhVFbmRlbW9sIFNoaW5lIElQIEIuVi5SBhoECAEQASAEKlUKGnRwLWVkX0NOS2pzdDRFRUFFYUFRRXdBVGdBEhlFbnRlciB0aGUgQmlnZyBCb3NzIEhvdXNlGgtMaXN0aW5nR3JpZCABKgtyZWNvbW1lbmRlZDgBQgsKCVZpZXcgTW9yZQ=="
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271696840&filters=content_type%3Depisode&ulp_id=14714",
+                                        "page_slug": "/in/shows/bigg-boss/14714/bbtel-day-1-hidden-power-drop/1271696840/watch?ulp_id=14714"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                            },
+                          "live_badge": {
+                            "text_image": {
+                              "src": "sources/r1/web-assets/live_badge",
+                              "alt": "LIVE"
+                            }
+                          },
+                          "alt": {
+                            "label": "BBTel Day 1: Hidden Power Drop"
+                          },
+                          "play": {
+                            "icon": "icon-play-fill"
+                          },
+                          "content_id": "1271696840",
+                          "ranking_info": {
+                            "base_score": -4
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "horizontal_content_card": {
+                        "template": {
+                          "name": "HorizontalContentCardWidget",
+                          "version": "1"
+                        },
+                        "widget_commons": {
+                          "version": "1",
+                          "instrumentation": {
+                            "override_referrer": true,
+                            "impression_events": [
+                              {
+                                "event_name": "Content Viewed"
+                              }
+                            ],
+                            "instrumentation_context_v2": {
+                              "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                              "value": "CkgSHUhvcml6b250YWxDb250ZW50UG9zdGVyV2lkZ2V0GiRDb250ZW50R3JpZFdpZGdldEluc3RhbmNlL0dyaWRXaWRnZXQiATEajAIKCjEyNzE2OTgyODkSHkJCUzEwIC0gMjRYNyBTdHJlYW0gW0RlZmVycmVkXRoeQkJTMTAgLSAyNFg3IFN0cmVhbSBbRGVmZXJyZWRdIglTSE9XX0xJVkUqB1JlYWxpdHkw8aay3gQ6BEpJUExIAWoDdGFtkgJ+aW1hZ2VfdmFyaWFudD1ERUZBVUxULGFydHdvcmtfbG9naWM9ZGVmYXVsdCx0aGVtZT1ERUZBVUxULHNjcmlwdF9sYW5ndWFnZT11bmtub3duLGNhbGxvdXRfbGFuZ3VhZ2VzPXVua25vd24sc2NyaXB0VHlwZT1hcnR3b3Jr6gIVRW5kZW1vbCBTaGluZSBJUCBCLlYuIAUqVQoadHAtZWRfQ05LanN0NEVFQUVhQVFFd0FUZ0ESGUVudGVyIHRoZSBCaWdnIEJvc3MgSG91c2UaC0xpc3RpbmdHcmlkIAEqC3JlY29tbWVuZGVkOAEyDQoJV2F0Y2ggTm93EAE="
+                            }
+                          },
+                          "name": "HorizontalContentCardWidget"
+                        },
+                        "data": {
+                          "image": {
+                            "src": "sources/r1/cms/prod/3164/1788686783164-h",
+                            "alt": "BBS10 - 24X7 Stream [Deferred]"
+                          },
+                          "footer": {
+                            "title": "BBS10 - 24X7 Stream [Deferred]"
+                          },
+                          "actions": {
+                            "on_click": [
+                              {
+                                "hs_track": {
+                                  "name": "Content Clicked"
+                                }
+                              },
+                              {
+                                "page_navigation": {
+                                  "page_type": "WatchPage",
+                                  "page_url": "/v2/pages/watch?content_id=1271698289&filters=content_type%3Dshow_live",
+                                  "page_slug": "/in/shows/bbs10-24x7-stream-deferred/1271698289/live/watch"
+                                }
+                              }
+                            ]
+                          },
+                          "expanded_content_poster": {
+                            "image": {
+                              "src": "sources/r1/cms/prod/3180/1788686873180-i",
+                              "alt": "BBS10 - 24X7 Stream [Deferred]"
+                            },
+                            "content_info": {
+                              "title": "BBS10 - 24X7 Stream [Deferred]",
+                              "title_cutout": {
+                                "src": "sources/r1/cms/prod/553/1788686850553-t",
+                                "alt": "BBS10 - 24X7 Stream [Deferred]"
+                              },
+                              "description": "Gear up for the Carnivizha as Makkal Selvan Vijay Sethupathi returns for a brand-new season of grander entertainment, bigger clashes, and non-stop drama.",
+                              "tags": [
+                                {
+                                  "value": "U/A 16+"
+                                },
+                                {
+                                  "value": "Tamil"
+                                },
+                                {
+                                  "value": "Reality"
+                                }
+                              ],
+                              "languages": [
+                                {
+                                  "key": "tam",
+                                  "value": "Tamil"
+                                }
+                              ],
+                              "primary_cta": {
+                                "icon_name": "icon-play-fill",
+                                "label": "Watch Now",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                 }
+                                    },
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked"
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271698289&filters=content_type%3Dshow_live",
+                                        "page_slug": "/in/shows/bbs10-24x7-stream-deferred/1271698289/live/watch"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              "see_more_cta": {
+                                "icon_name": "icon-caret-down",
+                                "label": "View More",
+                                "actions": {
+                                  "on_click": [
+                                    {
+                                      "hs_track": {
+                                        "name": "Content Clicked",
+                                        "override_context": {
+                                          "url": "type.googleapis.com/server.context.widget.ContentTrayContext",
+                                          "value": "CkYSG0hvcml6b250YWxDb250ZW50Q2FyZFdpZGdldBokQ29udGVudEdyaWRXaWRnZXRJbnN0YW5jZS9HcmlkV2lkZ2V0IgExGowCCgoxMjcxNjk4Mjg5Eh5CQlMxMCAtIDI0WDcgU3RyZWFtIFtEZWZlcnJlZF0aHkJCUzEwIC0gMjRYNyBTdHJlYW0gW0RlZmVycmVkXSIJU0hPV19MSVZFKgdSZWFsaXR5MPGmst4EOgRKSVBMSAFqA3RhbZICfmltYWdlX3ZhcmlhbnQ9REVGQVVMVCxhcnR3b3JrX2xvZ2ljPWRlZmF1bHQsdGhlbWU9REVGQVVMVCxzY3JpcHRfbGFuZ3VhZ2U9dW5rbm93bixjYWxsb3V0X2xhbmd1YWdlcz11bmtub3duLHNjcmlwdFR5cGU9YXJ0d29ya+oCFUVuZGVtb2wgU2hpbmUgSVAgQi5WLiAFKlUKGnRwLWVkX0NOS2pzdDRFRUFFYUFRRXdBVGdBEhlFbnRlciB0aGUgQmlnZyBCb3NzIEhvdXNlGgtMaXN0aW5nR3JpZCABKgtyZWNvbW1lbmRlZDgBQgsKCVZpZXcgTW9yZQ=="
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "page_navigation": {
+                                        "page_type": "WatchPage",
+                                        "page_url": "/v2/pages/watch?content_id=1271698289&filters=content_type%3Dshow_live",
+                                        "page_slug": "/in/shows/bbs10-24x7-stream-deferred/1271698289/live/watch"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "live_badge": {
+                            "text_image": {
+                              "src": "sources/r1/web-assets/live_badge",
+                              "alt": "LIVE"
+                            }
+                          },
+                          "alt": {
+                            "label": "BBS10 - 24X7 Stream [Deferred]"
+                          },
+                          "play": {
+                            "icon": "icon-play-fill"
+                          },
+                          "content_id": "1271698289",
+                          "ranking_info": {
+                            "base_score": -5
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "horizontal_content_card": {
+                        "template": {
+                          "name": "HorizontalContentCardWidget",
+                          "version": "1"
+                        },
+                        "widget_commons": {
+                          "version": "1",
+                          "instrumentation": {
+                            "override_referrer": true,
+                           
 
