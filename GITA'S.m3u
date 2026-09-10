@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="HOTSTAR", BB TELUGU 24×7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/BIGG_BOSS_TELUGU.jpg/330px-BIGG_BOSS_TELUGU.jpg" group-title="HOTSTAR", BB TELUGU 24×7
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1789058083~acl=%2f*~id=5c0ef8ee38a3c8b5662325da8d07549c~data=hdntl~hmac=532fea52d7bdd292f4319cd9b5edaf87d04acc8b7bc53a44ec54bf61e9bececa"}
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8?|cookie=hdntl=exp=1789058083~acl=%2f*~id=5c0ef8ee38a3c8b5662325da8d07549c~data=hdntl~hmac=532fea52d7bdd292f4319cd9b5edaf87d04acc8b7bc53a44ec54bf61e9bececa&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/BIGG_BOSS_TELUGU.jpg/330px-BIGG_BOSS_TELUGU.jpg" group-title="Telugu",BIGG BOSS 24x7 Telugu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/BIGG_BOSS_TELUGU.jpg/330px-BIGG_BOSS_TELUGU.jpg" group-title="HOTSTAR", BB TAMIL 24×7
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8?|cookie=hdntl=exp=1789058083~acl=%2f*~id=5c0ef8ee38a3c8b5662325da8d07549c~data=hdntl~hmac=532fea52d7bdd292f4319cd9b5edaf87d04acc8b7bc53a44ec54bf61e9bececa&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="Telugu",BIGG BOSS 24x7 Telugu
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://m3u.denver1769.fun/Jh/BB/Telugu/index.m3u8
 #EXTINF:-1 tvg-id="373474" group-title="┃ASIA┃ TELEGU" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TELEGU/96040-KushiTV.png",┃TELEGU┃  STAR MAA
