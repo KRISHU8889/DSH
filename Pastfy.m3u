@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/yupptvveda.jpg" group-title="LOCAL", VEDA SRI
+https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/hdntl=exp=1789271744~acl=%2f*~data=hdntl~hmac=11e7b3c821b7fc36ba738727c58ef047a5302c8acbaba3043f3b0c9c2e2a3b6c/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="Undefined",NDTV 24X7 
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name=""  tvg-logo="https://i.imgur.com/PyDjUZB.png" group-title="Undefined",NDTV India 
