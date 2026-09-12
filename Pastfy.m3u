@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/01/telugu-hindu-radio.jpg" group-title="FM RADIO", TELUGU HINDU RADIO
+http://cast6.my-control-panel.com:7638/liv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/01/venkateshwara-swamy-radio.jpg" group-title="FM RADIO", SRI VENKATESWARA SWAMY FM
 http://cast6.my-control-panel.com:8495/live
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2025/10/yupptvveda.jpg" group-title="LOCAL", VEDA SRI
