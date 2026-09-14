@@ -327,3 +327,40 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd?__hdn
 http://tv.cloudcdn.me:80/live.ts?channelId=132370&uid=3037&deviceMac=00:1A:79:0A:3B:2B
 #EXTINF:-1 tvg-id="ts663" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" group-title="AMAIRA Movies", Tata Play Tamil Cinema
 http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281614&extension=ts
+==============BHEEM M3U =========
+#EXTINF:-1 tvg-id="647" tvg-logo="https://tatalogo.pages.dev/647.png" group-title="AMAIRA Music", Isai Aruvi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90847bc89c0d5eb19c57d70370c3477c:8938c82cd4feec1f586e3c611459a7d4
+https://login.bheem.tv/bpk-tv/22348/output/index.mpd
+#EXTINF:-1 tvg-id="611" tvg-name="Sirippoli" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="AMAIRA Tamil", Sirippoli
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0bef7a3d07f5b9c8b4b2de472da7718:3139f66c3e590441bec542fcf16dcaca
+https://login.bheem.tv/bpk-tv/22379/output/index.mpd
+#https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="ts1166" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="AMAIRA Tamil", Chithiram
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928e0f5213fc5a7ebeb0bd8cbd4d1442:22b778641744694ad3de2822ee018d38
+https://login.bheem.tv/bpk-tv/22378/output/index.mpd
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RAJ_NAGAICHUVAI" group-title="AMAIRA Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/raj-en_nagaichuvai_2000_X_1125_Transpharent.png", Raj Nagaichuvai
+http://tv.cloudcdn.me:80/live.ts?channelId=89834&uid=3037&deviceMac=00:1A:79:0A:3B:2B
+#EXTINF:-1 tvg-id="334" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="AMAIRA Tamil", DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="jio-803" group-title="AMAIRA Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
+#EXTINF:-1 tvg-id="ts1322" group-title="AMAIRA Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/THANTIO_Thumbnail-v4/THANTIO_Thumbnail.png",Thanthi One
+https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+#EXTINF:-1 tvg-id="499" tvg-logo="https://tatalogo.pages.dev/499.png" group-title="AMAIRA Tamil", Vasanth TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f716240712b146169cd9bfb6a01061da:23ce7e9c4698d36db320c5daa1537ed2
+https://delta13tatasky.akamaized.net/out/i/6472180.mpd
+#EXTINF:-1  tvg-name="jio-824" group-title="AMAIRA Tamil" tvg-logo="https://i.ibb.co/Xt40dT5/Puthuyugam.png",Puthu Yugam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fea2415c80885ec19609665c8bbbd62c:55a5f420b2ed2b3c9cf408c9c18bb567
+https://login.bheem.tv/bpk-tv/22436/output/index.mpd
+#EXTINF:-1 tvg-id="272" tvg-logo="https://tatalogo.pages.dev/272.png" group-title="AMAIRA Tamil", Polimer TV
+https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
+#EXTINF:-1 tvg-id="659" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="AMAIRA Tamil",Vendhar TV
+https://cdn.pishow.tv/ott/live/1271/master.m3u8
