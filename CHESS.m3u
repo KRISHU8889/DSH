@@ -90,3 +90,80 @@ https://game.playindia.fun/Jtv/FoxRVM/Jtv.mpd?id=3051
 #KODIPROP:inputstream.adaptive.license_key=accd6f6ff0f55c1db84694101db6fd2d:64b60808649a36fff96fd10016cf0add
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Super_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="284" group-title="AMAIRA Tamil" tvg-logo="https://i.ibb.co/gFFC2vn9/aditya.png",Adithya TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7d2d1228b275e219c9cdb282038d4c3:d75d95afc4a181803d2188456a052477
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Adithya_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="411" group-title="AMAIRA Tamil" tvg-logo="https://i.ibb.co/MkK86W0P/life.png",Sun life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fff2c1ecea574b98da00b05c2a0be9:41670b42142fa8ba6bd3cf9fc2ae8cf5
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="ts906" group-title="AMAIRA Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png",Vijay Takkar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b7c26f031a5518983e34d269f7f9218:acfb670c15004a1b11c5d3dd33dad027
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="201" group-title="AMAIRA Movies" tvg-logo="https://tatalogo.pages.dev/201.png",J Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="426" group-title="AMAIRA Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png",Raj Digital Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2773e9650f9b5f6ba411dfd53cdf7912:57e6dcc6387ceace62737326811a1ef5
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="434" group-title="AMAIRA Tamil" tvg-logo="https://tatalogo.pages.dev/434.png",Jothi TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa875e7aa00e5f2186ba07232a318f7b:1edd25af2b8fa6a6b18e5630285ae234
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="99" group-title="AMAIRA Tamil" tvg-logo="https://tatalogo.pages.dev/99.png",D Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28cc7ab1093057648dc408417bb57d43:45d146719c37669b4ab7f700fe63e82f
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF: -1 tvg-id="32" tvg-logo="https://tatalogo.pages.dev/32.png" group-title="AMAIRA Movies",Sony Pix HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ff1fe6b2519562ca3a28602592cd547:d43132eca3cefc4e29ca8fe548a0638b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://sliv.tgaadi.workers.dev/pixhd.m3u8
+#https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="ts560" group-title="AMAIRA Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png",Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="ts593" group-title="AMAIRA Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12193-j9q33dpc-v2/imageContent-12193-j9q33dpc-m3.png",Star Movies Select HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="425" group-title="AMAIRA Music" tvg-logo="https://i.ibb.co/k208SrCQ/raj.png",Raj Musix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5968d25bb125bd6a8a1afe4b45d8711:ecb4f2a37bb7511baf2a3a93cdef375e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="199" group-title="AMAIRA Music" tvg-logo="https://tatalogo.pages.dev/199.png",Jaya Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0
+https://login.bheem.tv/bpk-tv/22374/output/index.mpd
+#EXTINF:-1 tvg-id="187" group-title="AMAIRA Entertainment" tvg-logo="https://tatalogo.pages.dev/187.png",Colors Infinity HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e30e813ab8935734a197205da8a5fd80:462b1cd9a1e74b6af3132e04fc307094
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="406" group-title="AMAIRA Entertainment" tvg-logo="https://tatalogo.pages.dev/406.png",MTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8972143db295ee891a18692ddee0f8b:c48a806fadcb2ef8ae800d128c6f3332
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
+#EXTINF:-1 tvg-id="ts265" group-title="AMAIRA Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11162-j99oso8o-v2/imageContent-11162-j99oso8o-m1.png",Disney International HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2504a914062c5bdeb186269abab353ad:0074716c4730c473be85070b2ba46cc9
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789358409~exp=1789380009~acl=/*~hmac=c80d30cbbca32aaf0519acaf779ab87e35817eecde6f60e2d490499ce596f899
