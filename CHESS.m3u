@@ -364,3 +364,52 @@ https://login.bheem.tv/bpk-tv/22436/output/index.mpd
 https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
 #EXTINF:-1 tvg-id="659" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="AMAIRA Tamil",Vendhar TV
 https://cdn.pishow.tv/ott/live/1271/master.m3u8
+#EXTINF: -1 tvg-id="392" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="AMAIRA Tamil", Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="421" tvg-logo="https://tatalogo.pages.dev/421.png" group-title="AMAIRA Tamil", Peppers TV
+https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8
+#EXTINF: -1 tvg-id="jio-971" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0856271246595482699747248.png" group-title="AMAIRA Tamil", Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png" group-title="AMAIRA Tamil",Mega TV
+http://livebox.pro/live/1yearqatar8942/950316240263/28141.ts
+#EXTINF:-1 tvg-id="411" tvg-logo="https://tatalogo.pages.dev/411.png" group-title="AMAIRA Tamil", Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF: -1 tvg-id="396" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240404_0218344882082935187551464.png" group-title="AMAIRA Tamil", Mega 24
+http://premiumtvs.space:8080/live/1yearqatar8942/950316240263/26163.ts
+#EXTINF: -1 tvg-id="jio-3004" tvg-logo="https://i.ibb.co/GQhjbGt/1000136225-photoaidcom-cropped.png" group-title="AMAIRA Tamil", Velicham TV
+https://cdn.smartstream.video/smartstream-us/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="jio-1647" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/05/20240521_1223086548629137627592678.png" group-title="AMAIRA Tamil",MK SIX
+https://cdn.pishow.tv/ott/live/1253/master.m3u8
+#EXTINF:-1 tvg-id="jio-843" tvg-name="Madhimugam TV" tvg-language="Local Channels" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="AMAIRA Tamil" group-logo="", Madhimugam TV
+https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF: -1 tvg-id="jio-1518" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png" group-title="AMAIRA Tamil",Moon TV
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+#EXTINF: -1 tvg-id="jio-2958" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0044256880499658982038945.png" group-title="AMAIRA Tamil", Tamilan Television
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-logo="https://tatalogo.pages.dev/490.png" group-title="AMAIRA Tamil",SVBC 
+https://d1msejlow1t3l4.cloudfront.net/fta/svbctamil2/playlist.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="https://i.imgur.com/YQK9ewf.png" group-title="AMAIRA Tamil",Aastha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="477" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11788-j9kypa94-v1/imageContent-11788-j9kypa94-m2.png" group-title="AMAIRA Tamil", Sri Sankara
+https://d1msejlow1t3l4.cloudfront.net/fta/srisankaratamil/playlist.m3u8
+#EXTINF:-1 tvg-id="jio-3279" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="AMAIRA Tamil",OM TV
+http://live.balajibroadband.com:3500/live/auto/3279.m3u8
+#EXTINF:-1 tvg-id="ts1067" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-249-j5fyl7tk-v1/imageContent-249-j5fyl7tk-m1.png" group-title="AMAIRA Tamil", Star Sports 1 Tamil
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:7A:D2:0E&stream=155873&extension=m3u8
+#EXTINF:-1 tvg-id="1187" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Thumbnail_62ccb7be-f9e6-49c0-8382-7ee6a812fe50.png" group-title="AMAIRA Tamil", Star Sports 2 Tamil
+http://tv.cloudcdn.me:80/live.ts?channelId=132885&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-name="Bigboss 24/7 TAMIL" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/0/01/Tamil10_Logo.png/revision/latest/thumbnail/width/360/height/360?cb=20260807161818" group-title="AMAIRA Tamil", Biggboss 24/7
+http://tv.cloudcdn.me:80/live.ts?channelId=132411&uid=3037&deviceMac=00:1A:79:0A:3B:2B
+#EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png" group-title="AMAIRA Tamil",Sairam TV
+https://cdn.pishow.tv/ott/live/1611/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="AMAIRA Tamil",Dheeran TV
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sund-images.sunnxt.com/194403/1600x1200_SunTVHD_194403_4fcf48c1-ad41-4f91-a493-886ce54889c1.png" group-title="AMAIRA Entertainment",SUN TV HD AU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
+#EXTINF:-1 group-title="AMAIRA Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Vijay_TV_2026.png/revision/latest?cb=20260813150037",Vijay TV UK
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+#EXTINF:-1 group-title="AMAIRA Entertainment" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png",Colors Tamil USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://yupp-geo-us.keralive.workers.dev/020424/colorstamilus_1800/playlist.m3u8
