@@ -506,7 +506,7 @@ https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
 https://stream.singamcloud.in/jeyamplus/jeyamplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Local Channels" tvg-logo="https://df6d.short.gy/churl.png" tvg-country="IN" tvg-url="" group-title="AMAIRA Local Channels",Maniway TV
 https://live.singamcloud.in/bsctv/bsctv/index.m3u8
- ASHOKADIGITAL
+ASHOKADIGITAL
 #EXTINF:-1 tvg-name="Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params tv png lgog .png" group-title="AMAIRA Local Channels",Params Tv
 https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
 #EXTINF:-1 tvg-id="HariTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754982558_f90dff80-1533-4884-906a-de6f24041e53-removebg-preview.png&w=1920&q=75" group-title="AMAIRA Local Channels",Hari TV
@@ -600,6 +600,67 @@ http://phoenix.phoenixcreations.online/phoenix/phoenix/playlist.m3u8
 http://khilatv.phoenixcreations.online/khilatv/khilatv/playlist.m3u8
 #EXTINF:-1  tvg-name="Sky Media" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_1659308817832886575825036.png",Sky Media
 http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/X_vIkiQs3knoHDyeyTFs35jyICkM8c_s4jqW3pcC49PsnOapF2gtoMGzez4XkQtmU7k=w240-h480-rw" group-title="AMAIRA Local Channels", C TV
+http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mv4jpeF5UsjK42qemWFUefrTsj5EAr6USSr1ZKI8Sm0HtSiowA5ha5BbcGsWM6mXC4Mp=w240-h480-rw" group-title="AMAIRA Local Channels", RK TV
+http://rktv.phoenixcreations.online/rktv/rktv/playlist.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-url="" group-title="AMAIRA Local Channels",Thendral HD TV
+http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", Velan TV
+http://velantv.phoenixcreations.online/velantv/velantv/index.m3u8
+#EXTINF:-1 tvg-id="SubinTV@Phoenix" tvg-logo="https://subintv.in/SUBINLOGO.png" tvg-region="Alangulam;Tenkasi" group-title="AMAIRA Local Channels",Subin TV
+http://subintv.phoenixcreations.online/subintv/subintv/playlist.m3u8
+#EXTINF:-1  tvg-name="Sasi Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_1556234352065817057057468.png",Sasi Tv
+http://sasitv.phoenixcreations.online/sasitv/sasitv/playlist.m3u8
+#EXTINF:-1 tvg-id="NagaTV" tvg-logo="https://play-lh.googleusercontent.com/Z3NviXxNAKysRw8YFctVNqO87auqy7ic731owb8D-e2efpZO2ZM-iObZippjiwjHRwq3tB_sRDSdJC_WO4M9=s512-rw" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Naga TV
+http://nagatv.phoenixcreations.online/nagatv/nagatv/index.m3u8
+#EXTINF:-1 tvg-id="MangalamTV" tvg-logo="https://play-lh.googleusercontent.com/SGyfDbRPr5ySSLnPaRWovKGYTPhIZ0WdDxKgR5tiAURCGOVQDOWFNSNXZ3YtLIjZ9hq0_vqsyz4SpSmFO6Nj=w512-h960-rw" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Mangalam TV
+http://mangalamtv.phoenixcreations.online/mangalamtv/mangalam/playlist.m3u8
+#EXTINF:-1 tvg-id="SubashTV2" tvg-logo="https://play-lh.googleusercontent.com/u0SjorJm3IQcKpvEUE7oL4YdQIKIr5u12l0CU30GRVDIJNonSz4BorvJetXKVGlbjbfq6EZLKzuceXNtCa8i=s512-rw" tvg-region="Tenkasi" group-title="AMAIRA Local Channels",Subash TV Tenkasi
+http://subash.phoenixcreations.online/subash/subash/index.m3u8
+#EXTINF:-1 tvg-id="AnnaiTVThoothukudi" tvg-logo="https://play-lh.googleusercontent.com/lVRWVDehSsWowxds1f3ZGAurZLUVImbooOd0eyme0M9NTAdPsDIWb8Sy3nJC4f0m1JdJbrYsf2vMdOfd3H3QSA=w512-h960-rw" tvg-region="Thoothukudi" group-title="AMAIRA Local Channels",Annai TV Thoothukudi
+http://annaitv.phoenixcreations.online/annai/annaitv/index.m3u8
+#EXTINF:-1 tvg-name="Bama HD Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_025831756712452387924318.png",Bama HD Tv
+http://bamatv.phoenixcreations.online/bamatv/bama/playlist.m3u8
+#EXTINF:-1 tvg-id="sree_tv" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Sree Tv
+https://sreetv.phoenixcreations.online/sreetv/sreetv/playlist.m3u8
+#EXTINF:-1 tvg-id="KakaTV" tvg-logo="https://play-lh.googleusercontent.com/JZgycd_NRqWMCxSbay6Cbcu7UQnjChT2J1d0RFo7v0IM5o1YxAuCPqj7QDykYe73kg2XRUfDBsNSBe3lLliGzQ=w512-h960-rw" tvg-region="Valliyur;Tirunelveli" group-title="AMAIRA Local Channels",Kaka TV
+http://kakatv.phoenixcreations.online/kakatv/kaka/index.m3u8
+#EXTINF:-1 tvg-id="JosTV" tvg-logo="https://play-lh.googleusercontent.com/GV3dGZVdT56cFJCewPwViXqAeAQioiOgdwgEaTx_e3On7wvrzPWh0ILIXD2JbDOnv6_CEKrwI3NRNmvWxmWB=w512-h960-rw" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Jos TV
+http://jostv.phoenixcreations.online/jostv/jostv/index.m3u8
+#EXTINF:-1 tvg-id="SriTV" tvg-logo="https://play-lh.googleusercontent.com/WVVmROs0-HduRDHoPjdyF-o4BWIHE5cVK8KC2uHzBeCskktLCZ9npcRLv9__UebaAhXrdY21xURmyrzyGJ4Ayg" tvg-region="Unknown" group-title="AMAIRA Local Channels",Sri TV
+http://sritv.phoenixcreations.online/sritv/sri/playlist.m3u8
+#EXTINF:-1 tvg-id="VelTV" tvg-logo="https://play-lh.googleusercontent.com/T13Cd01S46L8YqzPzLWwtE_38xY5DZesG7khQsGQu2nxbve886mjKqFBNCDBJQ88TDKgMr1ZjZJJebYp2uSFyg" tvg-region="Unknown" group-title="AMAIRA Local Channels",Vel TV
+http://veltv.phoenixcreations.online/veltv/vel/index.m3u8
+#EXTINF:-1 tvg-id="KingsTV" tvg-logo="https://play-lh.googleusercontent.com/cXclrtlhO6v3NvMl4rlHUY8daedag1Ugbdv8S5Fl5NiBSGDUzIk55Snrv0k94MNapkG9ffgLHFiNXx2qN56OYQ" tvg-region="Unknown" group-title="AMAIRA Local Channels",Kings TV
+http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
+#EXTINF:-1 tvg-id="BigilTV" tvg-logo="https://play-lh.googleusercontent.com/yKAvmjZyBijb-QXYdfLQKEkLSnsLIkahT-9Dqozc59x0oVebBIMO6JQStbEP_QeL7IgkNNCF_h5kJhsLQLwE_A" tvg-region="Karur" group-title="AMAIRA Local Channels",Bigil TV
+http://bigiltv.phoenixcreations.online/bigiltv/bigiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="VetriTV" tvg-logo="https://play-lh.googleusercontent.com/XMxl1RI97TsGNGLiNySIv_5EQ8XI8ywoghPlzsZItfM-PaiuTKkRb5sNN_hlG8ZrMNua7FFUnv0jKlFA5gh2rQ" tvg-region="Unknown" group-title="AMAIRA Local Channels",Vetri TV
+http://vetritv.phoenixcreations.online/vetritv/vetritv/playlist.m3u8
+#EXTINF:-1 tvg-id="BalaTV2" tvg-logo="https://play-lh.googleusercontent.com/G-PgqZh_3VQ2HfqnBpctD1aQBfB0h8SuLpeB34j8iVS0axyUN80QB4ruyLIEO3qxEg2U55e45uCeYylWiC9s" tvg-region="Unknown" group-title="AMAIRA Local Channels",Bala TV
+http://balatv.phoenixcreations.online/balatv/bala/playlist.m3u8
+#EXTINF:-1 tvg-id="PrinceTV" tvg-logo="https://play-lh.googleusercontent.com/SrJsp7zhnpCoWvsFru2y8kLRXerhlSf50JRlQQI0EOnn3JeqY1tql-fs26XiRwp4oE1q1ltcoWlcUztIj6AB" tvg-region="Unknown" group-title="AMAIRA Local Channels",Prince TV
+http://princetv.phoenixcreations.online/princetv/prince/playlist.m3u8
+#EXTINF:-1 tvg-id="MMTV3" tvg-logo="https://play-lh.googleusercontent.com/KYp4jlQ7vzYLBQMDJPCAaep_EYWWdSZ6FEnvQxAxvCYapVcI6eEWEWRSFt56sPMZ2rIWg3LJuF80lN3P5Li_WFg=w512-h960-rw" tvg-region="Valliyur;Tirunelveli" group-title="AMAIRA Local Channels",MM TV
+http://mmtv.phoenixcreations.online/mmtv/mm/playlist.mpd
+#EXTINF:-1 tvg-id="SSTV2" tvg-logo="https://play-lh.googleusercontent.com/WK6xINTd91o8A-6jaYgoGFSGXikEFoh2tlznkzY8tap0lEH2N8p5j2sumbYD-lOpQEN3c-oz4u79JKqdHAoq=w512-h960-rw" tvg-region="Unknown" group-title="AMAIRA Local Channels",SS TV
+http://mangalamtv.phoenixcreations.online/sstv/sstv/playlist.m3u8
+  INDIAMATRIX & SKYSTREAM
+#EXTINF:-1 tvg-name="Nellai Times TV" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240225_2108398789743320451927008.png",Nellai Times Tv
+#EXTINF:-1 tvg-name="K Channel" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_2046328798385470697522137.png",K channel
+http://brightmeltech.in/kchannel/kchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAYIL TV" tvg-logo="http://phoenixcreations.online/ott/vinayagaott/uploads/1782824649_mayil tv logo ip tv copy.jpg" tvg-region="Mayiladuthurai" group-title="AMAIRA Local Channels",MAYIL TV
+http://103.186.231.25:8080/hls/mayiltv/index.m3u8
+#EXTINF:-1 tvg-id="ACPTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746108596_ACP%20TV%20LOGO%2026-Mar-2025%2014-57-40%20(2)-1.png" tvg-region="Madurai" group-title="AMAIRA Local Channels",ACP TV
+http://103.87.105.51:8080/acphd/acphd.m3u8?psk=123456
+#EXTINF:-1 tvg-id="ACPClassic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746108655_ACP%20TV%20LOGO%2026-Mar-2025%2014-57-40%20(2)-2.png" tvg-region="Madurai" group-title="AMAIRA Local Channels",ACP Classic
+http://103.87.105.51:8080/acpclassic/acpclassic.m3u8?psk=123456
+#EXTINF:-1 tvg-id="ACPIsaiOli" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762800961_WhatsApp%20Image%202025-11-10%20at%202.03.57%20PM.jpeg" tvg-region="Madurai" group-title="AMAIRA Music",ACP Isai Oli
+http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8?psk=123456
+#EXTINF:-1 tvg-id="SmartSriTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773823026_Smart%20Sri%20Tv%20logo.png" tvg-region="Virudhunagar" group-title="AMAIRA Local Channels",Smart Sri
+https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
+
 
 
 TP local
