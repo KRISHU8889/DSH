@@ -388,6 +388,44 @@ https://stream.onecloudlive.in/duraitv/classic/index.m3u8
 https://stream.onecloudlive.in/superstartv/superstarhd/index.m3u8
 #EXTINF:-1 tvg-id="nila_tv_kutti" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Nila Tv Kutti
 https://stream.onecloudlive.in/nilatvkutti/nilatvhd/index.m3u8
+#EXTINF:-1 tvg-id="RaagamFriendsTV" tvg-logo="https://play-lh.googleusercontent.com/KcLP_qcyDZDqAK5rQsn7OB-CDdnVUSbpZVl31u4g348U2zsIp5Ga1R_HEvNZxX8Ba88=w512-h960-rw" tvg-region="Cumbum;Theni" group-title="AMAIRA Local Channels",Raagam Friend's TV
+https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
+#EXTINF:-1 tvg-id="AaronTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AaronTV.png" tvg-region="Sambavarvadakarai" group-title="AMAIRA Local Channels",Aaron TV
+http://stream.onecloudlive.in/sachintv/aarontvhd/index.m3u8
+#EXTINF:-1 tvg-id="AkilamTV" tvg-logo="https://play-lh.googleusercontent.com/O2VYtHNRr69SaCKZ3NKYz4-JpCu7Va1tc7agAbpB-rdRa-PsKrwW-_VbZE3gLvDjew=w512-h960-rw" tvg-region="Thisayanvilai;Tirunelveli" group-title="AMAIRA Local Channels",Akilam TV
+https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Local Channels" tvg-logo="https://df6d.short.gy/churl.png" tvg-country="IN" tvg-url="" group-title="AMAIRA Local Channels",Success TAMIL
+https://stream.onecloudlive.in/successtv/successtvhd/index.mpd
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/x24xzx4PLGrA0ycfhAUeFxHQr85yr15WVg3Vaf18MgE3d_V8tgArZgsp4DHabQxyYZ-0=w512-h960-rw" group-title="AMAIRA Local Channels", National TV
+https://stream.onecloudlive.in/karnan/Nationaltv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Local Channels" tvg-logo="https://df6d.short.gy/churl.png" tvg-country="IN" tvg-url="" group-title="AMAIRA Local Channels",Then TV
+http://thentv.stream.onecloudlive.in/thentv/thentvhd/index.m3u8
+#EXTINF:-1 tvg-id="VanavilTV2" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/VAANAVIL-TV.png?alt=media&token=7766c7cd-85e2-4f82-9a8e-2289cce486e5" tvg-region="Pattukkottai" group-title="AMAIRA Local Channels",Vanavil TV
+https://stream.onecloudlive.in/karnan/vanaviltv/index.m3u8
+#EXTINF:-1 tvg-id="AanmikaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775583135_WhatsApp%20Image%202026-04-07%20at%206.53.44%20PM.jpeg" tvg-region="Sivaganga;Madurai" group-title="AMAIRA Local Channels",Aanmika TV
+https://stream.onecloudlive.in/nilatvsvg/nilaomtv/index.m3u8
+#EXTINF:-1 tvg-id="ChannelSpice" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ChannelSpice.png" tvg-region="Theni" group-title="AMAIRA Local Channels",Channel Spice
+https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SMedia.png" group-title="AMAIRA Local Channels", S Media
+https://stream.onecloudlive.in/stv/stvhd/index.m3u8
+#EXTINF:-1 tvg-id="SangamamTVErode" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733896875_IMG-20241210-WA0271.jpg&w=1080&q=75" group-title="AMAIRA Local Channels",Sangamam TV
+https://stream.rojatv.cloud/SANGAMAMTV/onecloud/index.m3u8
+#EXTINF:-1 tvg-id="LuckyTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/LuckyTV.png" tvg-region="Sayalkudi;Ramanathapuram" group-title="AMAIRA Local Channels",Lucky TV
+http://luckytv.stream.onecloudlive.in/luckytv/luckytvhd/index.m3u8
+#EXTINF:-1 tvg-id="KSRTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KSRTV.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",KSR TV
+http://ksrtv.stream.onecloudlive.in:8080/ksrtv/ksrtvhd/index.m3u8
+#EXTINF:-1 tvg-id="BhairavaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BhairavaTV.png" tvg-region="Aruppukottai;Virudhunagar" group-title="AMAIRA Local Channels",Bhairava TV
+https://stream.onecloudlive.in/bhairavatv/bhairavahd/index.m3u8
+#EXTINF:-1 tvg-id="SabariTVAruppukottai" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SabariTVAruppukottai.png" tvg-region="Aruppukottai;Virudhunagar" group-title="AMAIRA Local Channels",Sabari TV Aruppukottai
+https://stream.onecloudlive.in/sabaritv/sabaritvhd/index.m3u8
+#EXTINF:-1tvg-id="" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Max Tv
+https://stream.onecloudlive.in/maxtv/maxtvtenkasi/index.m3u8
+#EXTINF:-1 tvg-id="PGTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/PGTV.svg" tvg-region="Madurai" group-title="AMAIRA Local Channels",PG TV
+https://app.xstream.onecloudlive.in/pgtv/pgtvhd/index.m3u8
+#EXTINF:-1 tvg-name="Manju Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/QvnKft4c/1000145860.png",Manju Tv
+http://manjutv.stream.onecloudlive.in/manjutv/manjutv/index.m3u8
+#EXTINF:-1 tvg-id="PNTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777320043.webp" group-title="AMAIRA Local Channels",Pn TV
+https://stream.onecloudlive.in/pntv/pntv/index.m3u8
 
 
 TP local
