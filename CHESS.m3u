@@ -508,3 +508,53 @@ http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="AMAIRA Sports",SONY TEN Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/Cricket-Plus-tr.gif" group-title="AMAIRA Sports",ATN Cricket Plus
+http://sbhgoldpro.org:80/play/live.php?mac=00:1a:79:1B:A5:64&stream=741865&extension=ts
+**************....*************
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xX2dRh0/showcase.png" group-title="AMAIRA Movies",SHOWCASE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
+https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260513T005538SQUARE.png" group-title="AMAIRA Movies",NH Tamil Gold
+https://nhstudio-samsung.vgcdn.net/v1/019d0b69195815fc60e9135a7f0877/019d0b69658d1ea540a8f3edbbbf0/tamilgold_2500k.m3u8
+#EXTINF: -1 group-title="AMAIRA Movies" tvg-logo="https://yt3.googleusercontent.com/ZgcEXEs5p68kfy7XRit12tc8buuPjRtjQD-qiPWw0uixmUBMX3dPX-nRry5eHRGomLg0SBJ1=s900-c-k-c0x00ffffff-no-rj",Superfine Films Tamil
+https://supflm.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8
+#EXTINF: -1  tvg-name="Mango" group-title="AMAIRA Movies" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
+https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+#EXTINF: -1  tvg-name="South Flix" group-title="AMAIRA Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",Zee South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+====== MUSIC =====
+#EXTINF:-1 tvg-id="400" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="AMAIRA Music",Mega Musiq
+http://livebox.pro/live/1yearqatar8942/950316240263/26164.ts
+#EXTINF:-1 tvg-id="7S.MUSIC.in" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17097527414494923868850942693233.png" group-title="AMAIRA Music", 7S Music
+https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
+#EXTINF:-1 tvg-id="jio-786" tvg-logo="https://tatalogo.pages.dev/377.png" group-title="AMAIRA Music", Kappa TV
+https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+#EXTINF:-1 tvg-id="1284" group-title="AMAIRA Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANPLTV_Thumbnail-v1/SANPLTV_Thumbnail.png",Sana Plus
+https://cable74tataplay.akamaized.net/hls/sanaplus.m3u8
+#EXTINF: -1 tvg-id="96" tvg-logo="https://tatalogo.pages.dev/96.png" group-title="AMAIRA Music", Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="250" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="AMAIRA Music", Music India
+https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF: -1 tvg-id="139" tvg-logo="https://tatalogo.pages.dev/139.png" group-title="AMAIRA Music", 9xM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF: -1 tvg-id="39" tvg-logo="https://tatalogo.pages.dev/39.png" group-title="AMAIRA Music", 9x Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 group-title="AMAIRA Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="DeewanaHD.in" tvg-name="Deewana HD" tvg-logo="https://i.imgur.com/xIYITQ9.png" group-title="AMAIRA Music",Deewana
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
+#EXTINF:-1 tvg-name="Dhool TV" group-title="AMAIRA Music" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png",Dhool TV
+https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="AMAIRA Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Tamil Songs
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:EE:CB&stream=734065&extension=ts
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="AMAIRA Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Latest Songs
+https://fusion4k.psrutube.workers.dev/481200.m3u8
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="AMAIRA Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Trending Songs
+https://fusion4k.psrutube.workers.dev/481199.m3u8
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="AMAIRA Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Mix Songs
+https://fusion4k.psrutube.workers.dev/481201.m3u8
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="AMAIRA Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Hit Songs
+https://fusion4k.psrutube.workers.dev/481314.m3u8
+#EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="AMAIRA Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Romantic Songs
+https://fusion4k.psrutube.workers.dev/481315.m3u8
