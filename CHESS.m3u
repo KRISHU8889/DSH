@@ -475,6 +475,27 @@ https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8
 https://1.proxy.nellaiiptv.com/srivinayagatv/hd/index.m3u8
 #EXTINF:-1 tvg-id="SriVinayagaMovies" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Sri Vinayaga Movies
 https://1.proxy.nellaiiptv.com/srivinayagatv/movies/index.m3u8
+#EXTINF:-1 tvg-id="SriVinayagaMusic" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png" tvg-region="Tirunelveli" group-title="AMAIRA Music",Sri Vinayaga Music
+https://1.proxy.nellaiiptv.com/srivinayagatv/music/index.m3u8
+#EXTINF:-1 tvg-id="SriVinayagaHollywood" tvg-logo="https://phoenixcreations.online/ott/vinayagaott/uploads/1782962302_hollywood%202.png" tvg-region="Uthangarai;Krishnagiri" group-title="AMAIRA Local Channels",Sri Vinayaga Hollywood
+https://1.proxy.nellaiiptv.com/srivinayagatv/hollywood/playlist.m3u8
+#EXTINF:-1 tvg-id="SarahTV" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1785900010_WhatsApp%20Image%202026-08-04%20at%209.34.30%20PM.jpeg" tvg-region="Unknown" group-title="AMAIRA Local Channels",Sarah TV
+https://sarah-7starcloud-com.proxy.nellaiiptv.com/live/sarahtv/live.m3u8
+#EXTINF:-1 tvg-id="GurudevanTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" tvg-region="Unknown" group-title="AMAIRA Local Channels",Gurudevan TV
+https://deva.nellaiiptv.com/Gurudevan/tv/index.m3u8
+#EXTINF:-1 tvg-id="SakthiTV2" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777389599.webp" tvg-region="Unknown" group-title="AMAIRA Local Channels",Sakthi TV
+https://real-vk.proxy.nellaiiptv.com/SAKTHITV/index.m3u8
+SINGAMCLOUD
+#EXTINF:-1  tvg-name="Easan Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_2035501474180601170361895.png",Easan Tv
+http://live.singamcloud.in/eesantv/eesantv/index.m3u8
+#EXTINF:-1  tvg-name="Maa Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240225_2058186220089432240587918.png",Maa Tv
+http://live.singamcloud.in/maatv/maatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6ktd0LV/AIdro-k-Nc-Tf0s1xm-Nwxu2w-G7xa-Ewopb-Wunw-KMI67-K42-J7-Viimg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="AMAIRA Local Channels", ADHIYAMAAN TV
+https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
+#EXTINF:-1  tvg-name="SMCV Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png",SMCV Tv
+http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+#EXTINF:-1 tvg-id="jayam_tv_polur" tvg-name="JAYAM TV POLUR" group-title="AMAIRA Local Channels" tvg-logo="https://df6d.short.gy/churl.png",Jayam Tv Polur
+https://live.singamcloud.in/jayamtv/jayamki/index.m3u8
 
 
 TP local
