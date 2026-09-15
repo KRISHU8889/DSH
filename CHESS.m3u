@@ -1079,3 +1079,51 @@ https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="SriLanka" tvg-name="Sakthi Tv" group-title="AMAIRA Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0118443925384527961735051.png",Shakthi Tv
 https://mactom3u.vodep39240327.workers.dev/481792.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF: -1 tvg-id="SriLanka" tvg-logo="https://i.ibb.co/wyZVVyN/1000155752-photoaidcom-cropped.png" group-title="AMAIRA Overseas", Rupavahini 
+https://mactom3u.vodep39240327.workers.dev/481793.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 group-title="AMAIRA Overseas" tvg-logo="https://i.ibb.co/wZ0jTRny/1000151410.png",Swarnavahini
+https://mactom3u.vodep39240327.workers.dev/474890.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 tvg-id="SriLanka" group-title="AMAIRA Overseas" tvg-logo="https://i.imgur.com/5cyTVRJ.png",NDTV LANKA
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="AMAIRA Overseas",Asia TV
+https://stream.asiatvnet.com/1/live/master.m3u8
+#EXTINF: -1 tvg-id="SriLanka" tvg-logo="https://i.ibb.co/9Z2sTXy/1000155758-photoaidcom-cropped.png" group-title="AMAIRA Overseas", Sirasa TV
+https://mactom3u.vodep39240327.workers.dev/474891.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 tvg-id="SriLanka" tvg-logo="https://yt3.googleusercontent.com/ZaG0AcUC38WcLMe1_qaWOKwYtMfDsunrwkOpbw2bDjxz6hr8QwxjB3Vv932q-5Ic-pCzqLPN=s900" group-title="AMAIRA Overseas",TV Derana
+#EXTINF:-1 tvg-id="SriLanka" tvg-logo="https://yt3.googleusercontent.com/VYf3JNQqQGwKio4bqS7UsgA228wr5Q7UNU2fdgNE0N5KaTSUqju2roE67YL9hyYh0jub_LpO=s900" group-title="AMAIRA Overseas",Charana TV
+#EXTINF: -1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_00364360783326764890909083.png" group-title="AMAIRA Overseas", Samugam TV
+http://ca.streamjo.com/live/samugam.m3u8
+#EXTINF:-1  tvg-name="IBC Tamil" group-title="AMAIRA Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0840532653502816512774106.png",IBC Tamil
+https://webcast.emn.onl/IBC/index.m3u8
+#EXTINF:-1  tvg-name="IBC Comedy" group-title="AMAIRA Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0841485829770191951767206.png",IBC Bhakthi
+https://webcast.emn.onl/IBC2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Overseas",Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Overseas",Tamil NTT
+https://5a1178b42cc03.streamlock.net/TamilNTT/TamilNTT/playlist.m3u8
+#EXTINF:-1 group-title="AMAIRA Overseas" tvg-logo="https://bx-tv.com/wp-content/uploads/2026/01/AATHITV.jpg",Aathi TV
+https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
+#EXTINF:-1 group-title="AMAIRA Overseas" tvg-logo="https://bx-tv.com/wp-content/uploads/2022/09/TNSE.jpg",TNSE TV
+https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
+#EXTINF:-1 group-title="AMAIRA Overseas" tvg-logo="https://df6d.short.gy/churl.png",Eagle One
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-name="Vanakkam Express" group-title="AMAIRA Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0137043919568678140954125.png",Vanakkam Express
+http://198.144.149.206:8080/VANAKKAM_EXPRESS_WEB/index.m3u8?token=AE
+#EXTINF: -1 tvg-id="75" tvg-logo="https://i.ibb.co/1Rt8Wrt/mediacorp.png" group-title="AMAIRA Overseas", Mediacorp Entertainment 
+https://mumbai-edge.smartplaytv.in/mediacorp/index.m3u8
+#EXTINF: -1 tvg-id="SriLanka" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0926231197456357836223693.png" group-title="AMAIRA Overseas", Monara TV
+https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="SriLanka" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0108487760157861076613218.png" group-title="AMAIRA Overseas", Swarnavahini
+https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="EETTV.in" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0107017658369609245301170.png" group-title="AMAIRA Overseas", EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="GEM TV" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Overseas",GEM TV
+https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RudhramTV" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Canada" group-title="AMAIRA Overseas",Rudhram TV
+http://148.113.170.17:8091/rudhram/index.m3u8
+#EXTINF:-1  tvg-name="India Life" group-title="AMAIRA Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240515_1638207054808583530763768.png", India Life HD
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="Mass Tv" group-title="AMAIRA Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0401425841398939739572268.png",Mass Tv
+http://tv2.massstream.net/Masstv/index.m3u8
+#EXTINF:-1  tvg-name="Meiveli Tv" group-title="AMAIRA Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240412_2153549201834672751639447.png",Meiveli Tv
+https://meiveli.livebox.co.in/MEIVELIMAINhls/meivelimain.m3u8
