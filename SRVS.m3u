@@ -323,6 +323,8 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTINF:-1 tvg-id="MYTV" tvg-chno="74" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C74-1762845018.png" tvg-language="te" group-title="Telugu Local",MYTV FHD
 https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://f4111056.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Aug-28-2026-01_15_09-AM-1.png" group-title="LOCAL", ETV BEATS HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://d3q3jhzdhmsx48.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index_1.m3u8
 #EXTINF:-1 tvg-id="75" tvg-chno="75" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_494_1748355672.png" tvg-language="te" group-title="Music Channels",Shreyas Music
 https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8
