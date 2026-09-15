@@ -755,6 +755,57 @@ https://notvstream.in/nrstv/nrstv/index.m3u8
 https://notvstream.in/thirumalaitv/thirumalaitv/index.m3u8
 #EXTINF:-1 tvg-id="KrishnaTV" tvg-logo="https://play-lh.googleusercontent.com/slnRZFTAYvHnbZswuAUnLo8jjtkVU2bhyZLalhlpF13dtAjRMR0oLonP6xb0hIX6Fh7d=w512-h960-rw" group-title="AMAIRA Local Channels",Krishna TV
 https://notvstream.in/krishnatv/krishnatv/index.m3u8
+#EXTINF:-1 tvg-id="NTVTrichy" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733812543_Ntv-Logo-png.png" tvg-region="Trichy" group-title="AMAIRA Local Channels",NTV Trichy
+https://notvstream.in/ntv/ntv/index.m3u8
+#EXTINF:-1 tvg-id="AnandamTV" tvg-logo="https://play-lh.googleusercontent.com/LmQF1KlnKDVTyvBAC3ASnLd7l2eqnMzTdqCBM0gxPLGO3IEW5qHgqXvoA2mrn9Oj3Q=w512-h960-rw" group-title="AMAIRA Local Channels",Anandam TV
+https://notvstream.in/anandamtv/anandamtv/index.m3u8
+#EXTINF:-1 tvg-id="MathiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753716414_madhi%20tv.png" tvg-region="Namakkal" group-title="AMAIRA Local Channels",Mathi TV
+https://notvstream.in/mathitv/mathitv/index.m3u8
+#EXTINF:-1 tvg-name="Queens Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/vC299ZpH/1000146965.png",Queens Tv
+https://notvstream.in/queens/queens/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Local Channels" tvg-logo="https://df6d.short.gy/churl.png" tvg-country="IN" group-title="AMAIRA Local Channels",Hitech Tv
+https://notvstream.in/hitechtv/hitechtv/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-category="Local",Tiruppur Voice TV 
+https://notvstream.in/tirupurvoicetv/tirupurvoicetv/index.m3u8
+#EXTINF:-1 tvg-id="StarMedia" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773809677_WhatsApp%20Image%202026-03-18%20at%209.42.26%20AM.jpeg" tvg-region="Unknown" group-title="AMAIRA Local Channels",Star Media
+https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", Brightrose TV
+https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", SUBI TV
+https://notvstream.in/subitv/subitv/index.m3u8
+#EXTINF:-1 tvg-id="RainbowTV" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Rainbow TV
+https://notvstream.in/rainbowtv/rainbowtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", Temble tv
+https://notvstream.in/tembletv/tembletv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", KING TV 24/7
+https://notvstream.in/kingtv/kingtv/index.m3u8
+#EXTINF:-1tvg-id="" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Orange tv
+https://notvstream.in/orangetv/orangetv/index.m3u8
+#EXTINF:-1  tvg-name="YaalTv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/CP563L2/1000140745-modified.png",Yaal Tv
+http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF:-1  tvg-name="Aarthi TV" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_0832155366153724501071724.png",Aarthi Tv
+http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
+APPLELIVE
+#EXTINF:-1  tvg-name="vasan Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/4fq70L3/cropped-image.png",Vasan TV
+http://applelive.in/vasantv/vasantv.m3u8
+#EXTINF:-1  tvg-name="Sha Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240807_0932597200407677878651042.png",Sha Tv
+http://applelive.in/shatv/shatv.m3u8
+#EXTINF:-1  tvg-name="PR Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1935237413617896258655107.png",PR Tv
+http://applelive.in/prtv/prtv.m3u8
+#EXTINF:-1  tvg-name="S Max UHD" group-title="AMAIRA Local Channels" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758117813_stv%20maxxxlogo%20copy.png",S Max UHD
+http://play.applelive.in/smaxtv/smaxtv.m3u8
+#EXTINF:-1  tvg-name="" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1229143149359611319687383.png",Vasanth Tv
+http://applelive.in/vasanthtv/vasanthtv.m3u8
+#EXTINF:-1  tvg-name="JJ Max" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0059154570795803220664691.png",Kumari Kathir TV
+http://jeyson.applelive.in/jjmax/jjmax.m3u8
+#EXTINF:-1  tvg-name="Endhiran Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_0905422606673326774585906.png", Endhiran Tv
+https://play.applelive.in/hls/enthirantv.m3u8
+#EXTINF:-1 tvg-id="GlobalTV" tvg-logo="https://i.ibb.co/TxFDP8Cz/Globaltvhd.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="AMAIRA Local Channels",Global TV
+https://play.applelive.in/globaltv/globaltv.m3u8
+#EXTINF:-1  tvg-name="Garudan Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0057516217128450988478871.png",Garudan Tv
+http://garudatv.applelive.in/hls/garudantv.m3u8
+#EXTINF:-1  tvg-name="AVS" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/FLp5TnL1/AVS.jpg",AVS Tv
+http://applelive.net:8091/avstv/avstv/index.m3u8
 
 
 TP local
