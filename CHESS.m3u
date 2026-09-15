@@ -426,6 +426,55 @@ https://app.xstream.onecloudlive.in/pgtv/pgtvhd/index.m3u8
 http://manjutv.stream.onecloudlive.in/manjutv/manjutv/index.m3u8
 #EXTINF:-1 tvg-id="PNTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777320043.webp" group-title="AMAIRA Local Channels",Pn TV
 https://stream.onecloudlive.in/pntv/pntv/index.m3u8
+--- Nellai IPTV
+#EXTINF:-1 tvg-id="DureshTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787301696.webp" tvg-region="" group-title="AMAIRA Local Channels",Duresh TV
+http://real-vk.proxy.nellaiiptv.com/PDPTV/index.m3u8
+#EXTINF:-1 tvg-id="EyeTVMadurai" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787553796.webp" tvg-region="Unknown" group-title="AMAIRA Local Channels",Eye TV Madurai
+https://srv-i.maduraiiptv.in/eyetv/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V MUSIC TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/v_music_tv_1770714870.webp" group-title="AMAIRA Music",V Muziq
+https://sx.nellaiiptv.com/app-restream/5akaf8-vmusictv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V TAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="AMAIRA Local Channels",V TAMIL
+https://sx.nellaiiptv.com/app-restream/88kp4t-vtamizhtv/index.m3u8
+#EXTINF:-1 tvg-id="SMSTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sms_tv_1770712766.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",SMS TV
+https://sx.nellaiiptv.com/live/smstv/index.m3u8
+#EXTINF:-1 tvg-id="PDPTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/pdp_tv_1770711747.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",PDP TV
+https://sx.nellaiiptv.com/app-restream/00e073-pdptv/index.m3u8
+#EXTINF:-1 tvg-id="ArunTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/arun_tv_1770713108.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Arun TV
+https://sx.nellaiiptv.com/app-restream/113d709-aruntv/index.m3u8
+#EXTINF:-1 tvg-id="SelfieTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784266089.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Selfie TV Nellai
+https://sx.nellaiiptv.com/app-restream/150cqo-selfietv/index.m3u8
+#EXTINF:-1 tvg-id="VIPTVVirudhunagar" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/logos/VIPTVVRD.png" tvg-region="Virudhunagar" group-title="AMAIRA Local Channels",VIP TV Virudhunagar
+https://sx.nellaiiptv.com/app-restream/q8cb9q-vishiltv1/index.m3u8
+#EXTINF:-1 tvg-id="VishilMax" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1744985304.jpeg" tvg-region="Virudhunagar" group-title="AMAIRA Local Channels",Vishil TV
+https://sx.nellaiiptv.com/app-restream/5j7iw8-vishilmaxtv2/index.m3u8
+#EXTINF:-1 tvg-id="STVMDU" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783178029.webp" tvg-region="Madurai" group-title="AMAIRA Local Channels",S TV Madurai
+https://sx.nellaiiptv.com/app-restream/rwtcwi-stv/index.m3u8
+#EXTINF:-1 tvg-id="RoyalTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Royal TV Nellai
+http://sx.nellaiiptv.com:8033/app-restream/2fx62e-royaltv/index.m3u8
+#EXTINF:-1 tvg-id="ThendralNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1770712936.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Thendral TV Nellai
+https://sx.nellaiiptv.com/app-restream/j0tt23-thendraltv/index.m3u8
+#EXTINF:-1 tvg-id="SharkTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/shark_tv_1770713207.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Shark TV
+https://sx.nellaiiptv.com/app-restream/av4i2-sharktv/index.m3u8
+#EXTINF:-1 tvg-id="GJVTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/gjv_tv_1770713443.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",GJV TV
+https://sx.nellaiiptv.com/app-restream/dbjd1j-gjvtv/index.m3u8
+#EXTINF:-1 tvg-id="NaveenTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772874205.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Naveen TV
+https://sx.nellaiiptv.com/app-restream/b3nd9s-naveentv/index.m3u8
+#EXTINF:-1 tvg-id="SwastikTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="AMAIRA Local Channels",Swastik TV
+https://sx.nellaiiptv.com/app-restream/rhk94a-swasthiktv/index.m3u8
+#EXTINF:-1 tvg-id="SriVarahiTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683809.webp" tvg-region="" group-title="AMAIRA Local Channels",Sri Varahi TV
+https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8
+#EXTINF:-1 tvg-id="TelemaxTamil" tvg-logo="https://yt3.googleusercontent.com/JZFLrlPP5c1YGD1xxTkZ35B_uW9P_nUqeBLZPJqtOTlx0FDNnrmIHSzrzzOL6YMCJtniMPm3X_U" tvg-region="Chennai" group-title="AMAIRA Local Channels",Telemax Tamil
+https://real-vk.proxy.nellaiiptv.com/TELEMAX/index.m3u8
+#EXTINF:-1 tvg-id="DiamondTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683751.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Diamond TV
+https://real-vk.proxy.nellaiiptv.com/DIAMONDTV/index.m3u8
+#EXTINF:-1 tvg-id="DiamondTalkies" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683709.webp" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Diamond Talkies
+https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
+#EXTINF:-1 tvg-id="DiamondMusic" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683730.webp" tvg-region="Tirunelveli" group-title="AMAIRA Music",Diamond Music
+https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="SriVinayagaTV" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Sri Vinayaga TV
+https://1.proxy.nellaiiptv.com/srivinayagatv/hd/index.m3u8
+#EXTINF:-1 tvg-id="SriVinayagaMovies" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png" tvg-region="Tirunelveli" group-title="AMAIRA Local Channels",Sri Vinayaga Movies
+https://1.proxy.nellaiiptv.com/srivinayagatv/movies/index.m3u8
 
 
 TP local
