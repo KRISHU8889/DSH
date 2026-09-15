@@ -225,7 +225,117 @@ https://stream.sscloud7.in/live/ntv/index.m3u8
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 #EXTINF:-1  tvg-name="Maran Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2109332713009370044906407.png",Maran Tv
 https://server.sscloud7.in/marantv/marantv/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xcQOgfZJTtxaQJmjuHk_hvvZNzC-gm39Dn1wfPbZmC6G1RHEpgHJtSULkmRku-fY_O4=w240-h480-rw" group-title="AMAIRA Local Channels",Jayam Tv
+https://live.sscloud7.in/live/jeyamtv/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png",Devi Tv
+https://app.ashokadigital.net/app/7086d917/index.m3u8
+#EXTINF:-1 tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1735924218.PNG" group-title="AMAIRA Local Channels", Jith TV
+https://sscloud7.com/live/jithtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OZC3XALE6RuarHXPuMoaP89xjuuui3_gV_xuk-W4Va_3y4PW-oN8HiwLKhrFZbcWtw=w240-h480-rw" group-title="AMAIRA Local Channels",Deivaoli Tv
+https://stream.sscloud7.in/live/deivaoli/index.mpd
+#EXTINF:-1 tvg-id="MalarTVALK" tvg-logo="https://play-lh.googleusercontent.com/VFvalPp4IMh7AVU4OOgF7-mnNhSkxnFB5LNnqa31Uds6EjB9Xk3YoMo1WrH9V13rkw_vPC49Dzh1JWnzzrVu=w512-h960-rw" tvg-region="Alangulam;Tenkasi" group-title="AMAIRA Local Channels",Malar TV Alangulam
+http://malartv.sscloud7.in/malartv/malartv/index.m3u8
+#EXTINF:-1 tvg-id="SkyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735972022.PNG" tvg-region="Virudhunagar" group-title="AMAIRA Local Channels",Sky TV
+https://sscloud7.com/live/skytv/index.m3u8
+#EXTINF:-1 tvg-id="AjayTV" tvg-logo="https://play-lh.googleusercontent.com/TcfRdiYg5gGJWlIpc4l5nqA5-DbC8PIVGxnHzaRd4UyvDGDBmD1axLXjV4fA2ms-6YejgBemXBqCcQn-35cT=w512-h960-rw" tvg-region="Unknown" group-title="AMAIRA Local Channels",Ajay TV
+http://ajaytv.sscloud7.in/live/ajaytv/index.mpd
+#EXTINF:-1 tvg-id="ThendralTVTheni" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1735633652_IMG-20241231-WA0071.jpg" tvg-region="Theni" group-title="AMAIRA Local Channels",Thendral TV Theni
+https://sscloud7.com/live/thendraltv/index.m3u8
+#EXTINF:-1 tvg-id="DinaTharani" tvg-logo="https://play-lh.googleusercontent.com/k0H62_q4i5vekWUm4A5ibIg33Dx4eO7qwRj9RewY_QMhC2VCvpaS5Rz0xiKg0vQqMDM=w480-h960-rw" tvg-region="Unknown" group-title="AMAIRA Local Channels",Dina Tharani
+https://stream.sscloud7.in/live/ddtv/index.m3u8
+ONECLOUD
+#EXTINF:-1 tvg-id="TOPTV" tvg-name="TOP TV" tvg-logo="https://i.ibb.co/Y4QfMPr1/logo.png" group-title="AMAIRA Local Channels", TOP TV
+https://stream.onecloudlive.in/toptv/toptvhd/index.m3u8
+#EXTINF:-1 tvg-id="TIMETV" tvg-name="TIME TV" tvg-logo="https://i.ibb.co/HLrvQpWy/512512.png" group-title="AMAIRA Local Channels", TIME TV
+https://live.olidigital.in/timetv/timetv/index.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="Aadhavan Colors Tv" tvg-logo="https://i.ibb.co/svNNmL97/1000159797.png" group-title="AMAIRA Local Channels",Aadhavan Colors
+https://view.apserver.in/tmp_hls4/aadhavancolours/index.m3u8
+#EXTINF:-1 tvg-id="CholaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Chola TV
+https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8
+#EXTINF:-1 tvg-id="SGBTV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000159114-1781435419226.jpg" tvg-region="Unknown" group-title="AMAIRA Local Channels",SGB TV
+http://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
+#EXTINF:-1 tvg-name="Raga Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/KzSwyBN4/1000146992.jpg",Raga Tv
+https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
+#EXTINF:-1 tvg-id="ThillaiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1744705879_IMG-20250415-WA0134(1).jpg&w=1920&q=75" group-title="AMAIRA Local Channels",Thillai TV
+https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", Phoenix TV
+http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/index.m3u8
+#EXTINF:-1 tvg-id="MaduraTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772719964_madhura tv.png" tvg-region="Madurai" group-title="AMAIRA Local Channels",Madura TV
+https://stream.onecloudlive.in/mm/maduratv/index.m3u8
+#EXTINF:-1 tvg-id="VajraTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1765194315_203%2520VAJRA%2520NEW%2520LOGO%25202.png&w=1920&q=75" group-title="AMAIRA Local Channels",Vajra TV
+http://mmtv.stream.onecloudlive.in/mmtv/vajratvtac/index.m3u8
+#EXTINF:-1 tvg-id="PalaarTV" tvg-logo="https://www.infinitylinks.org/uploads/pixels/px_1784008914_e042b3a86ecf.png" tvg-region="Ranipet" group-title="AMAIRA Local Channels",Palaar TV
+https://live.onecloudlive.in/palaartv/palaartv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937387.webp" group-title="AMAIRA Local Channels",NILA TV
+https://live.onecloudlive.in/palaartv/nilatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-category="Local",Vimal TV 
+https://stream.onecloudlive.in/karthick/vimaltv/index.m3u8
+#EXTINF:-1 tvg-id="CGTV" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",CG TV
+https://stream.onecloudlive.in/cctv/cctvhd/index.m3u8
+#EXTINF:-1 tvg-id="RSTV" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",RS TV
+https://rstv.stream.onecloudlive.in/rstv/rstvhd/index.m3u8
+#EXTINF:-1 tvg-id="SkyTVSathankulam" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1774419292.webp" tvg-region="Sathankulam;Thoothukudi" group-title="AMAIRA Local Channels",Sky TV Sathankulam
+https://stream.onecloudlive.in/skytvhd/skytvhd/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081858.webp" tvg-category="Local",Krishna TV 
+https://stream.onecloudlive.in/krishnatv/krishnatvhd/index.m3u8
+#EXTINF:-1 tvg-name="SHAKTHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/shakthi_tv_1770713832.webp" group-title="AMAIRA Local Channels",SHAKTHI TV
+https://stream.onecloudlive.in/sachintv/sakthitv/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Music" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SarvikTV.png" tvg-category="Local",Sarvik TV 
+https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", AK TV
+https://stream.onecloudlive.in/aktvhd/aktv/index.m3u8
+#EXTINF:-1 tvg-id="LuckyTVTK" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Tenkasi" group-title="AMAIRA Local Channels",Lucky TV Tenkasi
+https://live.onecloudlive.in/luckytvtk/luckytv/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Music" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11847.png" tvg-category="Local",YET Music 
+https://hls.yettelevision.com/LiveApp/streams/yettv2.m3u8
+#EXTINF:-1 tvg-id="ThogaiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785217175_Thogai%20New%20Logo.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Thogai TV
+https://thogaitv.stream.onecloudlive.in/thogaitv/12345678/index.m3u8
+#EXTINF:-1 tvg-id="3StarTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107173_3%2520star%2520logo%2520png%2520copy.png&w=1080&q=75" group-title="AMAIRA Local Channels",3 Star TV
+https://stream.onecloudlive.in/threestartv/threestarhd/index.mpd
+#EXTINF:-1 tvg-id="OLITV" tvg-name="OLI TV" tvg-logo="https://i.ibb.co/tPsBQWky/logo-png.png" group-title="AMAIRA Local Channels", OLI TV
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="SriArjunTV" tvg-logo="https://play-lh.googleusercontent.com/wZOk1Hq2elqzOuiC8GNQaIxes8xTuV8IyK5bofvxqjbnyNJ7vwaT3OOr-pTNg-qCNH_T=w512-h960-rw" tvg-region="Salem" group-title="AMAIRA Local Channels",Sri Arjun TV
+https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
+#EXTINF:-1 tvg-id="DeltaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha%20tv.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Delta TV
+https://live.onecloudlive.in/delta/namtv/index.m3u8
+#EXTINF:-1 tvg-id="ThangamTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThangamTV.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Thangam TV
+https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
+#EXTINF:-1 tvg-id="JayamTVTrichy" tvg-logo="https://play-lh.googleusercontent.com/ubSsc9-EysszvQIAHy9iHpzL7qjEd3yQlBVDYrpaKS2qH1j9sZmmIsT0hOgZplYiuhDc2206kZn3TXZUOiOoHtY" tvg-region="Trichy" group-title="AMAIRA Local Channels",Jayam TV Trichy
+https://live.onecloudlive.in/jmhd/jmtv/index.m3u8
+#EXTINF:-1 tvg-id="NilaTVTiruchengode" tvg-logo="https://play-lh.googleusercontent.com/zNrBrOSIJ_iVatOnqVAr6f-oMeFe0_2uyhwwqstMs7iwiRmuvvMzKxIba6hJlTRzMYw=w512-h960-rw" tvg-region="Tiruchengode" group-title="AMAIRA Local Channels",Nila TV
+https://stream.onecloudlive.in/nilaatv/nilahd/index.m3u8
+#EXTINF:-1 tvg-id="BassTV" tvg-logo="https://play-lh.googleusercontent.com/x6njvZ3CWH4ZYi8T5vfRdrpB9CVy3FBUwow_ExUZ3BoMVXxxVoo_7V5xmTaJ1Q2FuE7K=w512-h960-rw" tvg-region="Namakkal" group-title="AMAIRA Local Channels",Bass TV
+http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
+#EXTINF:-1 tvg-id="AgaramTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783750961.webp" tvg-region="Unknown" group-title="AMAIRA Local Channels",Agaram TV
+https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8
+#EXTINF:-1 tvg-id="salaam_tv" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Salaam Tv
+https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
+#EXTINF:-1 tvg-id="VelurTV" tvg-logo="https://play-lh.googleusercontent.com/IeIaCvqJwuinzGQUFhY18PPxQip0JmPoRJ3_jy11b1pkB9ztitJYpWGgLNEk8VLfd6I=w512-h960-rw" tvg-region="Velur;Namakkal" group-title="AMAIRA Local Channels",Velur TV
+https://stream.onecloudlive.in/bass/velurtv/index.m3u8
+#EXTINF:-1 tvg-id="JayTV" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Jay TV
+https://stream.onecloudlive.in/jaytv/jaytvhd/index.m3u8
+#EXTINF:-1  tvg-name="VTR Television" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240614_13212930020408404338437.png",VTR Television 
+https://app.xstream.onecloudlive.in/vtrtelevision/vtrhd/index.m3u8
+#EXTINF:-1 tvg-id="GopuramTV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788507469.webp" tvg-region="Unknown" group-title="AMAIRA Local Channels",Gopuram TV
+https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
+#EXTINF:-1 tvg-id="CuddaloreVoiceTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754494620_Ver%25202.0_04.png&w=1080&q=75" group-title="AMAIRA Local Channels",Cuddalore Voice TV
+http://voicetv.stream.ashokadigital.net:8080/voicetv/voicetvhd/index.m3u8
+#EXTINF:-1 tvg-name="Maruthi HD" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/R4DVKDh1/1000122165.jpg",Maruthi HD
+https://live4.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
+#EXTINF:-1 tvg-id="MaduraiArasiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai%20Arasi%20(2).png" tvg-region="Madurai" group-title="AMAIRA Local Channels",Madurai Arasi TV
+https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
+#EXTINF:-1 tvg-id="YatraTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762598647_IMG-20251108-WA0090.jpg" tvg-region="Unknown" group-title="AMAIRA Local Channels",Yatra TV
+https://stream.onecloudlive.in/yatra/yatratv/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Periyar Vision" tvg-logo="https://i.ibb.co/8nmGn4FY/Periyar-Vision.jpg" group-title="AMAIRA Local Channels", Periyar Vision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+#EXTINF:-1 tvg-id="AbinayaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AbinayaTV.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Abinaya TV
+https://app.xstream.onecloudlive.in/abinayatv/abinayatv/index.m3u8
+#EXTINF:-1 tvg-id="RightTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775293989_Logo.PNG" tvg-region="Unknown" group-title="AMAIRA Local Channels",Right TV
+https://stream.onecloudlive.in/righttv/live/index.m3u8
+#EXTINF:-1 tvg-id="SGBTV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000159114-1781435419226.jpg" tvg-region="Unknown" group-title="AMAIRA Local Channels",SGB TV
+https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", NILA TV PANNUR
+https://live.olidigital.in/nilatv/nilatv/index.m3u8
 
 TP local
 #EXTINF:-1 tvg-id="1285" group-title="AMAIRA Local Channels" tvg-logo=" https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANATV_Thumbnail-v2/SANATV_Thumbnail.png", Sana TV
