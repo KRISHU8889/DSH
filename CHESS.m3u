@@ -678,7 +678,83 @@ http://103.87.105.51:8080/acpclassic/acpclassic.m3u8?psk=123456
 http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8?psk=123456
 #EXTINF:-1 tvg-id="SmartSriTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773823026_Smart%20Sri%20Tv%20logo.png" tvg-region="Virudhunagar" group-title="AMAIRA Local Channels",Smart Sri
 https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
-
+#EXTINF:-1 tvg-id="NakkubettaTV" tvg-logo="https://play-lh.googleusercontent.com/n8HM6cgcx1PhavqlloBdloQUqkVvFOvoiC9KtxlJk1_FOhdOFxKeBZt5t3b6kMvUuNU=w480-h960-rw" tvg-region="Nilgris" group-title="AMAIRA Local Channels",Nakkubetta TV
+https://rojatv.cloud/nbtv/nbtv/index.m3u8
+#EXTINF:-1 tvg-name="Jayam Tv Namakkal" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/MxXLfHMg/1000145099.png",Jayam Tv Namakkal
+https://rtmp.bmlive.net/bms/jayamtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", KC TV
+https://rtmp.bmlive.net/bms/kctv/stream.m3u8
+#EXTINF:-1 tvg-id="KCMusic" tvg-logo="https://bmcloud.in/apptest/uploads/6936d2ffdb5e8.png" tvg-region="Coimbatore" group-title="AMAIRA Music",KC Music
+https://rtmp.bmlive.net/bms/kcmusic/index.m3u8
+#EXTINF:-1 tvg-id="AnbuTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761325584_anbu%20tv.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Anbu TV
+https://rtmp.bmlive.net/bms/anbutvhd/index.m3u8
+#EXTINF:-1 tvg-id="BlueMoonTV" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Blue Moon TV
+https://rtmp.bmlive.net/bms/bmtv/stream.m3u8
+#EXTINF:-1 tvg-id="NakshatraTV" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Nakshatra TV
+https://rtmp.bmlive.net/stream/nakshatra/index.m3u8
+#EXTINF:-1 tvg-name="Eagle Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/1fSXBRZy/1000145101.jpg",Eagle Tv
+https://rtmp.bmlive.net/bms/eagletv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", Urchagam TV
+https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8
+#EXTINF:-1 tvg-id="VinayakaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="AMAIRA Local Channels",Vinayaka TV
+http://server.mindspell.in/live/vinayagatv/index.m3u8
+#EXTINF:-1 tvg-id="ThendralTV" tvg-logo="https://i.imgur.com/kQK80gB.png" group-title="AMAIRA Local Channels",Thendral TV
+https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
+#EXTINF:-1 tvg-id="GaneshTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1734974165_IMG-20241223-WA0162-removebg-preview.png&w=1080&q=75" group-title="AMAIRA Local Channels",Ganesh TV
+https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-category="Local",Crayonz TV 
+https://sanplayout.xyz/live2/crayonztv/index.m3u8
+#EXTINF:-1 tvg-id="ntn_tv" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Ntn Tv
+https://live.skystream.in/live/ntntv/index.m3u8
+#EXTINF:-1 tvg-name="Arul Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/JRx3Ppdm/1000136493.jpg",Arul Tv
+http://arulstream.in:1935/ArulTv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="jj_news_1" tvg-logo="https://i.ibb.co/SDntG901/1000825080.jpg" group-title="AMAIRA Local Channels",Jj News
+https://live.skystream.in/live/jjnewstamil/index.m3u8
+#EXTINF:-1 tvg-id="vedha_tv" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Vedha Tv
+https://skystream.in/live/vedha6528/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-logo="https://df6d.short.gy/churl.png", CITY TV
+https://server.streamwell.in/hls/srkcity.m3u8
+  NOTV
+#EXTINF:-1  tvg-name="Kavin Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_1916271182493886783253891.png",Kavin Tv
+http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+#EXTINF:-1  tvg-name="Sai Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0900188433404147671876624.png",Sai Tv
+http://198.144.149.206:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:-1  tvg-name="" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240222_1356268705171385431914312.png", Appu TV
+http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
+#EXTINF:-1  tvg-name="Kanchi TV" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_001256623113914145539942.png",Kanchi Tv
+http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-name="Kanchi Media" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0013388576810840645126860.png",Kanchi Media
+http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="VTVTrichy" tvg-logo="https://play-lh.googleusercontent.com/QfZqN2OEgxOq65ndB6E8xfypQYbPusJ_IG9YDw5Op-uG89VswRm_TE7EJ3C44KiiBMU=w640-h960-rw" tvg-region="Trichy" group-title="AMAIRA Local Channels",VTV Trichy
+http://198.144.149.206:8080/NOTV/VTV1/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="ezhil_tv_1" tvg-name="Ezhil Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp7099274080036153872233203114333.png" group-title="AMAIRA Local Channels",Ezhil Tv
+http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-name="SNR Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/xt6mtWj5/1000136482.png",SNR Tv
+http://198.144.149.206:8080/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785677325_WhatsApp%20Image%202026-08-02%20at%206.53.09%20PM.jpeg" tvg-name="Chither TV" group-title="AMAIRA Local Channels", Chither TV
+http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785676992_WhatsApp%20Image%202026-08-02%20at%206.52.40%20PM.jpeg" tvg-name="Chither Music" group-title="AMAIRA Music", Chither Isai
+http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", TNTR
+http://198.144.149.206:8080/DINESH/TNTR/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="News80Tamil" tvg-logo="https://play-lh.googleusercontent.com/vUleh6XgoF2Ouabo6ImWZFg1wZY0xiFZDgp8d2fl2wvx2gejgt7eavWhn9DxTVEtw4I=w640-h960-rw" tvg-region="Unknown" group-title="AMAIRA Local Channels",News 80 Tamil
+http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="SuperTVDindigul" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SuperTVDindigul.png" tvg-region="Dindigul" group-title="AMAIRA Local Channels",Super TV Dindigul
+http://122.165.249.163:8080/hls/supertv/index.m3u8
+#EXTINF:-1  tvg-name="U Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0904062411139227642657182.png" group-title="AMAIRA Local Channels",U Tv
+https://notvstream.in/utv/utv/index.m3u8
+#EXTINF:-1 tvg-id="SSTV" tvg-logo="https://play-lh.googleusercontent.com/bwYGFpoUuFlDSgnD7Ug0DVORnPlO9rRa4771UwD3pjGeUp0GvAkTdI2dJYkzlJApBAc=w512-h960-rw" group-title="AMAIRA Local Channels",SS TV
+https://notvstream.in/sstv/sstv/index.m3u8
+#EXTINF:-1 tvg-id="410" tvg-name="Aasai TV Karur" tvg-logo="https://i.imgur.com/5p42C3t.jpg" group-title="AMAIRA Local Channels",Aasai TV Karur
+https://notvstream.in/aasaitv/aasaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="AMAIRA Local Channels", NRS Channel
+https://notvstream.in/nrstv/nrstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240614_1335324398279775267840408.png" group-title="AMAIRA Local Channels", Thirumalai HD
+https://notvstream.in/thirumalaitv/thirumalaitv/index.m3u8
+#EXTINF:-1 tvg-id="KrishnaTV" tvg-logo="https://play-lh.googleusercontent.com/slnRZFTAYvHnbZswuAUnLo8jjtkVU2bhyZLalhlpF13dtAjRMR0oLonP6xb0hIX6Fh7d=w512-h960-rw" group-title="AMAIRA Local Channels",Krishna TV
+https://notvstream.in/krishnatv/krishnatv/index.m3u8
 
 
 TP local
