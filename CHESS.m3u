@@ -892,6 +892,59 @@ https://play.applelive.in/atn/atn.m3u8
 https://play.applelive.in/robotv/robotv.m3u8
 #EXTINF:-1 group-title="AMAIRA Local Channels" tvg-category="Local",ACN TV 
 https://web.applelive.in/stream/acntv/index.m3u8
+#EXTINF:-1 tvg-id="AnbudanTV" tvg-logo="https://play-lh.googleusercontent.com/-lygOyPSa6o0v_RsThiA5Nf6XGN9I6mJATeY3E1xl80cAJSg48bFJabdKifjQPuqdulF=s512-rw" tvg-region="Unknown" group-title="AMAIRA Local Channels",Anbudan TV
+https://rtmp.applelive.in/anbudantv/anbudantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/APcXUrNRsMykUbsTpJd32uF6VMRqvhVV_davBoS_pUR-HT55AXcJm8TDe1RFfx8X0w=w240-h480-rw" group-title="AMAIRA Local Channels", Jai TV 
+https://play.applelive.in/jaitv/jaitv.m3u8
+#EXTINF:-1 tvg-id="HeartbeatTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1767337190_HEART%2520BEETT.png&w=1920&q=75" group-title="AMAIRA Local Channels",Heartbeat TV
+https://rtmp.bmlive.net/bms/heartbeattv/stream.m3u8
+#EXTINF:-1 tvg-id="CTNConoor" group-title="AMAIRA Local Channels",CTN Conoor
+https://rtmp.bmlive.net/ctn/ctntn/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1738842096.jfif" group-title="AMAIRA Local Channels",Boys tv
+http://rtmp.applelive.in/boystv/boystv/index.m3u8
+#EXTINF:-1tvg-id="" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Boobsh tv
+https://live.applelive.in/boobsh/boobsh/index.m3u8
+#EXTINF:-1 tvg-id="mcn" tvg-logo="https://i.ibb.co/MkHDZswK/1000153656.png" group-title="AMAIRA Local Channels",Mcn
+https://play.applelive.in/mcntv/mcntv.m3u8
+#EXTINF:-1 tvg-id="prime_tv_1" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11886.png" group-title="AMAIRA Local Channels",Prime Tv
+https://live.applelive.in/primetv/primetv/index.m3u8
+#EXTINF:-1  tvg-name="gtvmax" group-title="AMAIRA Local Channels" tvg-logo="https://df6d.short.gy/churl.png",GTV Max
+http://applelive.in/gtvmax/gtvmax.m3u8
+#EXTINF:-1  tvg-name="V TV" group-title="AMAIRA Local Channels" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/V%20TV.gif",V TV
+http://applelive.in/vtv/vtv.m3u8
+#EXTINF:-1 tvg-id="HaiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787907930_IMG_3011.PNG" tvg-region="Marthandam;Kanyakumari" group-title="AMAIRA Local Channels",Hai TV
+https://play.applelive.in/stv/stv.m3u8
+#EXTINF:-1  tvg-name="Hai Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240308_134829212056601576797114.png",Hai Tv
+http://applelive.in/haitv/haitv.m3u8
+#EXTINF:-1  tvg-name="Dark Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240308_1344203293400314281004608.png",Dark TV
+http://play.applelive.in/darktv/darktv.m3u8
+RIDSYS
+#EXTINF:-1 tvg-id="AuroTV" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Auro TV
+http://ptuf.ridsys.in/riptv/live/AURO_HD/index.m3u8
+#EXTINF:-1 tvg-id="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Ridsys TV
+http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
+#EXTINF:-1 tvg-id="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",AJK Tv
+http://ptuf.ridsys.in/riptv/live/AJK_TV/index.m3u8
+#EXTINF:-1 tvg-id="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",AJK Movie
+http://ptuf.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
+#EXTINF:-1 tvg-id="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",S Media
+http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
+#EXTINF:-1 tvg-id="AppleTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1747967607_APPLE%2520TV.jpeg&w=1920&q=75" group-title="AMAIRA Local Channels",Apple TV
+https://stream.iplive.xyz/mayatv/mayatv/index.m3u8
+#EXTINF:-1 tvg-name="N Tv Pkt" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/Cr4zmhf/1000144394.png",N Tv Pkt
+https://stream.galaxyott.live/live/ntvpkt/index.m3u8
+#EXTINF:-1  tvg-name="S1385" group-title="AMAIRA Local Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SUBINTV_Thumbnail-v1/SUBINTV_Thumbnail.png",Subin Tv
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="JPMusicTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1763572153_JP%20music%20tv.png" tvg-region="Sambavarvadakarai" group-title="AMAIRA Music",JP Music TV
+http://jptv.sscloud7.in/live/jptv/video.m3u8
+#EXTINF:-1  tvg-name="" group-title="AMAIRA Local Channels" tvg-logo="https://play-lh.googleusercontent.com/ZM9c5byu9C9Xv7oeGbIyVgDQsDtx5L-gNIKpfYeomlCRDoIAjOzOhp67wP2Ggu7JvAY=w240-h480-rw",Ramya TV
+http://brightmeltech.in/ramyatv/ramyatv.m3u8
+#EXTINF:-1  tvg-name="" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257505016823489526479014.png",GSJK Tv
+http://brightmeltech.in/gsjktv/gsjktv.m3u8
+#EXTINF:-1  tvg-name="" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257158735407588855150609.png",Raja Tv
+http://brightmeltech.in/rajatv/rajatv.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", SINGAM TV
+http://brightmeltech.in/singamtv/singamtv.m3u8
 
 
 TP local
