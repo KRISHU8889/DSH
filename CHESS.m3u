@@ -1171,7 +1171,66 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sfDXWekUNp2ziLOw3IFZcQ","k":"VnjTF-FwB6iKm5U55FJlEg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
-
+#EXTINF:-1 tvg-id="" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CartoonNetwork.png", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Discovery.png", Discovery HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DiscoveryAsia.png", Discovery Asia HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eI4oNfuYVortL0e73AkVFQ","kid":"k0kHsTS+OWOmJjpFOEaSTA"}],"type":"temporary"}
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DMAX.png", DMAX HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DreamWorks.png", Dreamworks HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/TLC.png", TLC HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fKm/A2I/d7Xi8W3wtT8nTQ","kid":"tpCGKXMmOa2kgUpiCCltnA"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="AMAIRA Extras",Moviesphere Free
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="FilmRiseFreeMovies.us" tvg-logo="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png" group-title="AMAIRA Extras", Free Movies Plus
+https://d2yaaxnxz01h53.cloudfront.net/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
+#EXTINF:-1 channel-id="CineLife.us" tvg-logo="https://i.ibb.co/LZTD9gt/Cinelife.jpg" group-title="AMAIRA Extras", CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="AMAIRA Extras" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLOa4vtcn2Q30IKYU2csQUUnLoSF1on2CJpydscy5yQ&s",Watch Mojo TV
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.pluto" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="AMAIRA Extras",Nickelodeon Pluto TV
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 tvg-id="ParamountMovieChannel.pluto" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="AMAIRA Extras",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAction.pluto" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="AMAIRA Extras",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.pluto" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png" group-title="AMAIRA Extras",Pluto TV Anime
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+#EXTINF:-1 tvg-id="HitSitcoms.us" tvg-logo="https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png" group-title="AMAIRA Extras",Hit Sitcoms
+https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+#EXTINF:-1 tvg-id="TVLandSitcoms.us" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="AMAIRA Extras",TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+#EXTINF:-1 tvg-id="SitcomsLegends.us" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="AMAIRA Extras",Sitcom Legends
+https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
+#EXTINF:-1 tvg-id="iCarlyTV.pluto" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png" group-title="AMAIRA Extras",iCarly TV
+https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
+#EXTINF:-1 tvg-id="FamilyFeud.pluto" tvg-logo="https://images.pluto.tv/channels/672e4d915534bb0008c50168/colorLogoPNG_1732662454856.png" group-title="AMAIRA Extras",Family Feud
+https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242187/1/267/150/0.jpg" group-title="AMAIRA Extras",Pokemon
+https://amg01927-amg01927c3-vizio-us-11299.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01927-capitolhillpublishing-pokemon-vizious/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1711926553/1/267/150/0.jpg" group-title="AMAIRA Extras",Power Rangers
+https://amg00461-eone-amg00461c2-vizio-us-5753.playouts.now.amagi.tv/playlist/amg00461-entertainmentone-powerrangers-vizious/playlist.m3u8
 
 
 TP local
