@@ -1014,6 +1014,79 @@ https://stream.apcloud.in/jettv/jettvhd/index.m3u8
 https://live.apcloud.in/thiraitv/thiraitvhd/index.m3u8
 #EXTINF:-1 tvg-id="ThiraiTVMusic" tvg-logo="https://sscloud7.in/rasinetwork/ThiraiMusic.png" tvg-region="Erode" group-title="AMAIRA Music",Thirai Music
 https://live.apcloud.in/thiraimusic/thiraimusichd/index.m3u8
+#EXTINF:-1 tvg-id="ChenTV" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Chen TV
+https://stream.apcloud.in/chentv/chentvhd/index.m3u8
+#EXTINF:-1 tvg-name="ThendralTv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/S435QDGz/1000144496.jpg",Thendral Tv
+https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="Rasi TV" group-title="AMAIRA Local Channels" tvg-logo="https://content.jdmagicbox.com/comp/srivilliputtur/n6/9999p4563.4563.221008173401.j7n6/catalogue/-20hwojw4xr.jpg",Tamilmagan TV HD
+http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/F42Sh4I3hyV0fcNI6zhaLzdRUIoYqxhQsleL1XgvzCY9jkYYpOJ4PwcNNNGLEr5CoAjK=w240-h480-rw" group-title="AMAIRA Local Channels", APS Gold TV
+http://apsgold-a1.tamilstream.in/apsgold/apsgold/index.m3u8
+#EXTINF:-1 tvg-id="JPRTamil" tvg-logo="http://iptvcasomsapi.jprdigital.in/uploads/channels/channel_182_1739524444_thumb.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",JPR Tamil
+http://iptvcasomsapi.jprdigital.in/x-media/C0182/master.m3u8
+#EXTINF:-1 tvg-id="TBCTV" tvg-logo="https://i.postimg.cc/T3jfT7VW/tbc.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",TBC TV
+https://stream.iplive.xyz/smmedia/tbctv/index.m3u8
+#EXTINF:-1 tvg-id="APTV" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",AP TV
+http://hlsstream.apcloud.in/aptv/aptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", Durai TV
+https://stream.iplive.xyz/hls/duraitv/index.mpd
+#EXTINF:-1 tvg-id="LimeTV" tvg-logo="https://play-lh.googleusercontent.com/NqS2kvGVCXHVg9svRxhvXAguDWOt7bx0R7b4NU20bKw-gO4v90LZ97egHkb7JIZtHzPC" tvg-region="Surandai;Tenkasi" group-title="AMAIRA Local Channels",Lime TV
+https://stream.iplive.xyz/limetv/limetvchannel/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787936948.webp tvg-category="Local",Lion TV 
+https://stream.iplive.xyz/smmedia/liontv/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", MTV
+https://stream.iplive.xyz/mtv/mtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels", MMTV HD
+https://stream.iplive.xyz/mmtvtc/mmtvhd/index.m3u8
+===== Extras =======
+#EXTINF:-1 tvg-id="MOVIESPHERE.us" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png" group-title="AMAIRA Extras", MovieSphere by Lionsgate
+https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8
+#EXTINF:-1 tvg-id="OuterSphere.pluto" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Outersphere/Outersphere_log.png" group-title="AMAIRA Extras", Outersphere
+https://amg00353-amg00353c17-lg-us-6063.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="HerSphere.us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png" group-title="AMAIRA Extras", Hersphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="MiramaxMovieChannel.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Miramax_Television.png/revision/latest?cb=20121215093325" group-title="AMAIRA Extras", Miramax
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="AMAIRA Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Channel_4_2022.svg/1280px-Channel_4_2022.svg.png",Channel 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+#EXTINF:-1 tvg-id="More4.uk" group-title="AMAIRA Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png ",More4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+#EXTINF:-1 tvg-id="Film4.uk" group-title="AMAIRA Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1280px-Film4_logo_2018.svg.png",Film4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+#EXTINF:-1 tvg-id="4seven.uk" group-title="AMAIRA Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/1280px-4seven_logo_2018.svg.png",4seven
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+#EXTINF:-1 tvg-id="E4.uk" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png",E4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+#EXTINF:-1 tvg-id="SkyOne.uk" tvg-name="Sky One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-one-uk.png?raw=true" group-title="AMAIRA Extras",Sky One
+http://89.187.179.148:826/1368/gXwiagaXda/120392
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-uk.png?raw=true" group-title="AMAIRA Extras",Sky Atlantic 
+http://89.187.179.148:826/1368/gXwiagaXda/120388
+#EXTINF:-1 tvg-id="VirginOne.ie" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/VirginMediaOne.png",Virgin Media One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a4852ca631e42e553cf53ad6150f7b0:f1e3f39d41614993ac5c5353f6e58d1c
+https://live-virginmedia.simplestreamcdn.com/out/v1/636bbabe78a242b1bd65fd915574b9c1/index.mpd
+#EXTINF:-1 tvg-id="VirginTwo.ie" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/VirginMediaTwo.png",Virgin Media Two
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4ef154df2f1c07704f4ffae4005be6:294e0a27e76c43aeb16c2b71fc201cfb
+https://live-virginmedia.simplestreamcdn.com/out/v1/376321a2e3cc434baf3805af05a9aaac/index.mpd
+#EXTINF:-1 tvg-id="VirginThree.ie" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/VirginMediaThree.png",Virgin Media Three
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b10708238b2fe95e0080fe17c28d88fb:1afd6317f3b44772aa2463e1ea1f7d42
+https://live-virginmedia.simplestreamcdn.com/out/v1/426d7a9e942b4f64917d66940bd3b147/index.mpd
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" group-title="AMAIRA Extras" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/VirginMediaFour.png",Virgin Media Four
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
+https://live-virginmedia.simplestreamcdn.com/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
 
 
 TP local
