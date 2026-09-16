@@ -806,6 +806,92 @@ https://play.applelive.in/globaltv/globaltv.m3u8
 http://garudatv.applelive.in/hls/garudantv.m3u8
 #EXTINF:-1  tvg-name="AVS" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/FLp5TnL1/AVS.jpg",AVS Tv
 http://applelive.net:8091/avstv/avstv/index.m3u8
+#EXTINF:-1  tvg-name="Bhagavath" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/Wv44CQCz/Bhagavath-TV.jpg",Bhagavath
+https://web.applelive.in/bhagavathtv/bhagavathtv/index.m3u8
+#EXTINF:-1 tvg-name="JCV Musix" group-title="AMAIRA Music" tvg-logo="https://i.ibb.co/7t9gdB1v/1000145833.gif",JCV Musix
+https://play.applelive.in/jcvtv/jcvmusix.m3u8
+#EXTINF:-1 tvg-name="STN" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/rRc3GPNS/1000145832.jpg",STN
+https://play.applelive.in/stntv/stntv.m3u8
+#EXTINF:-1 tvg-name="Apple Media" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0056194718769074512051348.png",Apple TV
+http://applelive.in/appletv/appletv.m3u8
+#EXTINF:-1 tvg-id="PalkarTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1771921658_Palkar%20TV%20Logo%20copy.PNG" tvg-region="Unknown" group-title="AMAIRA Local Channels",Palkar TV
+https://live.applelive.in/palkartv/palkartv/index.m3u8
+#EXTINF:-1 tvg-name="Apple" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/MyGBD846/AppleTV.jpgg",Apple TV
+https://play.applelive.in/appletv/appletvklm.m3u8
+#EXTINF:-1 tvg-name="Apple" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/F4CFQJkH/Apple-TV.jpg",Apple TV
+https://web.applelive.in/stream/appletv/index.m3u8
+#EXTINF:-1 tvg-name="Global TV" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/TxFDP8Cz/Globaltvhd.jpg",Global TV
+https://play.applelive.in/globaltv/globaltv.m3u8
+#EXTINF:-1 tvg-name="RK TV" group-title="AMAIRA Local Channels" tvg-logo="https://df6d.short.gy/churl.png",RK TV
+https://play.applelive.in/rktv/rktv.m3u8
+#EXTINF:-1 tvg-name="Dolphin Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/yn3CVVBZ/1000135652.webp",Dolphin Tv
+https://play.applelive.in/dolphintv/dolphintv.m3u8
+#EXTINF:-1 tvg-id="MTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784140379_mtn%20tv.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",MTN TV
+https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
+#EXTINF:-1 tvg-id="SwastikTV" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Swastik TV
+https://rtmp.applelive.in/swastiktv/swastiktv/index.m3u8
+#EXTINF:-1 tvg-name="Velavan Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/zVSZrMrR/1000135655.webp",Velavan Tv
+https://rtmp.applelive.in/srivelavantvultrahd/srivelavantvultrahd/index.m3u8
+#EXTINF:-1 tvg-id="RPlusTV" tvg-logo="https://play-lh.googleusercontent.com/VuGcjfIEogf7W5cztkJKkyCINbL7gG_qRbn8Aoce5Sv15n0oCCglG4WhJtpQEeVpoG4=w512-h960-rw" tvg-region="Namakkal" group-title="AMAIRA Local Channels",R Plus TV
+https://rtmp.applelive.in/rplus/rplus/index.m3u8
+#EXTINF:-1 tvg-id="RowthiramTV" tvg-logo="https://play-lh.googleusercontent.com/wOu4K0Rlh5yCMDn0a7z-OBvypUO9Ub4YAPIptU2dLtvetv4SHWIFIQ1BdE2i-csTPTo" tvg-region="Kanyakumari" group-title="AMAIRA Local Channels",Rowthiram TV
+https://live.applelive.in/rowthiramtv/rowthiramtv/index.m3u8
+#EXTINF:-1  tvg-name="Riya Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0058143761656163872202221.png",Riya Tv
+http://applelive.in/riyatv/riyatv.m3u8
+#EXTINF:-1  tvg-name="Jeyson Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0058455613013844568255331.png",Jeyson Tv
+http://jeyson.applelive.in/jeysontv/jeysontv.m3u8
+#EXTINF:-1  tvg-name="GCV Tv" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_185859168162128473962258.png",G Max Tv
+http://applelive.in/gcv/gcv.m3u8
+#EXTINF:-1 tvg-id="jcv_1" tvg-logo="https://play-lh.googleusercontent.com/CINl0i_yvq46zIk8evr5sgKDI60qGFQDbFRoKqMwtlOXDDuXzd9ou9UwT46enxSc3P0=w240-h480-rw" group-title="AMAIRA Local Channels",Jcv
+https://play.applelive.in/jcvtv/jcvtv.m3u8
+#EXTINF:-1  tvg-name="JC TV" group-title="AMAIRA Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_0843518708046141154889695.png",JC Tv
+http://applelive.in/jctv/jctv.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5BbVPm_jHSHPVY3XLhfYjpJJtXi1qVV3jlJ9i-cTE0gckC_LSEBKftLgU6uX_UMXgQ=w240-h480-rw" group-title="AMAIRA Local Channels", Kumari TV
+https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
+#EXTINF:-1 tvg-name="Penguin Tv" group-title="AMAIRA Local Channels" tvg-logo="https://i.ibb.co/LzrTB9Rr/1000145853.jpg",Penguin Tv
+https://live.applelive.in/penguinhd/penguinhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ocqu2cgsnC1o2LJyzIjdlpttN733L8WGqRRQxI_3goyWR_VaHLYBoYThQTWIZVjKHWM=w240-h480-rw" group-title="AMAIRA Local Channels", Selfie TV
+https://play.applelive.in/selfeetv/selfeetv.m3u8
+#EXTINF:-1 tvg-id="sri_vasanth_tv" tvg-logo="https://play-lh.googleusercontent.com/RrIUDazd9z6EZaRewzOa9tjeJELR5qT2eJkukFRvRRIe1Odo4nJEjkguxwHVM1_SAty7=w240-h480-rw" group-title="AMAIRA Local Channels",Sri Vasanth Tv
+https://play.applelive.in/vasanthtv/vasanthtv.m3u8
+#EXTINF:-1 tvg-id="v_tv_5" tvg-logo="https://play-lh.googleusercontent.com/NOyScyIs1gUftOQlg3ECCcu5kFn9sDT434RhAfefX9Ror2tpR4q7qnTO-QM5kVxV1D-H=w240-h480-rw" group-title="AMAIRA Local Channels",V Tv
+https://live.applelive.in/vtv/vtv/index.m3u8
+#EXTINF:-1 tvg-id="EagleTVNagercoil" tvg-logo="https://i.ibb.co/7N76R7K/Eagletv.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="AMAIRA Local Channels",Eagle TV Nagercoil
+https://play.applelive.in/eagletv/eagletv.m3u8
+#EXTINF:-1 tvg-id="TTNTV" tvg-logo="https://i.ibb.co/shRMXxh/Ttn250x250.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="AMAIRA Local Channels",TTN TV
+https://web.applelive.in/stream/ttntv/index.m3u8
+#EXTINF:-1 tvg-id="OmmTVNagercoil" tvg-logo="https://i.ibb.co/qM3f5YvS/Ommtv.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="AMAIRA Local Channels",Omm TV Nagercoil
+https://web.applelive.in/ommtv/ommtv/index.m3u8
+#EXTINF:-1 tvg-id="AmmaTVNagercoil" tvg-logo="https://i.ibb.co/39jqBzg6/Amma250x250.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="AMAIRA Local Channels",Amma TV Nagercoil
+https://web.applelive.in/stream/ammatv/index.m3u8
+#EXTINF:-1 tvg-id="SRTV" tvg-logo="https://i.ibb.co/bMmm6ZKr/Stvhd250x250.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="AMAIRA Local Channels",SR TV
+https://web.applelive.in/stream/srtv/index.m3u8
+#EXTINF:-1 tvg-id="KannaTVNagercoil" tvg-logo="https://i.ibb.co/39H1Shtr/Kannatv250x250.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="AMAIRA Local Channels",Kanna TV
+https://web.applelive.in/stream/kktv/index.m3u8
+#EXTINF:-1 tvg-id="vinayagatv" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Vinayaga TV
+https://web.applelive.in/stream/vinayagatv/index.m3u8
+#EXTINF:-1 tvg-id="vinayagatv" tvg-logo="https://df6d.short.gy/churl.png" group-title="AMAIRA Local Channels",Aalaya TV
+https://rtmp.applelive.in/aalayatv/aalayatv/index.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-category="Local",Deebam TV 
+https://play.applelive.in/deebamtv/deebamtv.m3u8
+#EXTINF:-1 tvg-id="AhaTV" tvg-logo="https://bmcloud.in/apptest/uploads/6936d638886a5.jpg" tvg-region="Unknown" group-title="AMAIRA Local Channels",Aha TV
+https://rtmp.bmlive.net/bms/ahatv/index.m3u8
+#EXTINF:-1 tvg-id="AnjaiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AnjaiTV.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Anjai TV
+https://web.applelive.in/stream/anjaitv/index.m3u8
+#EXTINF:-1 tvg-id="AnisaTV" tvg-logo="https://bmcloud.in/apptest/uploads/692dcd8b1d4c8.png" tvg-region="Anjugramam;Kanyakumari" group-title="AMAIRA Local Channels",Anisa TV
+https://web.applelive.in/anisatv/anisatv/index.m3u8
+#EXTINF:-1 tvg-id="RuhashaTV" tvg-logo="https://play-lh.googleusercontent.com/NfEESHZTMfXp45bOwl7PF1DkuV8L9-tucksbtHRxUv0b5opK1yUWCpJO-CqLSq4ujE1SFNoEhZtpvxl5554LUA=w512-h960-rw" tvg-region="Unknown" group-title="AMAIRA Local Channels",Ruhasha TV
+https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
+#EXTINF:-1 tvg-id="MaxTV2" tvg-logo="https://df6d.short.gy/churl.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Max TV
+https://rtmp.applelive.in/kumariplus/kumariplus/index.m3u8
+#EXTINF:-1 tvg-id="KoodalTV" tvg-logo="https://bmcloud.in/apptest/uploads/695cf57cc3657.png" tvg-region="Unknown" group-title="AMAIRA Local Channels",Koodal TV
+https://web.applelive.in/koodaltv/koodaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YEOUTyg7f6df97DebTRF1HwHDW8KxMLPPA8Y9X9GoUAHV-yG_7bZ5ehGitMzw_w5SFc=w240-h480-rw" group-title="AMAIRA Local Channels", Atn Media
+https://play.applelive.in/atn/atn.m3u8
+#EXTINF:-1 tvg-id="RoboTV" tvg-logo="https://play-lh.googleusercontent.com/i-Y7wQCHc3_OaQjN3bOqtZnW0GJ1jQ8m6utaVwmdC_6GFGALkAx2HhUrg-9c0fzhPfCK4KPtOsyMaQ0sbqBmjjE=w512-h960-rw" tvg-region="Nagercoil;Kanyakumari" group-title="AMAIRA Local Channels",Robo TV
+https://play.applelive.in/robotv/robotv.m3u8
+#EXTINF:-1 group-title="AMAIRA Local Channels" tvg-category="Local",ACN TV 
+https://web.applelive.in/stream/acntv/index.m3u8
 
 
 TP local
