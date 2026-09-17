@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-16-2026-08_33_44-AM-1-200x300.png" group-title="LOCAL", HARE KISNA MUSIC
+https://d1y1fq5zo7b6pt.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/81c8a816-6ec7-4e59-b5ff-8d10bf214750/0.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-16-2026-08_37_11-AM-1-200x300.png" group-title="LOCAL", HARE KISNA PRAVACHAN
+https://dcn72a38509t.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkpravachan/5d168371-c02d-4743-b1a3-df2532f916dd/0.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="LOCAL", ETV HDK
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
