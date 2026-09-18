@@ -1,5 +1,10 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=760&token=6HBwPa
+#EXTINF:-1 tvg-id="760" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" CATCH-UP-FAILED="null" group-title="Telugu",Maa Movies HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=760
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1137&token=6HBwPa
 #EXTINF:-1 tvg-id="1137" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Gold.png" CATCH-UP-FAILED="null" group-title="Telugu",Maa Gold
 #EXTVLCOPT:http-user-agent=Denver1769
