@@ -1,5 +1,25 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=638&token=6HBwPa
+#EXTINF:-1 tvg-id="638" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTelugu.png" CATCH-UP-FAILED="null" group-title="Telugu",Zee Telugu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=638
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1354&token=6HBwPa
+#EXTINF:-1 tvg-id="1354" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" CATCH-UP-FAILED="null" group-title="Telugu",Zee Telugu HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=1354
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1363&token=6HBwPa
+#EXTINF:-1 tvg-id="1363" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" CATCH-UP-FAILED="null" group-title="Telugu",Zee Cinemalu HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=1363
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=413&token=6HBwPa
+#EXTINF:-1 tvg-id="413" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemalu.png" CATCH-UP-FAILED="null" group-title="Telugu",Zee Cinemalu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=413
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1651&token=6HBwPa
 #EXTINF:-1 tvg-id="1651" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg" CATCH-UP-FAILED="null" group-title="Sports",Star Sports 1 Telugu
 #EXTVLCOPT:http-user-agent=Denver1769
