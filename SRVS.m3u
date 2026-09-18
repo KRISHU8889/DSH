@@ -1,5 +1,11 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=461&token=6HBwPa
+#EXTINF:-1 tvg-id="461" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" CATCH-UP-FAILED="null" group-title="Sports",Star Sports Select 2 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=461
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=638&token=6HBwPa
 #EXTINF:-1 tvg-id="638" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTelugu.png" CATCH-UP-FAILED="null" group-title="Telugu",Zee Telugu
 #EXTVLCOPT:http-user-agent=Denver1769
