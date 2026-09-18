@@ -1,4 +1,9 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1112&token=6HBwPa
+#EXTINF:-1 tvg-id="1112" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" CATCH-UP-FAILED="null" group-title="Telugu",Maa HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=1112
 #EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-16-2026-08_33_44-AM-1-200x300.png" group-title="LOCAL", HARE KISNA MUSIC
 https://d1y1fq5zo7b6pt.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/81c8a816-6ec7-4e59-b5ff-8d10bf214750/0.m3u8
 #EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-16-2026-08_37_11-AM-1-200x300.png" group-title="LOCAL", HARE KISNA PRAVACHAN
