@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTM3U
+#EXT-X-VERSION:3
+# Audio track
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="http://51.75.127.199:3141/superhungama/tracks-a3/mono.m3u8"
+# Video + audio
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio"
+http://51.75.127.199:3141/superhungama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/01/telugu-hindu-radio.jpg" group-title="FM RADIO", TELUGU HINDU RADIO
 http://cast6.my-control-panel.com:7638/liv
 #EXTINF:-1 tvg-logo="https://www.teluguradios.org/wp-content/uploads/2026/01/venkateshwara-swamy-radio.jpg" group-title="FM RADIO", SRI VENKATESWARA SWAMY FM
