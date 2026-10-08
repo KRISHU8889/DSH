@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 tvg-id="1271698292" tvg-language="Telugu" tvg-name="BBS10 - 24X7 Telugu Stream [Deferred] FHD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3541/1788705493541-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BBS10 - 24X7 Telugu Stream [Deferred] FHD
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698292&token=6HBwPa|cookie=hdntl=exp=1791504063~acl=%2f*~id=043c33e234af54f9f3f8e4058ece1dd9~data=hdntl~hmac=53fbba99291a45b06e34804a1aa14825bb89b6282051f95dd4f1f8aeb285a04f&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
 #EXT-X-VERSION:3
 # Audio track
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="http://51.75.127.199:3141/superhungama/tracks-a3/mono.m3u8"
