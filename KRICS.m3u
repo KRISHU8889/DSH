@@ -5,4 +5,26 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 #EXTINF:-1 tvg-id="1354" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" CATCH-UP-FAILED="null" group-title="Telugu",Zee Telugu HD
 https://da86m1sqpm3o0.cloudfront.net/260723/smil:zeetelugu.smil/chunklist_b2628000.m3u8
 #https://yupp-tv.keralive.workers.dev/260723/zeetelugu_2500/chunklist.m3u8
-#EXTINF:-1 tvg-id="897" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" CATCH-UP-FAILED="null" group-title="Telugu",Sun Gemini HD
+tream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fa59e199f7352d69e194a23525b5ec2:bd1eaea91897258b3068bb81f1c9011c
+#EXT-X-DRM-ID: 1363
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1363
+https://servertvhub.site/jiotv+/mpd.php?id=1363
+#EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://i.ibb.co/vxXSzvsZ/Picsart-25-02-15-12-56-14-956.png" group-title="Dish TV", Zee Cinemalu SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b93b0f6ce45438f9a66bd75165444c2:5dc0933d2793fe5739f83bfe8f23282a
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="192537" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="SunNxt", Gemini Movies HD
+https://geminimovieshd.akamaized.net/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
+#EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" group-title="JioTv+ TELUGU",Zee Cinemalu HD
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeecinemalu
+#EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://i.ibb.co/vxXSzvsZ/Picsart-25-02-15-12-56-14-956.png" group-title="Dish TV", Zee Cinemalu SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/oOi1ii0IO1i1iiL1lO0I00/manifest.mpd
+#EXTINF:-1 tvg-name="KTV MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV MOVIES
+https://mumbai-edge.smartplaytv.in/KTVNEWMOVIES/index.m3u8
