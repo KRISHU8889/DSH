@@ -36,3 +36,5 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 https://alex4528.site/jplus/oOi1ii0IO1i1iiL1lO0I00/manifest.mpd
 #EXTINF:-1 tvg-name="KTV MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8FczsVgJMEcfk-dzS71ZP4auG_ygepK5VASCzir92A&s" group-title="LOCAL",KTV MOVIES
 https://mumbai-edge.smartplaytv.in/KTVNEWMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_20_28-AM-1-200x300.png" group-title="LOCAL", VEDHA SRI
+https://vstechs.in/PTP/vedha/tracks-v1a1/mono.m3u8
