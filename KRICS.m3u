@@ -11,6 +11,13 @@ http-referrer="https://bhoomtv.org/" http-user-agent="Mozilla/5.0 (Windows NT 10
 https://as-net.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/51f928ef7f78061080a89caaba2ce1dc/1.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="LOCAL", STARMAA MOVIES US
 https://as-net.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaamovies_us_https/3d5da99c29c968fc71f0ee07775a3683/1.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="LOCAL", STARMAA GOLD US
+https://as-net.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaagoldus_delay_https/bb7717072321bb0f933ca5ff60e36045/2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1137&token=6HBwPa
+#EXTINF:-1 tvg-id="1137" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Gold.png" CATCH-UP-FAILED="null" group-title="Telugu",Maa Gold
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=1137
 #EXTINF:-1 tvg-logo="https://www.asiantelevision.com/uploads/channel_logo/1507822812_ttd-svbc-bhakti-channel-web.png" group-title="LOCAL", SVBC SD
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" group-title="LOCAL", SVBC HINDI
