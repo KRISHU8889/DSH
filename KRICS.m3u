@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELEGU| ABN NEWS TV" tvg-logo="" group-title="INDIA",|TELEGU| ABN NEWS TV
+http://lordstreams.live:80/joe/joe/693727
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELEGU| CVR NEWS" tvg-logo="" group-title="INDIA",|TELEGU| CVR NEWS
+http://lordstreams.live:80/joe/joe/693726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| 10 TV" tvg-logo="https://logo.iptveditor.com/6tvtelugu.png" group-title="INDIA",|TELUGU| 10 TV
+http://lordstreams.live:80/joe/joe/693725
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| BHAKTI TV" tvg-logo="https://logo.iptveditor.com/bhaktitv.png" group-title="INDIA",|TELUGU| BHAKTI TV
+http://lordstreams.live:80/joe/joe/693724
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| DD SAPTAGIRI" tvg-logo="https://logo.iptveditor.com/ddsaptagiri.png" group-title="INDIA",|TELUGU| DD SAPTAGIRI
+http://lordstreams.live:80/joe/joe/693723
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| DISCOVERY WORLD HD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="INDIA",|TELUGU| DISCOVERY WORLD HD
+http://lordstreams.live:80/joe/joe/693722
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| ETV CINEMA" tvg-logo="https://logo.iptveditor.com/etvcinema.png" group-title="INDIA",|TELUGU| ETV CINEMA
+http://lordstreams.live:80/joe/joe/693721
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| ETV HD" tvg-logo="https://logo.iptveditor.com/etvtelugu.png" group-title="INDIA",|TELUGU| ETV HD
+http://lordstreams.live:80/joe/joe/693720
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| ETV LIFE" tvg-logo="https://logo.iptveditor.com/etvtelugu.png" group-title="INDIA",|TELUGU| ETV LIFE
+http://lordstreams.live:80/joe/joe/693719
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| ETV PLUS" tvg-logo="https://logo.iptveditor.com/etvtelugu.png" group-title="INDIA",|TELUGU| ETV PLUS
+http://lordstreams.live:80/joe/joe/693718
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| GEMINI COMEDY" tvg-logo="https://logo.iptveditor.com/geminicomedy.png" group-title="INDIA",|TELUGU| GEMINI COMEDY
+http://lordstreams.live:80/joe/joe/693717
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| GEMINI HD" tvg-logo="" group-title="INDIA",|TELUGU| GEMINI HD
+http://lordstreams.live:80/joe/joe/693716
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| GEMINI LIFE" tvg-logo="https://logo.iptveditor.com/geminilife.png" group-title="INDIA",|TELUGU| GEMINI LIFE
+http://lordstreams.live:80/joe/joe/693715
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| GEMINI MOVIES HD" tvg-logo="https://logo.iptveditor.com/geminimovies.png" group-title="INDIA",|TELUGU| GEMINI MOVIES HD
+http://lordstreams.live:80/joe/joe/693714
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| GEMINI MUSIC" tvg-logo="https://logo.iptveditor.com/geminimusic.png" group-title="INDIA",|TELUGU| GEMINI MUSIC
+http://lordstreams.live:80/joe/joe/693713
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN: Star Sports 1 FHD" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="INDIA",IN: Star Sports 1 FHD
 http://lordstreams.live:80/joe/joe/694065
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN: Star Sports 1 Hindi FHD" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="INDIA",IN: Star Sports 1 Hindi FHD
