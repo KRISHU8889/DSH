@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bigboss 24/7 live-TELUGU" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Entertainment", Bigboss 24/7 live-TELUGU
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1793213080~acl=%2f*~id=4d47880ceac313f41132d1ccc5108748~data=hdntl~hmac=5061bdb8586adf3425e1dbbcb415f433876dd543d4d33b19c00911cc9be343f9
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1793213080~acl=%2f*~id=4d47880ceac313f41132d1ccc5108748~data=hdntl~hmac=5061bdb8586adf3425e1dbbcb415f433876dd543d4d33b19c00911cc9be343f9"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TELUGU| HISTORY 18 TELUGU HD" tvg-logo="https://logo.iptveditor.com/history18telugu.png" group-title="INDIA",|TELUGU| HISTORY 18 TELUGU HD
 http://lordstreams.live:80/Click11/6700091/693712.ts
 #http://lordstreams.live:80/joe/joe/693712
