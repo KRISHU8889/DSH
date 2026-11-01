@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.nz" tvg-name="|NZ| Sky Sport 1 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="New Zealand",|NZ| Sky Sport 1 FHD 50FPS
+http://lordstreams.live:80/Click11/6700091/693710.ts
+#http://lordstreams.live:80/joe/joe/251423
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport2.nz" tvg-name="|NZ| Sky Sport 2 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport2.png" group-title="New Zealand",|NZ| Sky Sport 2 FHD 50FPS
+http://lordstreams.live:80/joe/joe/251421
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport3.nz" tvg-name="|NZ| Sky Sport 3 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport3.png" group-title="New Zealand",|NZ| Sky Sport 3 FHD 50FPS
+http://lordstreams.live:80/joe/joe/251420
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport4.nz" tvg-name="|NZ| Sky Sport 4 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport4.png" group-title="New Zealand",|NZ| Sky Sport 4 FHD 50FPS
+http://lordstreams.live:80/joe/joe/251419
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport5.nz" tvg-name="|NZ| Sky Sport 5 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport5.png" group-title="New Zealand",|NZ| Sky Sport 5 FHD 50FPS
+http://lordstreams.live:80/joe/joe/251418
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport6.nz" tvg-name="|NZ| Sky Sport 6 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport6.png" group-title="New Zealand",|NZ| Sky Sport 6 FHD 50FPS
+http://lordstreams.live:80/joe/joe/251417
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport7.nz" tvg-name="|NZ| Sky Sport 7 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport7.png" group-title="New Zealand",|NZ| Sky Sport 7 FHD 50FPS
+http://lordstreams.live:80/joe/joe/251416
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportpremierleague.nz" tvg-name="|NZ| Sky Sport Premier League FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysportpremierleague.png" group-title="New Zealand",|NZ| Sky Sport Premier League FHD 50FPS
+http://lordstreams.live:80/joe/joe/251415
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport9.nz" tvg-name="|NZ| Sky Sport 9 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport9.png" group-title="New Zealand",|NZ| Sky Sport 9 FHD 50FPS
+http://lordstreams.live:80/joe/joe/251414
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportselect.nz" tvg-name="|NZ| Sky Sport Select FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysportselect.png" group-title="New Zealand",|NZ| Sky Sport Select FHD 50FPS
+http://lordstreams.live:80/joe/joe/251422
 #EXTINF:-1 tvg-id="3274" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg" group-title="STAR",Star Sports 2 Telugu HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
