@@ -11,14 +11,19 @@ http://lordstreams.live:80/Click11/6700091/152323.ts
 http://lordstreams.live:80/Click11/6700091/152322.ts
 #http://lordstreams.live:80/joe/joe/152322
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports504.au" tvg-name="|AU| FOX Sports 504 HD" tvg-logo="https://logo.m3uassets.com/foxsports504.png" group-title="Australia",|AU| FOX Sports 504 HD
-http://lordstreams.live:80/joe/joe/152321
+http://lordstreams.live:80/Click11/6700091/152321.ts
+#http://lordstreams.live:80/joe/joe/152321
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports505.au" tvg-name="|AU| FOX Sports 505 HD" tvg-logo="http://xplatinmedia.com:8080/images/9797d86f0e59f10d104a45508d92d888.png" group-title="Australia",|AU| FOX Sports 505 HD
-http://lordstreams.live:80/joe/joe/152320
+http://lordstreams.live:80/Click11/6700091/152320.ts
+#http://lordstreams.live:80/joe/joe/152320
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports506.au" tvg-name="|AU| FOX Sports 506 HD" tvg-logo="https://logo.m3uassets.com/foxsports506.png" group-title="Australia",|AU| FOX Sports 506 HD
+http://lordstreams.live:80/Click11/6700091/152319.ts
 http://lordstreams.live:80/joe/joe/152319
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports507.au" tvg-name="|AU| FOX Sports 507 HD" tvg-logo="https://logo.m3uassets.com/foxsports507.png" group-title="Australia",|AU| FOX Sports 507 HD
+http://lordstreams.live:80/Click11/6700091/152318.ts
 http://lordstreams.live:80/joe/joe/152318
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsportsnews.au" tvg-name="|AU| FOX Sports News HD" tvg-logo="https://logo.m3uassets.com/foxsportsnews.png" group-title="Australia",|AU| FOX Sports News HD
+http://lordstreams.live:80/Click11/6700091/152317.ts
 http://lordstreams.live:80/joe/joe/152317
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn1.au" tvg-name="|AU| ESPN 1 FHD" tvg-logo="https://logo.m3uassets.com/espn1.png" group-title="Australia",|AU| ESPN 1 FHD
 http://lordstreams.live:80/joe/joe/152329
