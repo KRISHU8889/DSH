@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.nz" tvg-name="|NZ| Sky Sport 1 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="New Zealand",|NZ| Sky Sport 1 FHD 50FPS
-http://lordstreams.live:80/Click11/6700091/693710.ts
+http://lordstreams.live:80/Click11/6700091/251423.ts
 #http://lordstreams.live:80/joe/joe/251423
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport2.nz" tvg-name="|NZ| Sky Sport 2 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport2.png" group-title="New Zealand",|NZ| Sky Sport 2 FHD 50FPS
 http://lordstreams.live:80/joe/joe/251421
