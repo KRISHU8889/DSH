@@ -1,6 +1,46 @@
 #EXTM3U
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.nz" tvg-name="|NZ| Sky Sport 1 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="New Zealand",|NZ| Sky Sport 1 FHD 50FPS
 http://lordstreams.live:80/Click11/6700091/251423.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports501.au" tvg-name="|AU| FOX Sports 501 HD" tvg-logo="https://logo.m3uassets.com/foxsports501.png" group-title="Australia",|AU| FOX Sports 501 HD
+http://lordstreams.live:80/joe/joe/152324
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports502.au" tvg-name="|AU| FOX Sports 502 HD" tvg-logo="https://logo.m3uassets.com/foxsports502.png" group-title="Australia",|AU| FOX Sports 502 HD
+http://lordstreams.live:80/joe/joe/152323
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports503.au" tvg-name="|AU| FOX Sports 503 HD" tvg-logo="https://logo.m3uassets.com/foxsports503.png" group-title="Australia",|AU| FOX Sports 503 HD
+http://lordstreams.live:80/joe/joe/152322
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports504.au" tvg-name="|AU| FOX Sports 504 HD" tvg-logo="https://logo.m3uassets.com/foxsports504.png" group-title="Australia",|AU| FOX Sports 504 HD
+http://lordstreams.live:80/joe/joe/152321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports505.au" tvg-name="|AU| FOX Sports 505 HD" tvg-logo="http://xplatinmedia.com:8080/images/9797d86f0e59f10d104a45508d92d888.png" group-title="Australia",|AU| FOX Sports 505 HD
+http://lordstreams.live:80/joe/joe/152320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports506.au" tvg-name="|AU| FOX Sports 506 HD" tvg-logo="https://logo.m3uassets.com/foxsports506.png" group-title="Australia",|AU| FOX Sports 506 HD
+http://lordstreams.live:80/joe/joe/152319
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports507.au" tvg-name="|AU| FOX Sports 507 HD" tvg-logo="https://logo.m3uassets.com/foxsports507.png" group-title="Australia",|AU| FOX Sports 507 HD
+http://lordstreams.live:80/joe/joe/152318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsportsnews.au" tvg-name="|AU| FOX Sports News HD" tvg-logo="https://logo.m3uassets.com/foxsportsnews.png" group-title="Australia",|AU| FOX Sports News HD
+http://lordstreams.live:80/joe/joe/152317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn1.au" tvg-name="|AU| ESPN 1 FHD" tvg-logo="https://logo.m3uassets.com/espn1.png" group-title="Australia",|AU| ESPN 1 FHD
+http://lordstreams.live:80/joe/joe/152329
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn2.mx" tvg-name="|AU| ESPN 2 FHD" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Australia",|AU| ESPN 2 FHD
+http://lordstreams.live:80/joe/joe/152328
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.au" tvg-name="AU | beIN Sports 1 HD" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="Australia",AU | beIN Sports 1 HD
+http://lordstreams.live:80/joe/joe/152233
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports2.au" tvg-name="AU | beIN Sports 2 SD" tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="Australia",AU | beIN Sports 2 SD
+http://lordstreams.live:80/joe/joe/152232
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.au" tvg-name="AU | beIN Sports 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/a6188947f4779c5604682df452c3a0e1.png" group-title="Australia",AU | beIN Sports 3 HD
+http://lordstreams.live:80/joe/joe/152231
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tensydney.au" tvg-name="|AU| 7AFL" tvg-logo="https://i.mjh.nz/.images/auto-7afl-fast-e8fdb6.png" group-title="Australia",|AU| 7AFL
+http://lordstreams.live:80/joe/joe/152273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyracing1.au" tvg-name="|AU| Sky Racing #1 HD" tvg-logo="https://logo.m3uassets.com/skyracing1.png" group-title="Australia",|AU| Sky Racing #1 HD
+http://lordstreams.live:80/joe/joe/152490
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyracing2.au" tvg-name="|AU| Sky Racing #2 HD" tvg-logo="https://logo.m3uassets.com/skyracing2.png" group-title="Australia",|AU| Sky Racing #2 HD
+http://lordstreams.live:80/joe/joe/152489
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythoroughbredcentral.au" tvg-name="|AU| Sky Racing - Thoroughbred Central HD" tvg-logo="https://logo.m3uassets.com/skythoroughbredcentral.png" group-title="Australia",|AU| Sky Racing - Thoroughbred Central HD
+http://lordstreams.live:80/joe/joe/152488
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racingcom.au" tvg-name="|AU| Racing.com HD" tvg-logo="https://logo.m3uassets.com/racingcom.png" group-title="Australia",|AU| Racing.com HD
+http://lordstreams.live:80/joe/joe/152301
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvsnshopping.au" tvg-name="|AU| Racing WA" tvg-logo="https://logo.m3uassets.com/racing1p.png" group-title="Australia",|AU| Racing WA
+http://lordstreams.live:80/joe/joe/152483
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="redbulltv.au" tvg-name="|AU| Redbull TV HD" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="Australia",|AU| Redbull TV HD
+http://lordstreams.live:80/joe/joe/152487
 #http://lordstreams.live:80/joe/joe/251423
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport2.nz" tvg-name="|NZ| Sky Sport 2 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport2.png" group-title="New Zealand",|NZ| Sky Sport 2 FHD 50FPS
 http://lordstreams.live:80/joe/joe/251421
