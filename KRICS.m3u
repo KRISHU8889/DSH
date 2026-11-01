@@ -272,6 +272,40 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/6
 #EXTINF:-1 tvg-id="3622" tvg-language="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyVizha.png" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Tamil",Sony Vizha HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=3622
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.lv" tvg-name="LV| NICK FHD" tvg-logo="https://logo.m3uassets.com/nick.png" group-title="Latvia",LV| NICK FHD
+http://lordstreams.live:80/joe/joe/840794
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.lv" tvg-name="|LV|  NICKELODEON" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Latvia",|LV|  NICKELODEON
+http://lordstreams.live:80/joe/joe/840793
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.lv" tvg-name="LV| NICK JR. FHD" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Latvia",LV| NICK JR. FHD
+http://lordstreams.live:80/joe/joe/840792
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.lv" tvg-name="|LV|  NICK JR FHD" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Latvia",|LV|  NICK JR FHD
+http://lordstreams.live:80/joe/joe/840791
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.lv" tvg-name="|LV|  NICK JR HD" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Latvia",|LV|  NICK JR HD
+http://lordstreams.live:80/joe/joe/840790
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nicktoons.lv" tvg-name="|LV|  NICK TOONS" tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="Latvia",|LV|  NICK TOONS
+http://lordstreams.live:80/joe/joe/840789
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.lv" tvg-name="|LV|  CARTOON NETWORK FHD" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Latvia",|LV|  CARTOON NETWORK FHD
+http://lordstreams.live:80/joe/joe/840788
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.lv" tvg-name="|LV|  CARTOON NETWORK HD" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Latvia",|LV|  CARTOON NETWORK HD
+http://lordstreams.live:80/joe/joe/840787
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneychannel.lv" tvg-name="|LV|  DISNEY CHANNEL" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="Latvia",|LV|  DISNEY CHANNEL
+http://lordstreams.live:80/joe/joe/840786
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|LV|  DISNEY JR." tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="Latvia",|LV|  DISNEY JR.
+http://lordstreams.live:80/joe/joe/840785
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kidzone+.lv" tvg-name="LV| KIDZONE FHD" tvg-logo="https://logo.m3uassets.com/kidzone.png" group-title="Latvia",LV| KIDZONE FHD
+http://lordstreams.live:80/joe/joe/840784
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kidzonemini.lv" tvg-name="LV| KIDZONE MINI FHD" tvg-logo="https://logo.m3uassets.com/kidzonemini.png" group-title="Latvia",LV| KIDZONE MINI FHD
+http://lordstreams.live:80/joe/joe/840783
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kidzonemini.lv" tvg-name="|LV|  KIDZONE MINI FHD" tvg-logo="https://logo.m3uassets.com/kidzonemini.png" group-title="Latvia",|LV|  KIDZONE MINI FHD
+http://lordstreams.live:80/joe/joe/840782
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kidzonemini.lv" tvg-name="|LV|  KIDZONE MINI HD" tvg-logo="https://logo.m3uassets.com/kidzonemini.png" group-title="Latvia",|LV|  KIDZONE MINI HD
+http://lordstreams.live:80/joe/joe/840781
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kidzonemax.lv" tvg-name="|LV|  KIDZONE MAX FHD" tvg-logo="https://logo.m3uassets.com/kidzonemax.png" group-title="Latvia",|LV|  KIDZONE MAX FHD
+http://lordstreams.live:80/joe/joe/840780
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kidzonemax.lv" tvg-name="|LV|  KIDZONE MAX HD" tvg-logo="https://logo.m3uassets.com/kidzonemax.png" group-title="Latvia",|LV|  KIDZONE MAX HD
+http://lordstreams.live:80/joe/joe/840779
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ducktv.lv" tvg-name="|LV|  DUCK TV" tvg-logo="https://logo.m3uassets.com/ducktv.png" group-title="Latvia",|LV|  DUCK TV
+http://lordstreams.live:80/joe/joe/840778
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
 #EXTINF:-1 tvg-id="sony" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", SET
@@ -322,3 +356,67 @@ https://sliv.tgaadi.workers.dev/ten4hd.m3u8
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #EXTINF:-1 tvg-id="sonykal" tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg?20240118073607" group-title="Entertainment", Sony Kal
 https://kids.tgaadi.workers.dev/19833.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport1.lv" tvg-name="LV| GO3 SPORT FHD" tvg-logo="https://logo.m3uassets.com/go3sport.png" group-title="Latvia",LV| GO3 SPORT FHD
+http://lordstreams.live:80/joe/joe/840875
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sportopen.lv" tvg-name="LV| GO3 SPORT OPEN FHD" tvg-logo="https://logo.m3uassets.com/go3sportopen.png" group-title="Latvia",LV| GO3 SPORT OPEN FHD
+http://lordstreams.live:80/joe/joe/840874
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sportopen.lv" tvg-name="|LV|  GO3 SPORT OPEN FHD" tvg-logo="https://logo.m3uassets.com/go3sportopen.png" group-title="Latvia",|LV|  GO3 SPORT OPEN FHD
+http://lordstreams.live:80/joe/joe/840873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sportopen.lv" tvg-name="|LV|  GO3 SPORT OPEN HD" tvg-logo="https://logo.m3uassets.com/go3sportopen.png" group-title="Latvia",|LV|  GO3 SPORT OPEN HD
+http://lordstreams.live:80/joe/joe/840872
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport1.lv" tvg-name="|LV|  GO3 SPORT 1 FHD" tvg-logo="https://logo.m3uassets.com/go3sport1.png" group-title="Latvia",|LV|  GO3 SPORT 1 FHD
+http://lordstreams.live:80/joe/joe/840871
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport1.lv" tvg-name="|LV|  GO3 SPORT 1 HD" tvg-logo="https://logo.m3uassets.com/go3sport1.png" group-title="Latvia",|LV|  GO3 SPORT 1 HD
+http://lordstreams.live:80/joe/joe/840870
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport2.lv" tvg-name="LV| GO3 SPORT 2 FHD" tvg-logo="https://logo.m3uassets.com/go3sport2.png" group-title="Latvia",LV| GO3 SPORT 2 FHD
+http://lordstreams.live:80/joe/joe/840869
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport2.lv" tvg-name="|LV|  GO3 SPORT 2 FHD" tvg-logo="https://logo.m3uassets.com/go3sport2.png" group-title="Latvia",|LV|  GO3 SPORT 2 FHD
+http://lordstreams.live:80/joe/joe/840868
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport2.lv" tvg-name="|LV|  GO3 SPORT 2 HD" tvg-logo="https://logo.m3uassets.com/go3sport2.png" group-title="Latvia",|LV|  GO3 SPORT 2 HD
+http://lordstreams.live:80/joe/joe/840867
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport3.lv" tvg-name="LV| GO3 SPORT 3 FHD" tvg-logo="https://logo.m3uassets.com/go3sport3.png" group-title="Latvia",LV| GO3 SPORT 3 FHD
+http://lordstreams.live:80/joe/joe/840866
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport3.lv" tvg-name="|LV|  GO3 SPORT 3 FHD" tvg-logo="https://logo.m3uassets.com/go3sport3.png" group-title="Latvia",|LV|  GO3 SPORT 3 FHD
+http://lordstreams.live:80/joe/joe/840865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3sport3.lv" tvg-name="|LV|  GO3 SPORT 3 HD" tvg-logo="https://logo.m3uassets.com/go3sport3.png" group-title="Latvia",|LV|  GO3 SPORT 3 HD
+http://lordstreams.live:80/joe/joe/840864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="setantasport1.lv" tvg-name="LV| SETANTA SPORT 1 FHD" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-title="Latvia",LV| SETANTA SPORT 1 FHD
+http://lordstreams.live:80/joe/joe/840863
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="setantasports1.lv" tvg-name="|LV|  SETANTA SPORTS 1 FHD" tvg-logo="https://logo.m3uassets.com/setantasports1.png" group-title="Latvia",|LV|  SETANTA SPORTS 1 FHD
+http://lordstreams.live:80/joe/joe/840862
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="setantasports1.lv" tvg-name="|LV|  SETANTA SPORTS 1 HD" tvg-logo="https://logo.m3uassets.com/setantasports1.png" group-title="Latvia",|LV|  SETANTA SPORTS 1 HD
+http://lordstreams.live:80/joe/joe/840861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="setantasports2.lv" tvg-name="|LV|  SETANTA SPORTS 2 FHD" tvg-logo="https://logo.m3uassets.com/setantasports2.png" group-title="Latvia",|LV|  SETANTA SPORTS 2 FHD
+http://lordstreams.live:80/joe/joe/840860
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="setantasports2.lv" tvg-name="|LV|  SETANTA SPORTS 2 HD" tvg-logo="https://logo.m3uassets.com/setantasports2.png" group-title="Latvia",|LV|  SETANTA SPORTS 2 HD
+http://lordstreams.live:80/joe/joe/840859
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="best4sporttv.lv" tvg-name="LV| BEST4SPORT TV FHD" tvg-logo="https://logo.m3uassets.com/best4sporttv.png" group-title="Latvia",LV| BEST4SPORT TV FHD
+http://lordstreams.live:80/joe/joe/840858
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="best4sporttv.lv" tvg-name="|LV|  BEST4SPORT TV FHD" tvg-logo="https://logo.m3uassets.com/best4sporttv.png" group-title="Latvia",|LV|  BEST4SPORT TV FHD
+http://lordstreams.live:80/joe/joe/840857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="best4sporttv.lv" tvg-name="|LV|  BEST4SPORT TV HD" tvg-logo="https://logo.m3uassets.com/best4sporttv.png" group-title="Latvia",|LV|  BEST4SPORT TV HD
+http://lordstreams.live:80/joe/joe/840856
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="best4sporttv2.lv" tvg-name="LV| BEST4SPORT TV 2 FHD" tvg-logo="https://logo.m3uassets.com/best4sporttv2.png" group-title="Latvia",LV| BEST4SPORT TV 2 FHD
+http://lordstreams.live:80/joe/joe/840855
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="best4sporttv.lv.minus2" tvg-name="|LV|  BEST4SPORT TV-2 FHD" tvg-logo="https://logo.m3uassets.com/best4sporttv.png" group-title="Latvia",|LV|  BEST4SPORT TV-2 FHD
+http://lordstreams.live:80/joe/joe/840854
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="best4sporttv.lv.minus2" tvg-name="|LV|  BEST4SPORT TV-2 HD" tvg-logo="https://logo.m3uassets.com/best4sporttv.png" group-title="Latvia",|LV|  BEST4SPORT TV-2 HD
+http://lordstreams.live:80/joe/joe/840853
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.lv" tvg-name="|LV|  EUROSPORT 1 FHD" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Latvia",|LV|  EUROSPORT 1 FHD
+http://lordstreams.live:80/joe/joe/840852
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.lv" tvg-name="|LV|  EUROSPORT 1 HD" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Latvia",|LV|  EUROSPORT 1 HD
+http://lordstreams.live:80/joe/joe/840851
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.lv" tvg-name="|LV|  EUROSPORT 2 FHD" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Latvia",|LV|  EUROSPORT 2 FHD
+http://lordstreams.live:80/joe/joe/840850
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.lv" tvg-name="|LV|  EUROSPORT 2 HD" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Latvia",|LV|  EUROSPORT 2 HD
+http://lordstreams.live:80/joe/joe/840849
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightsports.lv" tvg-name="LV| FIGHT SPORTS FHD" tvg-logo="https://logo.m3uassets.com/fightsports.png" group-title="Latvia",LV| FIGHT SPORTS FHD
+http://lordstreams.live:80/joe/joe/840848
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightsports.lv" tvg-name="|LV|  FIGHT SPORTS FHD" tvg-logo="https://logo.m3uassets.com/fightsports.png" group-title="Latvia",|LV|  FIGHT SPORTS FHD
+http://lordstreams.live:80/joe/joe/840847
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightsports.lv" tvg-name="|LV|  FIGHT SPORTS HD" tvg-logo="https://logo.m3uassets.com/fightsports.png" group-title="Latvia",|LV|  FIGHT SPORTS HD
+http://lordstreams.live:80/joe/joe/840846
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3films.lv" tvg-name="|LV|  GO3 FILMS FHD" tvg-logo="https://logo.m3uassets.com/go3films.png" group-title="Latvia",|LV|  GO3 FILMS FHD
+http://lordstreams.live:80/joe/joe/840845
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="go3films.lv" tvg-name="|LV|  GO3 FILMS HD" tvg-logo="https://logo.m3uassets.com/go3films.png" group-title="Latvia",|LV|  GO3 FILMS HD
+http://lordstreams.live:80/joe/joe/840844
