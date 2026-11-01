@@ -2,11 +2,14 @@
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.nz" tvg-name="|NZ| Sky Sport 1 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="New Zealand",|NZ| Sky Sport 1 FHD 50FPS
 http://lordstreams.live:80/Click11/6700091/251423.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports501.au" tvg-name="|AU| FOX Sports 501 HD" tvg-logo="https://logo.m3uassets.com/foxsports501.png" group-title="Australia",|AU| FOX Sports 501 HD
-http://lordstreams.live:80/joe/joe/152324
+http://lordstreams.live:80/Click11/6700091/152324.ts
+#http://lordstreams.live:80/joe/joe/152324
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports502.au" tvg-name="|AU| FOX Sports 502 HD" tvg-logo="https://logo.m3uassets.com/foxsports502.png" group-title="Australia",|AU| FOX Sports 502 HD
-http://lordstreams.live:80/joe/joe/152323
+http://lordstreams.live:80/Click11/6700091/152323.ts
+#http://lordstreams.live:80/joe/joe/152323
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports503.au" tvg-name="|AU| FOX Sports 503 HD" tvg-logo="https://logo.m3uassets.com/foxsports503.png" group-title="Australia",|AU| FOX Sports 503 HD
-http://lordstreams.live:80/joe/joe/152322
+http://lordstreams.live:80/Click11/6700091/152322.ts
+#http://lordstreams.live:80/joe/joe/152322
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports504.au" tvg-name="|AU| FOX Sports 504 HD" tvg-logo="https://logo.m3uassets.com/foxsports504.png" group-title="Australia",|AU| FOX Sports 504 HD
 http://lordstreams.live:80/joe/joe/152321
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports505.au" tvg-name="|AU| FOX Sports 505 HD" tvg-logo="http://xplatinmedia.com:8080/images/9797d86f0e59f10d104a45508d92d888.png" group-title="Australia",|AU| FOX Sports 505 HD
