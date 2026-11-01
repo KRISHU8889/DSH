@@ -1,1 +1,12 @@
-
+#EXTM3U
+#EXTM3U x-tvg-url="https://tsepg.cf/epg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
+#EXTM3U x-tvg-url="https://kliv.in/jiotv-epg"
+#EXTM3U x-tvg-url="https://kliv.in/airtel-epg"
+##EXTM3U x-tvg-url="https://kliv.in/tplay-epg"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ediaokgxtk.xml.gz"
+#EXTM3U x-tvg-url="https://rb.gy/hspor2"
+#EXTINF:-1 xui-id="1076" tvg-id="" tvg-name="Star Sports 1 Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz74y69eZ0jHlLViGOdol6fcdK8viJpAcAOsSiuSc1kA&s=10" group-title="INDIAN CRICKET",Star Sports 1 Telugu
+http://true4k.top:8080/play/M7hZBE4nBJfrKZ8QJnyIT_4hdTADs-khKAFQ7ba3vNs/ts
+#EXTINF:-1 xui-id="1079" tvg-id="" tvg-name="Star Sports 2 Telugu" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/06f9f4b7e9af4ac98dbaadb049c8ef7c/version/0/width/1600/height/900" group-title="INDIAN CRICKET",Star Sports 2 Telugu
+http://true4k.top:8080/play/M7hZBE4nBJfrKZ8QJnyIT_Y8QJ-Az7MneC_o9AyKR-4/ts
