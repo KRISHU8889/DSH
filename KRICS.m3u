@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CLvFQlH72RrIbEgS5AcM-mf_owdM8HXCmz0O2jRMvvRKS8TMR1Rbg4g&s=10" group-title="",WWE HD
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.nz" tvg-name="|NZ| Sky Sport 1 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="New Zealand",|NZ| Sky Sport 1 FHD 50FPS
-http://livebox.pro/live/ham123/ham123/251423.m3u8
+http://lordstreams.live:80/joe/joe/251423
+#http://livebox.pro/live/ham123/ham123/251423.m3u8
 #http://lordstreams.live:80/ham123/ham123/251423
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports501.au" tvg-name="|AU| FOX Sports 501 HD" tvg-logo="https://logo.m3uassets.com/foxsports501.png" group-title="Australia",|AU| FOX Sports 501 HD
 http://lordstreams.live:80/Click11/6700091/152324.ts
