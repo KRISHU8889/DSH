@@ -31,6 +31,16 @@ https://sflex.fun/SFlex-StarShare/98894.m3u8
 #KODIPROP:http-referrer="http://starhub.pro"
 #KODIPROP:http-origin="http://starhub.pro/"
 https://sflex.fun/SFlex-StarShare/98896.m3u8
+#EXTINF:-1 tvg-id="177843" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/177843.m3u8
+#EXTINF:-1 tvg-id="1080" tvg-logo="http://greenpa1.com/ss3.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 3 ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/1080.m3u8
 #EXTINF:-1 tvg-id="98864" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: STAR SPORTS 1 (4K).
 #KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
 #KODIPROP:http-referrer="http://starhub.pro"
@@ -86,6 +96,56 @@ https://sflex.fun/SFlex-StarShare/1856.m3u8
 #KODIPROP:http-referrer="http://starhub.pro"
 #KODIPROP:http-origin="http://starhub.pro/"
 https://sflex.fun/SFlex-StarShare/158442.m3u8
+#EXTINF:-1 tvg-id="148" tvg-logo="http://greenpa1.com/starsports1.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 1 ENG ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/148.m3u8
+#EXTINF:-1 tvg-id="9397" tvg-logo="http://greenpa1.com/starsports1.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 1 ENG ᶠᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/9397.m3u8
+#EXTINF:-1 tvg-id="124281" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 1 ENG ⁴ᵏ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/124281.m3u8
+#EXTINF:-1 tvg-id="239" tvg-logo="http://greenpa1.com/starsports2.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/239.m3u8
+#EXTINF:-1 tvg-id="9398" tvg-logo="http://greenpa1.com/starsports2.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 2 ENGLISH ᶠᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/9398.m3u8
+#EXTINF:-1 tvg-id="124284" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 2 ENGLISH ⁴ᵏ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/124284.m3u8
+#EXTINF:-1 tvg-id="211" tvg-logo="http://greenpa1.com/ssh1.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 1 HINDI ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/211.m3u8
+#EXTINF:-1 tvg-id="9399" tvg-logo="http://greenpa1.com/ssh1.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 1 HINDI ᶠᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/9399.m3u8
+#EXTINF:-1 tvg-id="124287" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 1 HINDI ⁴ᵏ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/124287.m3u8
+#EXTINF:-1 tvg-id="238" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS SELECT 1 ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/238.m3u8
 #EXTINF:-1 tvg-id="2496" tvg-logo="http://greenpa1.com/ssc.png" group-title="SPORTS | CRICKET",CRIC || SUPERSPORTS ᴴᴰ
 #KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
 #KODIPROP:http-referrer="http://starhub.pro"
@@ -101,6 +161,66 @@ https://sflex.fun/SFlex-StarShare/12.m3u8
 #KODIPROP:http-referrer="http://starhub.pro"
 #KODIPROP:http-origin="http://starhub.pro/"
 https://sflex.fun/SFlex-StarShare/23566.m3u8
+#EXTINF:-1 tvg-id="114479" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | CRICKET",CRIC || SKY SPORTS CRIC ⁴ᵏ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/114479.m3u8
+#EXTINF:-1 tvg-id="148801" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS SELECT 2 ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/148801.m3u8
+#EXTINF:-1 tvg-id="9722" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/9722.m3u8
+#EXTINF:-1 tvg-id="124269" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | CRICKET",CRIC || SKY SPORTS CRIC ⁴ᵏ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/124269.m3u8
+#EXTINF:-1 tvg-id="2494" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="SPORTS | CRICKET",CRIC || ASTRO CRICKET ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/2494.m3u8
+#EXTINF:-1 tvg-id="215" tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS | CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/215.m3u8
+#EXTINF:-1 tvg-id="23943" tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS | CRICKET",CRIC || WILLOW SPORTS Cricbuzz ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/23943.m3u8
+#EXTINF:-1 tvg-id="5040" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="SPORTS | CRICKET",CRIC || WILLOW 2 ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/5040.m3u8
+#EXTINF:-1 tvg-id="23564" tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",TNT SPORT 1
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/23564.m3u8
+#EXTINF:-1 tvg-id="23565" tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",TNT SPORT 2.
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/23565.m3u8
+#EXTINF:-1 tvg-id="148090" tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS | CRICKET",CRIC || TNT SPORTS 3 ᶠᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/148090.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="SPORTS | CRICKET",CRIC || TEN SPORTS ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/98.m3u8
 #EXTINF:-1 xui-id="1076" tvg-id="" tvg-name="Star Sports 1 Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz74y69eZ0jHlLViGOdol6fcdK8viJpAcAOsSiuSc1kA&s=10" group-title="INDIAN CRICKET",Star Sports 1 Telugu
 http://true4k.top:8080/play/M7hZBE4nBJfrKZ8QJnyIT_4hdTADs-khKAFQ7ba3vNs/ts
 #EXTINF:-1 xui-id="1079" tvg-id="" tvg-name="Star Sports 2 Telugu" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/06f9f4b7e9af4ac98dbaadb049c8ef7c/version/0/width/1600/height/900" group-title="INDIAN CRICKET",Star Sports 2 Telugu
