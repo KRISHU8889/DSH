@@ -56,6 +56,36 @@ https://sflex.fun/SFlex-StarShare/98865.m3u8
 #KODIPROP:http-referrer="http://starhub.pro"
 #KODIPROP:http-origin="http://starhub.pro/"
 https://sflex.fun/SFlex-StarShare/98866.m3u8
+#EXTINF:-1 tvg-id="154" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="SPORTS | CRICKET",CRIC || SONY SPORTS 1 ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/154.m3u8
+#EXTINF:-1 tvg-id="192" tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | FOOTBALL",SONY Ten 2 HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/192.m3u8
+#EXTINF:-1 tvg-id="31314" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="SPORTS | CRICKET",CRIC || SONY SPORTS 2 ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/31314.m3u8
+#EXTINF:-1 tvg-id="146" tvg-logo="http://greenpa1.com/sonyten3.png" group-title="SPORTS | CRICKET",CRIC || SONY SPORTS 3 ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/146.m3u8
+#EXTINF:-1 tvg-id="29469" tvg-logo="http://greenpa1.com/sonyten4.png" group-title="SPORTS | CRICKET",CRIC || SONY SPORTS 4 TAMIL
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/29469.m3u8
+#EXTINF:-1 tvg-id="176" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="SPORTS | CRICKET",CRIC || SONY SPORTS 5 ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/176.m3u8
 #EXTINF:-1 tvg-id="98867" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: STAR SPORTS SELECT 1 (4K).
 #KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
 #KODIPROP:http-referrer="http://starhub.pro"
