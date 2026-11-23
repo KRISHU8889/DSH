@@ -221,6 +221,21 @@ https://sflex.fun/SFlex-StarShare/148090.m3u8
 #KODIPROP:http-referrer="http://starhub.pro"
 #KODIPROP:http-origin="http://starhub.pro/"
 https://sflex.fun/SFlex-StarShare/98.m3u8
+#EXTINF:-1 tvg-id="18452" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="SPORTS | CRICKET",CRIC || T SPORTS ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/18452.m3u8
+#EXTINF:-1 tvg-id="130714" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="SPORTS | CRICKET",CRIC || T SPORTS ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/130714.m3u8
+#EXTINF:-1 tvg-id="1039" tvg-logo="http://greenpa1.com/rta.png" group-title="SPORTS | CRICKET",CRIC || RTA SPORTS ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/1039.m3u8
 #EXTINF:-1 xui-id="1076" tvg-id="" tvg-name="Star Sports 1 Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz74y69eZ0jHlLViGOdol6fcdK8viJpAcAOsSiuSc1kA&s=10" group-title="INDIAN CRICKET",Star Sports 1 Telugu
 http://true4k.top:8080/play/M7hZBE4nBJfrKZ8QJnyIT_4hdTADs-khKAFQ7ba3vNs/ts
 #EXTINF:-1 xui-id="1079" tvg-id="" tvg-name="Star Sports 2 Telugu" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/06f9f4b7e9af4ac98dbaadb049c8ef7c/version/0/width/1600/height/900" group-title="INDIAN CRICKET",Star Sports 2 Telugu
