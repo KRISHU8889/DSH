@@ -196,6 +196,26 @@ https://sflex.fun/SFlex-StarShare/23566.m3u8
 #KODIPROP:http-referrer="http://starhub.pro"
 #KODIPROP:http-origin="http://starhub.pro/"
 https://sflex.fun/SFlex-StarShare/114479.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="SPORTS | CRICKET",CRI: SONY ESPN HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/155.m3u8
+#EXTINF:-1 tvg-id="150854" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORTS | CRICKET",CRIC || SKY SPORT 1 ᶠᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/150854.m3u8
+#EXTINF:-1 tvg-id="24018" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORTS | CRICKET",CRIC || SKY SPORT 3 ᶠᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/24018.m3u8
+#EXTINF:-1 tvg-id="216" tvg-logo="https://static.epg.best/no/Eurosport1.no.png" group-title="SPORTS | CRICKET",CRIC || EUROSPORTS ᴴᴰ
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/216.m3u8
 #EXTINF:-1 tvg-id="148801" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS | CRICKET",CRIC || STAR SPORTS SELECT 2 ᴴᴰ
 #KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
 #KODIPROP:http-referrer="http://starhub.pro"
