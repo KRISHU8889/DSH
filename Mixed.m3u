@@ -6,6 +6,11 @@
 ##EXTM3U x-tvg-url="https://kliv.in/tplay-epg"
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ediaokgxtk.xml.gz"
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
+#EXTINF:-1 tvg-id="98886" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU | TV",Telugu: STAR-MAA (4K).
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/98886.m3u8
 #EXTINF:-1 xui-id="1076" tvg-id="" tvg-name="Star Sports 1 Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz74y69eZ0jHlLViGOdol6fcdK8viJpAcAOsSiuSc1kA&s=10" group-title="INDIAN CRICKET",Star Sports 1 Telugu
 http://true4k.top:8080/play/M7hZBE4nBJfrKZ8QJnyIT_4hdTADs-khKAFQ7ba3vNs/ts
 #EXTINF:-1 xui-id="1079" tvg-id="" tvg-name="Star Sports 2 Telugu" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/06f9f4b7e9af4ac98dbaadb049c8ef7c/version/0/width/1600/height/900" group-title="INDIAN CRICKET",Star Sports 2 Telugu
