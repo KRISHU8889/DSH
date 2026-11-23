@@ -441,6 +441,91 @@ https://sflex.fun/SFlex-StarShare/172368.m3u8
 #KODIPROP:http-referrer="http://starhub.pro"
 #KODIPROP:http-origin="http://starhub.pro/"
 https://sflex.fun/SFlex-StarShare/37074.m3u8
+#EXTINF:-1 tvg-id="4082" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA | HINDI MOVIES",IN: &XPLOR (4K)
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/4082.m3u8
+#EXTINF:-1 tvg-id="20648" tvg-logo="http://geo-iptv.com/channels_icon/74966722731.png" group-title="INDIA | HINDI MOVIES",IN: & XPLOR (FHD)
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/20648.m3u8
+#EXTINF:-1 tvg-id="20512" tvg-logo="https://i.ibb.co/2SJhd6X/images.png" group-title="INDIA | HINDI MOVIES",IN: MBC BOLLYWOOD (FHD)
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/20512.m3u8
+#EXTINF:-1 tvg-id="979" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="INDIA | ENGLISH MOVIES",IN: STAR MOVIES HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/979.m3u8
+#EXTINF:-1 tvg-id="218" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a38ead0e79178b5f14/1565806488322/55fb00a38ead0e79178b5f14.jpg" group-title="INDIA | ENGLISH MOVIES",IN: STAR MOVIES SELECT HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/218.m3u8
+#EXTINF:-1 tvg-id="147" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="INDIA | ENGLISH MOVIES",IN: SONY PIX HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/147.m3u8
+#EXTINF:-1 tvg-id="178" tvg-logo="" group-title="INDIA | ENGLISH MOVIES",IN: MN PLUS
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/178.m3u8
+#EXTINF:-1 tvg-id="191" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg" group-title="INDIA | ENGLISH MOVIES",IN: MNX HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/191.m3u8
+#EXTINF:-1 tvg-id="185" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="INDIA | ENGLISH MOVIES",IN: HBO 2 HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/185.m3u8
+#EXTINF:-1 tvg-id="187" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="INDIA | ENGLISH MOVIES",IN: COLORS INFINITY HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/187.m3u8
+#EXTINF:-1 tvg-id="180" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" group-title="INDIA | DOCUMENTARY",IN: HISTORY HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/180.m3u8
+#EXTINF:-1 tvg-id="5252" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" group-title="INDIA | DOCUMENTARY",IN: HISTORY 18 (HINDI)
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/5252.m3u8
+#EXTINF:-1 tvg-id="156" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Discovery_HD_World.png/revision/latest?cb=20190102093400" group-title="INDIA | DOCUMENTARY",IN: DISCOVERY WORLD HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/156.m3u8
+#EXTINF:-1 tvg-id="7342" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" group-title="INDIA | DOCUMENTARY",IN: NATIONAL GEOGRAPHIC INDIA
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/7342.m3u8
+#EXTINF:-1 tvg-id="7343" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" group-title="INDIA | DOCUMENTARY",IN: NATIONAL GEOGRAPHIC
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/7343.m3u8
+#EXTINF:-1 tvg-id="7344" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIA | DOCUMENTARY",IN: NATGEO WILD HD
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/7344.m3u8
+#EXTINF:-1 tvg-id="174" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="INDIA | DOCUMENTARY",IN: SONY BBC EARTH HD (ENG)
+#KODIPROP:http-user-agent=Mozilla/5.0 (StreamFlex0719; U; Linux; C)
+#KODIPROP:http-referrer="http://starhub.pro"
+#KODIPROP:http-origin="http://starhub.pro/"
+https://sflex.fun/SFlex-StarShare/174.m3u8
 #EXTINF:-1 xui-id="1076" tvg-id="" tvg-name="Star Sports 1 Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz74y69eZ0jHlLViGOdol6fcdK8viJpAcAOsSiuSc1kA&s=10" group-title="INDIAN CRICKET",Star Sports 1 Telugu
 http://true4k.top:8080/play/M7hZBE4nBJfrKZ8QJnyIT_4hdTADs-khKAFQ7ba3vNs/ts
 #EXTINF:-1 xui-id="1079" tvg-id="" tvg-name="Star Sports 2 Telugu" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/06f9f4b7e9af4ac98dbaadb049c8ef7c/version/0/width/1600/height/900" group-title="INDIAN CRICKET",Star Sports 2 Telugu
