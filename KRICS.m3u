@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789898731_sirte%20cable%20png.png" group-title="LOCAL", SITI CABLE WGL
+https://vvsolutions-server14.in/siticablefolk_32/tracks-v1a1/mono.m3u8
+#https://vvsolutions-server14.in/siticablefolk_32/video.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment",Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
