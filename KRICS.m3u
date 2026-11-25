@@ -27,6 +27,11 @@ https://d1qkhu31k9gfli.cloudfront.net/v1/a801314f85894ba289029d23aae579a7/airt16
 https://geminimovieshd.akamaized.net/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1363&token=6HBwPa
+#EXTINF:-1 tvg-id="1363" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" CATCH-UP-FAILED="null" group-title="Telugu",Zee Cinemalu HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=1363
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1363&token=6HBwPa
 #EXTINF:-1 tvg-id="1363" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" CATCH-UP-FAILED="null" group-title="Movies",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/6HBwPa/Jtv.mpd?id=1363
