@@ -745,30 +745,37 @@ http://live14p.hotstar.com/cmaf/live/2024716/inallow-indvsafg-2026/tel/154007148
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3278
 https://servertvhub.site/jiotv+/mpd.php?id=3278
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
+http://livebox.pro/live/362829000761/99559955/177843.m3u8
 http://fastshare1.com:8080/live/Jen12345/Jen54321/177843.ts
 http://premimum.online:8080/live/Jen12345/Jen54321/177843.ts
 https://premiumtvs.space:8080/live/Jen12345/Jen54321/177843.ts 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRYHEMQYeLXCmJWYTlvStaNJ56XFm2tZeWlFuzJZPHtsUgeGkrfy2iTs&s=10" group-title="SPORTS", STAR 4K
+http://livebox.pro/live/362829000761/99559955/333368.m3u8
 http://fastshare1.com:8080/live/Jen12345/Jen54321/333368.ts
 http://premimum.online:8080/live/Jen12345/Jen54321/333368.ts
 https://premiumtvs.space:8080/live/Jen12345/Jen54321/333368.ts 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" group-title="SPORTS", STAR SPORTS 2 TELUGU HD
+http://livebox.pro/live/362829000761/99559955/379755.m3u8
 http://fastshare1.com:8080/live/Jen12345/Jen54321/379755.ts
 http://premimum.online:8080/live/Jen12345/Jen54321/379755.ts
 https://premiumtvs.space:8080/live/Jen12345i/Jen54321/379755.ts
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
+http://livebox.pro/live/362829000761/99559955/177843.m3u8
 http://starshare.fans:8080/live/Jen12345/Jen54321/177843.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRYHEMQYeLXCmJWYTlvStaNJ56XFm2tZeWlFuzJZPHtsUgeGkrfy2iTs&s=10" group-title="SPORTS", STAR 4K2
 http://starshare.fans:8080/live/Jen12345/Jen54321/333368.ts
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" group-title="SPORTS", STAR SPORTS 2 TELUGU HD
+http://livebox.pro/live/362829000761/99559955/379755.m3u8
 http://starshare.fans:8080/live/Jen12345/Jen54321/379755.ts
 #EXTINF:-1 tvg-id="fifa47" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 1 HD - Tplay
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeecafehd
 #EXTINF:-1 tvg-id="745202" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
 https://servertvhub.site/zee5(new)/playlist.php?id=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Telugu HD (1080p)
+http://livebox.pro/live/362829000761/99559955/98894.m3u8
 http://starshare.fans:8080/live/Jen12345/Jen54321/98894.ts
 #EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="JioTv+ TELUGU",Maa HD
+http://livebox.pro/live/362829000761/99559955/98896.m3u8
 http://fastshare1.com:8080/live/Jen12345/Jen54321/98886.ts 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
@@ -836,7 +843,8 @@ https://mumbai-edge.smartplaytv.in/KTVNEWMOVIES/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/lOIO0lI0LIlliiL1lO0Iio/manifest.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold
-http://fastshare1.com:8080/live/Jen12345/Jen54321/9043.ts
+http://livebox.pro/live/362829000761/99559955/9043.m3u8
+#http://fastshare1.com:8080/live/Jen12345/Jen54321/9043.ts
 http://premimum.online:8080/live/Jen12345/Jen54321/9043.ts
 https://premiumtvs.space:8080/live/Jen12345/Jen54321/9043.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
