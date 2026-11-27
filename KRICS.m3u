@@ -82,7 +82,9 @@ http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQFbgs24zIVqeg/company-logo_200_200/company-logo_200_200/0/1630625392514?e=2147483647&v=beta&t=v8_ABKXGqz6r9iz5WG1XZAcJ0zX0gFkTPv5IOvAXXfI" group-title="Telugu Local Channel",Public Tv
 https://publictvtelugu.co.in/publictv_1/tracks-v1a1/mono.m3u8
 #https://publictvtelugu.co.in/publictv_1/video.m3u8
-
+#EXTINF:-1 tvg-name="gs channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788412018_gs.png" group-title="Local TV",gs channel
+https://shivaganeshtelicom.in/gschannel/tracks-v1a1/mono.m3u8
+#https://shivaganeshtelicom.in/gschannel/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CLvFQlH72RrIbEgS5AcM-mf_owdM8HXCmz0O2jRMvvRKS8TMR1Rbg4g&s=10" group-title="",WWE HD
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.nz" tvg-name="|NZ| Sky Sport 1 FHD 50FPS" tvg-logo="https://logo.m3uassets.com/skysport1.png" group-title="New Zealand",|NZ| Sky Sport 1 FHD 50FPS
