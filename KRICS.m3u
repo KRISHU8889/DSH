@@ -69,7 +69,7 @@ https://vvsolutions-server14.in/siticablefolk_32/tracks-v1a1/mono.m3u8
 #https://vvsolutions-server14.in/siticablefolk_32/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/05/ChatGPT-Image-May-13-2026-10_02_22-PM-1-185x278.png" group-title="Local Channels",Devi Cable Channel
 https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Gtpl karimnagar 
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/GTPL_LOGO_HIGH_RESOLUTION.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Gtpl karimnagar 
 http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8 
 #EXTINF:-1 tvg-name="KCN PRATHYAKSHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IJIqK5rAALY2G4UJzvsziUokiNX-URe_IXy2QZ-Wz4uiDK1966iUc2Q&s" group-title="LOCAL",KCN PRATHYAKSHA
 https://cloud.kcncable.in/hls/kcnprathyaksha/index.m3u8
